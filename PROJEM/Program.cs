@@ -1,7 +1,23 @@
+using Microsoft.AspNetCore.Builder;
+using Microsoft.AspNetCore.Hosting;
+using Microsoft.Extensions.Configuration;
+using Microsoft.Extensions.DependencyInjection;
+using Microsoft.Extensions.Hosting;
+using PROJEM.Data;
+using Microsoft.EntityFrameworkCore;
+
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
 builder.Services.AddControllersWithViews();
+
+builder.Services.AddDbContext<DataContext>(options =>
+{
+    var config = builder.Configuration;
+    var connectionString = config.GetConnectionString("database");
+
+    options.UseSqlite(connectionString); // Burada uygun bir veritabanı sağlayıcısı seçmelisiniz.
+});
 
 var app = builder.Build();
 

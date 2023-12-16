@@ -1,0 +1,51 @@
+.container{
+
+    margin-top: 50px;
+    border: 2px solid #df4343;
+    padding-top: 20px;
+    border-radius: 10px;
+    height: 450px;
+    width: 700px;
+    margin-left: 270px;
+
+}
+.container1{
+    margin-top: 50px;
+    border: 2px solid #df4343;
+    padding-top: 20px;
+    border-radius: 10px;
+    height: 450px;
+    width: 700px;
+    margin-bottom: 50px ;
+    margin-left: 270px;
+    padding-left: 15px;
+}
+.Yorumlar{
+    margin-top: 20px ;
+    margin-left:70px ;
+    text-decoration: underline;
+    margin-bottom: 20px;
+}
+
+
+.comment-container {
+    border: 1px solid #8dc028;
+    padding: 10px;
+    margin-bottom: 40px; 
+    border-radius: 20px;
+    width: 900px; 
+    overflow-y: auto; 
+    white-space: pre-wrap; 
+    max-height: 200px; 
+}
+
+
+.comment-container h3 {
+    text-decoration: underline;
+    font-size: 11px;
+}
+
+.comment-container p.comment-text {
+    margin-top: 10px;
+    font-size: 16px;
+}

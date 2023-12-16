@@ -18,12 +18,8 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = /home/mertyuksel/MyMvcApp/MyMvcApp/PROJE/PROJEM/PROJEM
 build_property._RazorSourceGeneratorDebug = 
 
-[/home/mertyuksel/MyMvcApp/MyMvcApp/PROJE/PROJEM/PROJEM/Views/Home/Forum.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9Gb3J1bS5jc2h0bWw=
-build_metadata.AdditionalFiles.CssScope = 
-
-[/home/mertyuksel/MyMvcApp/MyMvcApp/PROJE/PROJEM/PROJEM/Views/Home/GirisYap.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9HaXJpc1lhcC5jc2h0bWw=
+[/home/mertyuksel/MyMvcApp/MyMvcApp/PROJE/PROJEM/PROJEM/Views/Forum/Forum.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvRm9ydW0vRm9ydW0uY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
 [/home/mertyuksel/MyMvcApp/MyMvcApp/PROJE/PROJEM/PROJEM/Views/Home/Index.cshtml]
@@ -34,16 +30,24 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9Qcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/home/mertyuksel/MyMvcApp/MyMvcApp/PROJE/PROJEM/PROJEM/Views/Home/UyeOl.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9VeWVPbC5jc2h0bWw=
-build_metadata.AdditionalFiles.CssScope = 
-
 [/home/mertyuksel/MyMvcApp/MyMvcApp/PROJE/PROJEM/PROJEM/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL0Vycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
 [/home/mertyuksel/MyMvcApp/MyMvcApp/PROJE/PROJEM/PROJEM/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/mertyuksel/MyMvcApp/MyMvcApp/PROJE/PROJEM/PROJEM/Views/Test/Test.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvVGVzdC9UZXN0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/mertyuksel/MyMvcApp/MyMvcApp/PROJE/PROJEM/PROJEM/Views/Uye/GirisYap.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvVXllL0dpcmlzWWFwLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/mertyuksel/MyMvcApp/MyMvcApp/PROJE/PROJEM/PROJEM/Views/Uye/UyeOl.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvVXllL1V5ZU9sLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
 [/home/mertyuksel/MyMvcApp/MyMvcApp/PROJE/PROJEM/PROJEM/Views/_ViewImports.cshtml]
