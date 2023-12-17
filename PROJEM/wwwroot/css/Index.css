@@ -1,0 +1,14 @@
+body {
+    margin-bottom: py-5; /* Footer yüksekliği kadar bir boşluk bırakır */
+}
+#carouselExampleControls {
+    max-width: 100%; /* Carousel'ın maksimum genişliğini belirle */
+    margin: auto; /* Merkezi hizalamak için */
+  }
+
+  .carousel-inner img {
+     /* Resimleri tam genişlikte göstermek için */
+    height: 650px; /* Oranları koruyarak yüksekliği otomatik ayarla */
+            
+  }
+  
