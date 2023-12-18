@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "LZKNDRtCtcgSPbCNyo2gI/LoOAJRtxA/vq8VZRvLIbM=",
+  "Hash": "aBDbA9DTINirh2SPJjcW/EwhX8xDxUPkvX2D2bP0bTs=",
   "Source": "PROJEM",
   "BasePath": "_content/PROJEM",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "PROJEM/wwwroot",
       "Source": "PROJEM",
-      "ContentRoot": "/home/mertyuksel/MyMvcApp/MyMvcApp/PROJE/PROJEM/PROJEM/wwwroot/",
+      "ContentRoot": "/home/mertyuksel/Desktop/FullStackBP/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/",
       "BasePath": "_content/PROJEM",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "/home/mertyuksel/MyMvcApp/MyMvcApp/PROJE/PROJEM/PROJEM/obj/Debug/net8.0/scopedcss/bundle/PROJEM.styles.css",
+      "Identity": "/home/mertyuksel/Desktop/FullStackBP/Full-Stack-Bitirme-Projesi/PROJEM/obj/Debug/net8.0/scopedcss/bundle/PROJEM.styles.css",
       "SourceId": "PROJEM",
       "SourceType": "Computed",
-      "ContentRoot": "/home/mertyuksel/MyMvcApp/MyMvcApp/PROJE/PROJEM/PROJEM/obj/Debug/net8.0/scopedcss/bundle/",
+      "ContentRoot": "/home/mertyuksel/Desktop/FullStackBP/Full-Stack-Bitirme-Projesi/PROJEM/obj/Debug/net8.0/scopedcss/bundle/",
       "BasePath": "_content/PROJEM",
       "RelativePath": "PROJEM.styles.css",
       "AssetKind": "All",
@@ -33,13 +33,13 @@
       "AssetTraitValue": "ApplicationBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "/home/mertyuksel/MyMvcApp/MyMvcApp/PROJE/PROJEM/PROJEM/obj/Debug/net8.0/scopedcss/bundle/PROJEM.styles.css"
+      "OriginalItemSpec": "/home/mertyuksel/Desktop/FullStackBP/Full-Stack-Bitirme-Projesi/PROJEM/obj/Debug/net8.0/scopedcss/bundle/PROJEM.styles.css"
     },
     {
-      "Identity": "/home/mertyuksel/MyMvcApp/MyMvcApp/PROJE/PROJEM/PROJEM/obj/Debug/net8.0/scopedcss/projectbundle/PROJEM.bundle.scp.css",
+      "Identity": "/home/mertyuksel/Desktop/FullStackBP/Full-Stack-Bitirme-Projesi/PROJEM/obj/Debug/net8.0/scopedcss/projectbundle/PROJEM.bundle.scp.css",
       "SourceId": "PROJEM",
       "SourceType": "Computed",
-      "ContentRoot": "/home/mertyuksel/MyMvcApp/MyMvcApp/PROJE/PROJEM/PROJEM/obj/Debug/net8.0/scopedcss/projectbundle/",
+      "ContentRoot": "/home/mertyuksel/Desktop/FullStackBP/Full-Stack-Bitirme-Projesi/PROJEM/obj/Debug/net8.0/scopedcss/projectbundle/",
       "BasePath": "_content/PROJEM",
       "RelativePath": "PROJEM.bundle.scp.css",
       "AssetKind": "All",
@@ -52,13 +52,32 @@
       "AssetTraitValue": "ProjectBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "/home/mertyuksel/MyMvcApp/MyMvcApp/PROJE/PROJEM/PROJEM/obj/Debug/net8.0/scopedcss/projectbundle/PROJEM.bundle.scp.css"
+      "OriginalItemSpec": "/home/mertyuksel/Desktop/FullStackBP/Full-Stack-Bitirme-Projesi/PROJEM/obj/Debug/net8.0/scopedcss/projectbundle/PROJEM.bundle.scp.css"
     },
     {
-      "Identity": "/home/mertyuksel/MyMvcApp/MyMvcApp/PROJE/PROJEM/PROJEM/wwwroot/coach.jpg",
+      "Identity": "/home/mertyuksel/Desktop/FullStackBP/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/Arteta(1).jpg",
       "SourceId": "PROJEM",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/mertyuksel/MyMvcApp/MyMvcApp/PROJE/PROJEM/PROJEM/wwwroot/",
+      "ContentRoot": "/home/mertyuksel/Desktop/FullStackBP/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/",
+      "BasePath": "_content/PROJEM",
+      "RelativePath": "Arteta(1).jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/Arteta(1).jpg"
+    },
+    {
+      "Identity": "/home/mertyuksel/Desktop/FullStackBP/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/coach.jpg",
+      "SourceId": "PROJEM",
+      "SourceType": "Discovered",
+      "ContentRoot": "/home/mertyuksel/Desktop/FullStackBP/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/",
       "BasePath": "_content/PROJEM",
       "RelativePath": "coach.jpg",
       "AssetKind": "All",
@@ -74,10 +93,10 @@
       "OriginalItemSpec": "wwwroot/coach.jpg"
     },
     {
-      "Identity": "/home/mertyuksel/MyMvcApp/MyMvcApp/PROJE/PROJEM/PROJEM/wwwroot/css/Forum.css",
+      "Identity": "/home/mertyuksel/Desktop/FullStackBP/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/css/Forum.css",
       "SourceId": "PROJEM",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/mertyuksel/MyMvcApp/MyMvcApp/PROJE/PROJEM/PROJEM/wwwroot/",
+      "ContentRoot": "/home/mertyuksel/Desktop/FullStackBP/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/",
       "BasePath": "_content/PROJEM",
       "RelativePath": "css/Forum.css",
       "AssetKind": "All",
@@ -93,10 +112,10 @@
       "OriginalItemSpec": "wwwroot/css/Forum.css"
     },
     {
-      "Identity": "/home/mertyuksel/MyMvcApp/MyMvcApp/PROJE/PROJEM/PROJEM/wwwroot/css/GirisYap.css",
+      "Identity": "/home/mertyuksel/Desktop/FullStackBP/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/css/GirisYap.css",
       "SourceId": "PROJEM",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/mertyuksel/MyMvcApp/MyMvcApp/PROJE/PROJEM/PROJEM/wwwroot/",
+      "ContentRoot": "/home/mertyuksel/Desktop/FullStackBP/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/",
       "BasePath": "_content/PROJEM",
       "RelativePath": "css/GirisYap.css",
       "AssetKind": "All",
@@ -112,10 +131,10 @@
       "OriginalItemSpec": "wwwroot/css/GirisYap.css"
     },
     {
-      "Identity": "/home/mertyuksel/MyMvcApp/MyMvcApp/PROJE/PROJEM/PROJEM/wwwroot/css/Index.css",
+      "Identity": "/home/mertyuksel/Desktop/FullStackBP/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/css/Index.css",
       "SourceId": "PROJEM",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/mertyuksel/MyMvcApp/MyMvcApp/PROJE/PROJEM/PROJEM/wwwroot/",
+      "ContentRoot": "/home/mertyuksel/Desktop/FullStackBP/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/",
       "BasePath": "_content/PROJEM",
       "RelativePath": "css/Index.css",
       "AssetKind": "All",
@@ -131,10 +150,10 @@
       "OriginalItemSpec": "wwwroot/css/Index.css"
     },
     {
-      "Identity": "/home/mertyuksel/MyMvcApp/MyMvcApp/PROJE/PROJEM/PROJEM/wwwroot/css/site.css",
+      "Identity": "/home/mertyuksel/Desktop/FullStackBP/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/css/site.css",
       "SourceId": "PROJEM",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/mertyuksel/MyMvcApp/MyMvcApp/PROJE/PROJEM/PROJEM/wwwroot/",
+      "ContentRoot": "/home/mertyuksel/Desktop/FullStackBP/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/",
       "BasePath": "_content/PROJEM",
       "RelativePath": "css/site.css",
       "AssetKind": "All",
@@ -150,10 +169,10 @@
       "OriginalItemSpec": "wwwroot/css/site.css"
     },
     {
-      "Identity": "/home/mertyuksel/MyMvcApp/MyMvcApp/PROJE/PROJEM/PROJEM/wwwroot/css/UyeOl.css",
+      "Identity": "/home/mertyuksel/Desktop/FullStackBP/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/css/UyeOl.css",
       "SourceId": "PROJEM",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/mertyuksel/MyMvcApp/MyMvcApp/PROJE/PROJEM/PROJEM/wwwroot/",
+      "ContentRoot": "/home/mertyuksel/Desktop/FullStackBP/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/",
       "BasePath": "_content/PROJEM",
       "RelativePath": "css/UyeOl.css",
       "AssetKind": "All",
@@ -169,10 +188,10 @@
       "OriginalItemSpec": "wwwroot/css/UyeOl.css"
     },
     {
-      "Identity": "/home/mertyuksel/MyMvcApp/MyMvcApp/PROJE/PROJEM/PROJEM/wwwroot/favicon.ico",
+      "Identity": "/home/mertyuksel/Desktop/FullStackBP/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/favicon.ico",
       "SourceId": "PROJEM",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/mertyuksel/MyMvcApp/MyMvcApp/PROJE/PROJEM/PROJEM/wwwroot/",
+      "ContentRoot": "/home/mertyuksel/Desktop/FullStackBP/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/",
       "BasePath": "_content/PROJEM",
       "RelativePath": "favicon.ico",
       "AssetKind": "All",
@@ -188,10 +207,10 @@
       "OriginalItemSpec": "wwwroot/favicon.ico"
     },
     {
-      "Identity": "/home/mertyuksel/MyMvcApp/MyMvcApp/PROJE/PROJEM/PROJEM/wwwroot/fifa.jpeg",
+      "Identity": "/home/mertyuksel/Desktop/FullStackBP/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/fifa.jpeg",
       "SourceId": "PROJEM",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/mertyuksel/MyMvcApp/MyMvcApp/PROJE/PROJEM/PROJEM/wwwroot/",
+      "ContentRoot": "/home/mertyuksel/Desktop/FullStackBP/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/",
       "BasePath": "_content/PROJEM",
       "RelativePath": "fifa.jpeg",
       "AssetKind": "All",
@@ -207,10 +226,10 @@
       "OriginalItemSpec": "wwwroot/fifa.jpeg"
     },
     {
-      "Identity": "/home/mertyuksel/MyMvcApp/MyMvcApp/PROJE/PROJEM/PROJEM/wwwroot/js/Forum.js",
+      "Identity": "/home/mertyuksel/Desktop/FullStackBP/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/js/Forum.js",
       "SourceId": "PROJEM",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/mertyuksel/MyMvcApp/MyMvcApp/PROJE/PROJEM/PROJEM/wwwroot/",
+      "ContentRoot": "/home/mertyuksel/Desktop/FullStackBP/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/",
       "BasePath": "_content/PROJEM",
       "RelativePath": "js/Forum.js",
       "AssetKind": "All",
@@ -226,10 +245,10 @@
       "OriginalItemSpec": "wwwroot/js/Forum.js"
     },
     {
-      "Identity": "/home/mertyuksel/MyMvcApp/MyMvcApp/PROJE/PROJEM/PROJEM/wwwroot/js/site.js",
+      "Identity": "/home/mertyuksel/Desktop/FullStackBP/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/js/site.js",
       "SourceId": "PROJEM",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/mertyuksel/MyMvcApp/MyMvcApp/PROJE/PROJEM/PROJEM/wwwroot/",
+      "ContentRoot": "/home/mertyuksel/Desktop/FullStackBP/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/",
       "BasePath": "_content/PROJEM",
       "RelativePath": "js/site.js",
       "AssetKind": "All",
@@ -245,10 +264,10 @@
       "OriginalItemSpec": "wwwroot/js/site.js"
     },
     {
-      "Identity": "/home/mertyuksel/MyMvcApp/MyMvcApp/PROJE/PROJEM/PROJEM/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css",
+      "Identity": "/home/mertyuksel/Desktop/FullStackBP/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css",
       "SourceId": "PROJEM",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/mertyuksel/MyMvcApp/MyMvcApp/PROJE/PROJEM/PROJEM/wwwroot/",
+      "ContentRoot": "/home/mertyuksel/Desktop/FullStackBP/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/",
       "BasePath": "_content/PROJEM",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css",
       "AssetKind": "All",
@@ -264,10 +283,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css"
     },
     {
-      "Identity": "/home/mertyuksel/MyMvcApp/MyMvcApp/PROJE/PROJEM/PROJEM/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css.map",
+      "Identity": "/home/mertyuksel/Desktop/FullStackBP/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css.map",
       "SourceId": "PROJEM",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/mertyuksel/MyMvcApp/MyMvcApp/PROJE/PROJEM/PROJEM/wwwroot/",
+      "ContentRoot": "/home/mertyuksel/Desktop/FullStackBP/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/",
       "BasePath": "_content/PROJEM",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css.map",
       "AssetKind": "All",
@@ -283,10 +302,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css.map"
     },
     {
-      "Identity": "/home/mertyuksel/MyMvcApp/MyMvcApp/PROJE/PROJEM/PROJEM/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css",
+      "Identity": "/home/mertyuksel/Desktop/FullStackBP/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css",
       "SourceId": "PROJEM",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/mertyuksel/MyMvcApp/MyMvcApp/PROJE/PROJEM/PROJEM/wwwroot/",
+      "ContentRoot": "/home/mertyuksel/Desktop/FullStackBP/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/",
       "BasePath": "_content/PROJEM",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css",
       "AssetKind": "All",
@@ -302,10 +321,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css"
     },
     {
-      "Identity": "/home/mertyuksel/MyMvcApp/MyMvcApp/PROJE/PROJEM/PROJEM/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
+      "Identity": "/home/mertyuksel/Desktop/FullStackBP/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
       "SourceId": "PROJEM",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/mertyuksel/MyMvcApp/MyMvcApp/PROJE/PROJEM/PROJEM/wwwroot/",
+      "ContentRoot": "/home/mertyuksel/Desktop/FullStackBP/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/",
       "BasePath": "_content/PROJEM",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
       "AssetKind": "All",
@@ -321,10 +340,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css.map"
     },
     {
-      "Identity": "/home/mertyuksel/MyMvcApp/MyMvcApp/PROJE/PROJEM/PROJEM/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.css",
+      "Identity": "/home/mertyuksel/Desktop/FullStackBP/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.css",
       "SourceId": "PROJEM",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/mertyuksel/MyMvcApp/MyMvcApp/PROJE/PROJEM/PROJEM/wwwroot/",
+      "ContentRoot": "/home/mertyuksel/Desktop/FullStackBP/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/",
       "BasePath": "_content/PROJEM",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css",
       "AssetKind": "All",
@@ -340,10 +359,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.css"
     },
     {
-      "Identity": "/home/mertyuksel/MyMvcApp/MyMvcApp/PROJE/PROJEM/PROJEM/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map",
+      "Identity": "/home/mertyuksel/Desktop/FullStackBP/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map",
       "SourceId": "PROJEM",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/mertyuksel/MyMvcApp/MyMvcApp/PROJE/PROJEM/PROJEM/wwwroot/",
+      "ContentRoot": "/home/mertyuksel/Desktop/FullStackBP/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/",
       "BasePath": "_content/PROJEM",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map",
       "AssetKind": "All",
@@ -359,10 +378,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map"
     },
     {
-      "Identity": "/home/mertyuksel/MyMvcApp/MyMvcApp/PROJE/PROJEM/PROJEM/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css",
+      "Identity": "/home/mertyuksel/Desktop/FullStackBP/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css",
       "SourceId": "PROJEM",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/mertyuksel/MyMvcApp/MyMvcApp/PROJE/PROJEM/PROJEM/wwwroot/",
+      "ContentRoot": "/home/mertyuksel/Desktop/FullStackBP/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/",
       "BasePath": "_content/PROJEM",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css",
       "AssetKind": "All",
@@ -378,10 +397,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css"
     },
     {
-      "Identity": "/home/mertyuksel/MyMvcApp/MyMvcApp/PROJE/PROJEM/PROJEM/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map",
+      "Identity": "/home/mertyuksel/Desktop/FullStackBP/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map",
       "SourceId": "PROJEM",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/mertyuksel/MyMvcApp/MyMvcApp/PROJE/PROJEM/PROJEM/wwwroot/",
+      "ContentRoot": "/home/mertyuksel/Desktop/FullStackBP/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/",
       "BasePath": "_content/PROJEM",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map",
       "AssetKind": "All",
@@ -397,10 +416,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Identity": "/home/mertyuksel/MyMvcApp/MyMvcApp/PROJE/PROJEM/PROJEM/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css",
+      "Identity": "/home/mertyuksel/Desktop/FullStackBP/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css",
       "SourceId": "PROJEM",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/mertyuksel/MyMvcApp/MyMvcApp/PROJE/PROJEM/PROJEM/wwwroot/",
+      "ContentRoot": "/home/mertyuksel/Desktop/FullStackBP/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/",
       "BasePath": "_content/PROJEM",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css",
       "AssetKind": "All",
@@ -416,10 +435,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css"
     },
     {
-      "Identity": "/home/mertyuksel/MyMvcApp/MyMvcApp/PROJE/PROJEM/PROJEM/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css.map",
+      "Identity": "/home/mertyuksel/Desktop/FullStackBP/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css.map",
       "SourceId": "PROJEM",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/mertyuksel/MyMvcApp/MyMvcApp/PROJE/PROJEM/PROJEM/wwwroot/",
+      "ContentRoot": "/home/mertyuksel/Desktop/FullStackBP/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/",
       "BasePath": "_content/PROJEM",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css.map",
       "AssetKind": "All",
@@ -435,10 +454,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css.map"
     },
     {
-      "Identity": "/home/mertyuksel/MyMvcApp/MyMvcApp/PROJE/PROJEM/PROJEM/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css",
+      "Identity": "/home/mertyuksel/Desktop/FullStackBP/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css",
       "SourceId": "PROJEM",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/mertyuksel/MyMvcApp/MyMvcApp/PROJE/PROJEM/PROJEM/wwwroot/",
+      "ContentRoot": "/home/mertyuksel/Desktop/FullStackBP/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/",
       "BasePath": "_content/PROJEM",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css",
       "AssetKind": "All",
@@ -454,10 +473,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css"
     },
     {
-      "Identity": "/home/mertyuksel/MyMvcApp/MyMvcApp/PROJE/PROJEM/PROJEM/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
+      "Identity": "/home/mertyuksel/Desktop/FullStackBP/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
       "SourceId": "PROJEM",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/mertyuksel/MyMvcApp/MyMvcApp/PROJE/PROJEM/PROJEM/wwwroot/",
+      "ContentRoot": "/home/mertyuksel/Desktop/FullStackBP/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/",
       "BasePath": "_content/PROJEM",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
       "AssetKind": "All",
@@ -473,10 +492,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css.map"
     },
     {
-      "Identity": "/home/mertyuksel/MyMvcApp/MyMvcApp/PROJE/PROJEM/PROJEM/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css",
+      "Identity": "/home/mertyuksel/Desktop/FullStackBP/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css",
       "SourceId": "PROJEM",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/mertyuksel/MyMvcApp/MyMvcApp/PROJE/PROJEM/PROJEM/wwwroot/",
+      "ContentRoot": "/home/mertyuksel/Desktop/FullStackBP/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/",
       "BasePath": "_content/PROJEM",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css",
       "AssetKind": "All",
@@ -492,10 +511,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css"
     },
     {
-      "Identity": "/home/mertyuksel/MyMvcApp/MyMvcApp/PROJE/PROJEM/PROJEM/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map",
+      "Identity": "/home/mertyuksel/Desktop/FullStackBP/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map",
       "SourceId": "PROJEM",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/mertyuksel/MyMvcApp/MyMvcApp/PROJE/PROJEM/PROJEM/wwwroot/",
+      "ContentRoot": "/home/mertyuksel/Desktop/FullStackBP/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/",
       "BasePath": "_content/PROJEM",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map",
       "AssetKind": "All",
@@ -511,10 +530,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map"
     },
     {
-      "Identity": "/home/mertyuksel/MyMvcApp/MyMvcApp/PROJE/PROJEM/PROJEM/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css",
+      "Identity": "/home/mertyuksel/Desktop/FullStackBP/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css",
       "SourceId": "PROJEM",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/mertyuksel/MyMvcApp/MyMvcApp/PROJE/PROJEM/PROJEM/wwwroot/",
+      "ContentRoot": "/home/mertyuksel/Desktop/FullStackBP/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/",
       "BasePath": "_content/PROJEM",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css",
       "AssetKind": "All",
@@ -530,10 +549,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css"
     },
     {
-      "Identity": "/home/mertyuksel/MyMvcApp/MyMvcApp/PROJE/PROJEM/PROJEM/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map",
+      "Identity": "/home/mertyuksel/Desktop/FullStackBP/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map",
       "SourceId": "PROJEM",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/mertyuksel/MyMvcApp/MyMvcApp/PROJE/PROJEM/PROJEM/wwwroot/",
+      "ContentRoot": "/home/mertyuksel/Desktop/FullStackBP/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/",
       "BasePath": "_content/PROJEM",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map",
       "AssetKind": "All",
@@ -549,10 +568,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "Identity": "/home/mertyuksel/MyMvcApp/MyMvcApp/PROJE/PROJEM/PROJEM/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.css",
+      "Identity": "/home/mertyuksel/Desktop/FullStackBP/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.css",
       "SourceId": "PROJEM",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/mertyuksel/MyMvcApp/MyMvcApp/PROJE/PROJEM/PROJEM/wwwroot/",
+      "ContentRoot": "/home/mertyuksel/Desktop/FullStackBP/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/",
       "BasePath": "_content/PROJEM",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css",
       "AssetKind": "All",
@@ -568,10 +587,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.css"
     },
     {
-      "Identity": "/home/mertyuksel/MyMvcApp/MyMvcApp/PROJE/PROJEM/PROJEM/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.css.map",
+      "Identity": "/home/mertyuksel/Desktop/FullStackBP/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.css.map",
       "SourceId": "PROJEM",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/mertyuksel/MyMvcApp/MyMvcApp/PROJE/PROJEM/PROJEM/wwwroot/",
+      "ContentRoot": "/home/mertyuksel/Desktop/FullStackBP/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/",
       "BasePath": "_content/PROJEM",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css.map",
       "AssetKind": "All",
@@ -587,10 +606,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.css.map"
     },
     {
-      "Identity": "/home/mertyuksel/MyMvcApp/MyMvcApp/PROJE/PROJEM/PROJEM/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.min.css",
+      "Identity": "/home/mertyuksel/Desktop/FullStackBP/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.min.css",
       "SourceId": "PROJEM",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/mertyuksel/MyMvcApp/MyMvcApp/PROJE/PROJEM/PROJEM/wwwroot/",
+      "ContentRoot": "/home/mertyuksel/Desktop/FullStackBP/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/",
       "BasePath": "_content/PROJEM",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css",
       "AssetKind": "All",
@@ -606,10 +625,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.min.css"
     },
     {
-      "Identity": "/home/mertyuksel/MyMvcApp/MyMvcApp/PROJE/PROJEM/PROJEM/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.min.css.map",
+      "Identity": "/home/mertyuksel/Desktop/FullStackBP/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.min.css.map",
       "SourceId": "PROJEM",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/mertyuksel/MyMvcApp/MyMvcApp/PROJE/PROJEM/PROJEM/wwwroot/",
+      "ContentRoot": "/home/mertyuksel/Desktop/FullStackBP/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/",
       "BasePath": "_content/PROJEM",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css.map",
       "AssetKind": "All",
@@ -625,10 +644,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.min.css.map"
     },
     {
-      "Identity": "/home/mertyuksel/MyMvcApp/MyMvcApp/PROJE/PROJEM/PROJEM/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css",
+      "Identity": "/home/mertyuksel/Desktop/FullStackBP/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css",
       "SourceId": "PROJEM",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/mertyuksel/MyMvcApp/MyMvcApp/PROJE/PROJEM/PROJEM/wwwroot/",
+      "ContentRoot": "/home/mertyuksel/Desktop/FullStackBP/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/",
       "BasePath": "_content/PROJEM",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css",
       "AssetKind": "All",
@@ -644,10 +663,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css"
     },
     {
-      "Identity": "/home/mertyuksel/MyMvcApp/MyMvcApp/PROJE/PROJEM/PROJEM/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map",
+      "Identity": "/home/mertyuksel/Desktop/FullStackBP/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map",
       "SourceId": "PROJEM",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/mertyuksel/MyMvcApp/MyMvcApp/PROJE/PROJEM/PROJEM/wwwroot/",
+      "ContentRoot": "/home/mertyuksel/Desktop/FullStackBP/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/",
       "BasePath": "_content/PROJEM",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map",
       "AssetKind": "All",
@@ -663,10 +682,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map"
     },
     {
-      "Identity": "/home/mertyuksel/MyMvcApp/MyMvcApp/PROJE/PROJEM/PROJEM/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css",
+      "Identity": "/home/mertyuksel/Desktop/FullStackBP/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css",
       "SourceId": "PROJEM",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/mertyuksel/MyMvcApp/MyMvcApp/PROJE/PROJEM/PROJEM/wwwroot/",
+      "ContentRoot": "/home/mertyuksel/Desktop/FullStackBP/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/",
       "BasePath": "_content/PROJEM",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css",
       "AssetKind": "All",
@@ -682,10 +701,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css"
     },
     {
-      "Identity": "/home/mertyuksel/MyMvcApp/MyMvcApp/PROJE/PROJEM/PROJEM/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map",
+      "Identity": "/home/mertyuksel/Desktop/FullStackBP/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map",
       "SourceId": "PROJEM",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/mertyuksel/MyMvcApp/MyMvcApp/PROJE/PROJEM/PROJEM/wwwroot/",
+      "ContentRoot": "/home/mertyuksel/Desktop/FullStackBP/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/",
       "BasePath": "_content/PROJEM",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map",
       "AssetKind": "All",
@@ -701,10 +720,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map"
     },
     {
-      "Identity": "/home/mertyuksel/MyMvcApp/MyMvcApp/PROJE/PROJEM/PROJEM/wwwroot/lib/bootstrap/dist/css/bootstrap.css",
+      "Identity": "/home/mertyuksel/Desktop/FullStackBP/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/lib/bootstrap/dist/css/bootstrap.css",
       "SourceId": "PROJEM",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/mertyuksel/MyMvcApp/MyMvcApp/PROJE/PROJEM/PROJEM/wwwroot/",
+      "ContentRoot": "/home/mertyuksel/Desktop/FullStackBP/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/",
       "BasePath": "_content/PROJEM",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css",
       "AssetKind": "All",
@@ -720,10 +739,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap.css"
     },
     {
-      "Identity": "/home/mertyuksel/MyMvcApp/MyMvcApp/PROJE/PROJEM/PROJEM/wwwroot/lib/bootstrap/dist/css/bootstrap.css.map",
+      "Identity": "/home/mertyuksel/Desktop/FullStackBP/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/lib/bootstrap/dist/css/bootstrap.css.map",
       "SourceId": "PROJEM",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/mertyuksel/MyMvcApp/MyMvcApp/PROJE/PROJEM/PROJEM/wwwroot/",
+      "ContentRoot": "/home/mertyuksel/Desktop/FullStackBP/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/",
       "BasePath": "_content/PROJEM",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css.map",
       "AssetKind": "All",
@@ -739,10 +758,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap.css.map"
     },
     {
-      "Identity": "/home/mertyuksel/MyMvcApp/MyMvcApp/PROJE/PROJEM/PROJEM/wwwroot/lib/bootstrap/dist/css/bootstrap.min.css",
+      "Identity": "/home/mertyuksel/Desktop/FullStackBP/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/lib/bootstrap/dist/css/bootstrap.min.css",
       "SourceId": "PROJEM",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/mertyuksel/MyMvcApp/MyMvcApp/PROJE/PROJEM/PROJEM/wwwroot/",
+      "ContentRoot": "/home/mertyuksel/Desktop/FullStackBP/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/",
       "BasePath": "_content/PROJEM",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css",
       "AssetKind": "All",
@@ -758,10 +777,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap.min.css"
     },
     {
-      "Identity": "/home/mertyuksel/MyMvcApp/MyMvcApp/PROJE/PROJEM/PROJEM/wwwroot/lib/bootstrap/dist/css/bootstrap.min.css.map",
+      "Identity": "/home/mertyuksel/Desktop/FullStackBP/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/lib/bootstrap/dist/css/bootstrap.min.css.map",
       "SourceId": "PROJEM",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/mertyuksel/MyMvcApp/MyMvcApp/PROJE/PROJEM/PROJEM/wwwroot/",
+      "ContentRoot": "/home/mertyuksel/Desktop/FullStackBP/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/",
       "BasePath": "_content/PROJEM",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css.map",
       "AssetKind": "All",
@@ -777,10 +796,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap.min.css.map"
     },
     {
-      "Identity": "/home/mertyuksel/MyMvcApp/MyMvcApp/PROJE/PROJEM/PROJEM/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.css",
+      "Identity": "/home/mertyuksel/Desktop/FullStackBP/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.css",
       "SourceId": "PROJEM",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/mertyuksel/MyMvcApp/MyMvcApp/PROJE/PROJEM/PROJEM/wwwroot/",
+      "ContentRoot": "/home/mertyuksel/Desktop/FullStackBP/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/",
       "BasePath": "_content/PROJEM",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css",
       "AssetKind": "All",
@@ -796,10 +815,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.css"
     },
     {
-      "Identity": "/home/mertyuksel/MyMvcApp/MyMvcApp/PROJE/PROJEM/PROJEM/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.css.map",
+      "Identity": "/home/mertyuksel/Desktop/FullStackBP/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.css.map",
       "SourceId": "PROJEM",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/mertyuksel/MyMvcApp/MyMvcApp/PROJE/PROJEM/PROJEM/wwwroot/",
+      "ContentRoot": "/home/mertyuksel/Desktop/FullStackBP/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/",
       "BasePath": "_content/PROJEM",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css.map",
       "AssetKind": "All",
@@ -815,10 +834,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.css.map"
     },
     {
-      "Identity": "/home/mertyuksel/MyMvcApp/MyMvcApp/PROJE/PROJEM/PROJEM/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.min.css",
+      "Identity": "/home/mertyuksel/Desktop/FullStackBP/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.min.css",
       "SourceId": "PROJEM",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/mertyuksel/MyMvcApp/MyMvcApp/PROJE/PROJEM/PROJEM/wwwroot/",
+      "ContentRoot": "/home/mertyuksel/Desktop/FullStackBP/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/",
       "BasePath": "_content/PROJEM",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css",
       "AssetKind": "All",
@@ -834,10 +853,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.min.css"
     },
     {
-      "Identity": "/home/mertyuksel/MyMvcApp/MyMvcApp/PROJE/PROJEM/PROJEM/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.min.css.map",
+      "Identity": "/home/mertyuksel/Desktop/FullStackBP/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.min.css.map",
       "SourceId": "PROJEM",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/mertyuksel/MyMvcApp/MyMvcApp/PROJE/PROJEM/PROJEM/wwwroot/",
+      "ContentRoot": "/home/mertyuksel/Desktop/FullStackBP/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/",
       "BasePath": "_content/PROJEM",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css.map",
       "AssetKind": "All",
@@ -853,10 +872,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.min.css.map"
     },
     {
-      "Identity": "/home/mertyuksel/MyMvcApp/MyMvcApp/PROJE/PROJEM/PROJEM/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js",
+      "Identity": "/home/mertyuksel/Desktop/FullStackBP/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js",
       "SourceId": "PROJEM",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/mertyuksel/MyMvcApp/MyMvcApp/PROJE/PROJEM/PROJEM/wwwroot/",
+      "ContentRoot": "/home/mertyuksel/Desktop/FullStackBP/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/",
       "BasePath": "_content/PROJEM",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js",
       "AssetKind": "All",
@@ -872,10 +891,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js"
     },
     {
-      "Identity": "/home/mertyuksel/MyMvcApp/MyMvcApp/PROJE/PROJEM/PROJEM/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js.map",
+      "Identity": "/home/mertyuksel/Desktop/FullStackBP/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js.map",
       "SourceId": "PROJEM",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/mertyuksel/MyMvcApp/MyMvcApp/PROJE/PROJEM/PROJEM/wwwroot/",
+      "ContentRoot": "/home/mertyuksel/Desktop/FullStackBP/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/",
       "BasePath": "_content/PROJEM",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js.map",
       "AssetKind": "All",
@@ -891,10 +910,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js.map"
     },
     {
-      "Identity": "/home/mertyuksel/MyMvcApp/MyMvcApp/PROJE/PROJEM/PROJEM/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js",
+      "Identity": "/home/mertyuksel/Desktop/FullStackBP/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js",
       "SourceId": "PROJEM",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/mertyuksel/MyMvcApp/MyMvcApp/PROJE/PROJEM/PROJEM/wwwroot/",
+      "ContentRoot": "/home/mertyuksel/Desktop/FullStackBP/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/",
       "BasePath": "_content/PROJEM",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js",
       "AssetKind": "All",
@@ -910,10 +929,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js"
     },
     {
-      "Identity": "/home/mertyuksel/MyMvcApp/MyMvcApp/PROJE/PROJEM/PROJEM/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
+      "Identity": "/home/mertyuksel/Desktop/FullStackBP/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
       "SourceId": "PROJEM",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/mertyuksel/MyMvcApp/MyMvcApp/PROJE/PROJEM/PROJEM/wwwroot/",
+      "ContentRoot": "/home/mertyuksel/Desktop/FullStackBP/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/",
       "BasePath": "_content/PROJEM",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
       "AssetKind": "All",
@@ -929,10 +948,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js.map"
     },
     {
-      "Identity": "/home/mertyuksel/MyMvcApp/MyMvcApp/PROJE/PROJEM/PROJEM/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.js",
+      "Identity": "/home/mertyuksel/Desktop/FullStackBP/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.js",
       "SourceId": "PROJEM",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/mertyuksel/MyMvcApp/MyMvcApp/PROJE/PROJEM/PROJEM/wwwroot/",
+      "ContentRoot": "/home/mertyuksel/Desktop/FullStackBP/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/",
       "BasePath": "_content/PROJEM",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js",
       "AssetKind": "All",
@@ -948,10 +967,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/js/bootstrap.esm.js"
     },
     {
-      "Identity": "/home/mertyuksel/MyMvcApp/MyMvcApp/PROJE/PROJEM/PROJEM/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.js.map",
+      "Identity": "/home/mertyuksel/Desktop/FullStackBP/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.js.map",
       "SourceId": "PROJEM",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/mertyuksel/MyMvcApp/MyMvcApp/PROJE/PROJEM/PROJEM/wwwroot/",
+      "ContentRoot": "/home/mertyuksel/Desktop/FullStackBP/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/",
       "BasePath": "_content/PROJEM",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js.map",
       "AssetKind": "All",
@@ -967,10 +986,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/js/bootstrap.esm.js.map"
     },
     {
-      "Identity": "/home/mertyuksel/MyMvcApp/MyMvcApp/PROJE/PROJEM/PROJEM/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.min.js",
+      "Identity": "/home/mertyuksel/Desktop/FullStackBP/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.min.js",
       "SourceId": "PROJEM",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/mertyuksel/MyMvcApp/MyMvcApp/PROJE/PROJEM/PROJEM/wwwroot/",
+      "ContentRoot": "/home/mertyuksel/Desktop/FullStackBP/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/",
       "BasePath": "_content/PROJEM",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js",
       "AssetKind": "All",
@@ -986,10 +1005,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/js/bootstrap.esm.min.js"
     },
     {
-      "Identity": "/home/mertyuksel/MyMvcApp/MyMvcApp/PROJE/PROJEM/PROJEM/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.min.js.map",
+      "Identity": "/home/mertyuksel/Desktop/FullStackBP/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.min.js.map",
       "SourceId": "PROJEM",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/mertyuksel/MyMvcApp/MyMvcApp/PROJE/PROJEM/PROJEM/wwwroot/",
+      "ContentRoot": "/home/mertyuksel/Desktop/FullStackBP/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/",
       "BasePath": "_content/PROJEM",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js.map",
       "AssetKind": "All",
@@ -1005,10 +1024,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/js/bootstrap.esm.min.js.map"
     },
     {
-      "Identity": "/home/mertyuksel/MyMvcApp/MyMvcApp/PROJE/PROJEM/PROJEM/wwwroot/lib/bootstrap/dist/js/bootstrap.js",
+      "Identity": "/home/mertyuksel/Desktop/FullStackBP/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/lib/bootstrap/dist/js/bootstrap.js",
       "SourceId": "PROJEM",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/mertyuksel/MyMvcApp/MyMvcApp/PROJE/PROJEM/PROJEM/wwwroot/",
+      "ContentRoot": "/home/mertyuksel/Desktop/FullStackBP/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/",
       "BasePath": "_content/PROJEM",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js",
       "AssetKind": "All",
@@ -1024,10 +1043,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/js/bootstrap.js"
     },
     {
-      "Identity": "/home/mertyuksel/MyMvcApp/MyMvcApp/PROJE/PROJEM/PROJEM/wwwroot/lib/bootstrap/dist/js/bootstrap.js.map",
+      "Identity": "/home/mertyuksel/Desktop/FullStackBP/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/lib/bootstrap/dist/js/bootstrap.js.map",
       "SourceId": "PROJEM",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/mertyuksel/MyMvcApp/MyMvcApp/PROJE/PROJEM/PROJEM/wwwroot/",
+      "ContentRoot": "/home/mertyuksel/Desktop/FullStackBP/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/",
       "BasePath": "_content/PROJEM",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js.map",
       "AssetKind": "All",
@@ -1043,10 +1062,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/js/bootstrap.js.map"
     },
     {
-      "Identity": "/home/mertyuksel/MyMvcApp/MyMvcApp/PROJE/PROJEM/PROJEM/wwwroot/lib/bootstrap/dist/js/bootstrap.min.js",
+      "Identity": "/home/mertyuksel/Desktop/FullStackBP/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/lib/bootstrap/dist/js/bootstrap.min.js",
       "SourceId": "PROJEM",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/mertyuksel/MyMvcApp/MyMvcApp/PROJE/PROJEM/PROJEM/wwwroot/",
+      "ContentRoot": "/home/mertyuksel/Desktop/FullStackBP/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/",
       "BasePath": "_content/PROJEM",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js",
       "AssetKind": "All",
@@ -1062,10 +1081,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/js/bootstrap.min.js"
     },
     {
-      "Identity": "/home/mertyuksel/MyMvcApp/MyMvcApp/PROJE/PROJEM/PROJEM/wwwroot/lib/bootstrap/dist/js/bootstrap.min.js.map",
+      "Identity": "/home/mertyuksel/Desktop/FullStackBP/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/lib/bootstrap/dist/js/bootstrap.min.js.map",
       "SourceId": "PROJEM",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/mertyuksel/MyMvcApp/MyMvcApp/PROJE/PROJEM/PROJEM/wwwroot/",
+      "ContentRoot": "/home/mertyuksel/Desktop/FullStackBP/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/",
       "BasePath": "_content/PROJEM",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js.map",
       "AssetKind": "All",
@@ -1081,10 +1100,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/js/bootstrap.min.js.map"
     },
     {
-      "Identity": "/home/mertyuksel/MyMvcApp/MyMvcApp/PROJE/PROJEM/PROJEM/wwwroot/lib/bootstrap/LICENSE",
+      "Identity": "/home/mertyuksel/Desktop/FullStackBP/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/lib/bootstrap/LICENSE",
       "SourceId": "PROJEM",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/mertyuksel/MyMvcApp/MyMvcApp/PROJE/PROJEM/PROJEM/wwwroot/",
+      "ContentRoot": "/home/mertyuksel/Desktop/FullStackBP/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/",
       "BasePath": "_content/PROJEM",
       "RelativePath": "lib/bootstrap/LICENSE",
       "AssetKind": "All",
@@ -1100,10 +1119,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/LICENSE"
     },
     {
-      "Identity": "/home/mertyuksel/MyMvcApp/MyMvcApp/PROJE/PROJEM/PROJEM/wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
+      "Identity": "/home/mertyuksel/Desktop/FullStackBP/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
       "SourceId": "PROJEM",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/mertyuksel/MyMvcApp/MyMvcApp/PROJE/PROJEM/PROJEM/wwwroot/",
+      "ContentRoot": "/home/mertyuksel/Desktop/FullStackBP/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/",
       "BasePath": "_content/PROJEM",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
       "AssetKind": "All",
@@ -1119,10 +1138,10 @@
       "OriginalItemSpec": "wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js"
     },
     {
-      "Identity": "/home/mertyuksel/MyMvcApp/MyMvcApp/PROJE/PROJEM/PROJEM/wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
+      "Identity": "/home/mertyuksel/Desktop/FullStackBP/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
       "SourceId": "PROJEM",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/mertyuksel/MyMvcApp/MyMvcApp/PROJE/PROJEM/PROJEM/wwwroot/",
+      "ContentRoot": "/home/mertyuksel/Desktop/FullStackBP/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/",
       "BasePath": "_content/PROJEM",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
       "AssetKind": "All",
@@ -1138,10 +1157,10 @@
       "OriginalItemSpec": "wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js"
     },
     {
-      "Identity": "/home/mertyuksel/MyMvcApp/MyMvcApp/PROJE/PROJEM/PROJEM/wwwroot/lib/jquery-validation-unobtrusive/LICENSE.txt",
+      "Identity": "/home/mertyuksel/Desktop/FullStackBP/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/lib/jquery-validation-unobtrusive/LICENSE.txt",
       "SourceId": "PROJEM",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/mertyuksel/MyMvcApp/MyMvcApp/PROJE/PROJEM/PROJEM/wwwroot/",
+      "ContentRoot": "/home/mertyuksel/Desktop/FullStackBP/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/",
       "BasePath": "_content/PROJEM",
       "RelativePath": "lib/jquery-validation-unobtrusive/LICENSE.txt",
       "AssetKind": "All",
@@ -1157,10 +1176,10 @@
       "OriginalItemSpec": "wwwroot/lib/jquery-validation-unobtrusive/LICENSE.txt"
     },
     {
-      "Identity": "/home/mertyuksel/MyMvcApp/MyMvcApp/PROJE/PROJEM/PROJEM/wwwroot/lib/jquery-validation/dist/additional-methods.js",
+      "Identity": "/home/mertyuksel/Desktop/FullStackBP/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/lib/jquery-validation/dist/additional-methods.js",
       "SourceId": "PROJEM",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/mertyuksel/MyMvcApp/MyMvcApp/PROJE/PROJEM/PROJEM/wwwroot/",
+      "ContentRoot": "/home/mertyuksel/Desktop/FullStackBP/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/",
       "BasePath": "_content/PROJEM",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.js",
       "AssetKind": "All",
@@ -1176,10 +1195,10 @@
       "OriginalItemSpec": "wwwroot/lib/jquery-validation/dist/additional-methods.js"
     },
     {
-      "Identity": "/home/mertyuksel/MyMvcApp/MyMvcApp/PROJE/PROJEM/PROJEM/wwwroot/lib/jquery-validation/dist/additional-methods.min.js",
+      "Identity": "/home/mertyuksel/Desktop/FullStackBP/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/lib/jquery-validation/dist/additional-methods.min.js",
       "SourceId": "PROJEM",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/mertyuksel/MyMvcApp/MyMvcApp/PROJE/PROJEM/PROJEM/wwwroot/",
+      "ContentRoot": "/home/mertyuksel/Desktop/FullStackBP/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/",
       "BasePath": "_content/PROJEM",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.min.js",
       "AssetKind": "All",
@@ -1195,10 +1214,10 @@
       "OriginalItemSpec": "wwwroot/lib/jquery-validation/dist/additional-methods.min.js"
     },
     {
-      "Identity": "/home/mertyuksel/MyMvcApp/MyMvcApp/PROJE/PROJEM/PROJEM/wwwroot/lib/jquery-validation/dist/jquery.validate.js",
+      "Identity": "/home/mertyuksel/Desktop/FullStackBP/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/lib/jquery-validation/dist/jquery.validate.js",
       "SourceId": "PROJEM",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/mertyuksel/MyMvcApp/MyMvcApp/PROJE/PROJEM/PROJEM/wwwroot/",
+      "ContentRoot": "/home/mertyuksel/Desktop/FullStackBP/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/",
       "BasePath": "_content/PROJEM",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.js",
       "AssetKind": "All",
@@ -1214,10 +1233,10 @@
       "OriginalItemSpec": "wwwroot/lib/jquery-validation/dist/jquery.validate.js"
     },
     {
-      "Identity": "/home/mertyuksel/MyMvcApp/MyMvcApp/PROJE/PROJEM/PROJEM/wwwroot/lib/jquery-validation/dist/jquery.validate.min.js",
+      "Identity": "/home/mertyuksel/Desktop/FullStackBP/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/lib/jquery-validation/dist/jquery.validate.min.js",
       "SourceId": "PROJEM",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/mertyuksel/MyMvcApp/MyMvcApp/PROJE/PROJEM/PROJEM/wwwroot/",
+      "ContentRoot": "/home/mertyuksel/Desktop/FullStackBP/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/",
       "BasePath": "_content/PROJEM",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.min.js",
       "AssetKind": "All",
@@ -1233,10 +1252,10 @@
       "OriginalItemSpec": "wwwroot/lib/jquery-validation/dist/jquery.validate.min.js"
     },
     {
-      "Identity": "/home/mertyuksel/MyMvcApp/MyMvcApp/PROJE/PROJEM/PROJEM/wwwroot/lib/jquery-validation/LICENSE.md",
+      "Identity": "/home/mertyuksel/Desktop/FullStackBP/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/lib/jquery-validation/LICENSE.md",
       "SourceId": "PROJEM",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/mertyuksel/MyMvcApp/MyMvcApp/PROJE/PROJEM/PROJEM/wwwroot/",
+      "ContentRoot": "/home/mertyuksel/Desktop/FullStackBP/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/",
       "BasePath": "_content/PROJEM",
       "RelativePath": "lib/jquery-validation/LICENSE.md",
       "AssetKind": "All",
@@ -1252,10 +1271,10 @@
       "OriginalItemSpec": "wwwroot/lib/jquery-validation/LICENSE.md"
     },
     {
-      "Identity": "/home/mertyuksel/MyMvcApp/MyMvcApp/PROJE/PROJEM/PROJEM/wwwroot/lib/jquery/dist/jquery.js",
+      "Identity": "/home/mertyuksel/Desktop/FullStackBP/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/lib/jquery/dist/jquery.js",
       "SourceId": "PROJEM",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/mertyuksel/MyMvcApp/MyMvcApp/PROJE/PROJEM/PROJEM/wwwroot/",
+      "ContentRoot": "/home/mertyuksel/Desktop/FullStackBP/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/",
       "BasePath": "_content/PROJEM",
       "RelativePath": "lib/jquery/dist/jquery.js",
       "AssetKind": "All",
@@ -1271,10 +1290,10 @@
       "OriginalItemSpec": "wwwroot/lib/jquery/dist/jquery.js"
     },
     {
-      "Identity": "/home/mertyuksel/MyMvcApp/MyMvcApp/PROJE/PROJEM/PROJEM/wwwroot/lib/jquery/dist/jquery.min.js",
+      "Identity": "/home/mertyuksel/Desktop/FullStackBP/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/lib/jquery/dist/jquery.min.js",
       "SourceId": "PROJEM",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/mertyuksel/MyMvcApp/MyMvcApp/PROJE/PROJEM/PROJEM/wwwroot/",
+      "ContentRoot": "/home/mertyuksel/Desktop/FullStackBP/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/",
       "BasePath": "_content/PROJEM",
       "RelativePath": "lib/jquery/dist/jquery.min.js",
       "AssetKind": "All",
@@ -1290,10 +1309,10 @@
       "OriginalItemSpec": "wwwroot/lib/jquery/dist/jquery.min.js"
     },
     {
-      "Identity": "/home/mertyuksel/MyMvcApp/MyMvcApp/PROJE/PROJEM/PROJEM/wwwroot/lib/jquery/dist/jquery.min.map",
+      "Identity": "/home/mertyuksel/Desktop/FullStackBP/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/lib/jquery/dist/jquery.min.map",
       "SourceId": "PROJEM",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/mertyuksel/MyMvcApp/MyMvcApp/PROJE/PROJEM/PROJEM/wwwroot/",
+      "ContentRoot": "/home/mertyuksel/Desktop/FullStackBP/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/",
       "BasePath": "_content/PROJEM",
       "RelativePath": "lib/jquery/dist/jquery.min.map",
       "AssetKind": "All",
@@ -1309,10 +1328,10 @@
       "OriginalItemSpec": "wwwroot/lib/jquery/dist/jquery.min.map"
     },
     {
-      "Identity": "/home/mertyuksel/MyMvcApp/MyMvcApp/PROJE/PROJEM/PROJEM/wwwroot/lib/jquery/LICENSE.txt",
+      "Identity": "/home/mertyuksel/Desktop/FullStackBP/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/lib/jquery/LICENSE.txt",
       "SourceId": "PROJEM",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/mertyuksel/MyMvcApp/MyMvcApp/PROJE/PROJEM/PROJEM/wwwroot/",
+      "ContentRoot": "/home/mertyuksel/Desktop/FullStackBP/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/",
       "BasePath": "_content/PROJEM",
       "RelativePath": "lib/jquery/LICENSE.txt",
       "AssetKind": "All",
@@ -1328,10 +1347,10 @@
       "OriginalItemSpec": "wwwroot/lib/jquery/LICENSE.txt"
     },
     {
-      "Identity": "/home/mertyuksel/MyMvcApp/MyMvcApp/PROJE/PROJEM/PROJEM/wwwroot/tactics.jpeg",
+      "Identity": "/home/mertyuksel/Desktop/FullStackBP/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/tactics.jpeg",
       "SourceId": "PROJEM",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/mertyuksel/MyMvcApp/MyMvcApp/PROJE/PROJEM/PROJEM/wwwroot/",
+      "ContentRoot": "/home/mertyuksel/Desktop/FullStackBP/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/",
       "BasePath": "_content/PROJEM",
       "RelativePath": "tactics.jpeg",
       "AssetKind": "All",

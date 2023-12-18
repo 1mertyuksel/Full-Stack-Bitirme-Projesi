@@ -5,18 +5,29 @@ using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
 using PROJEM.Data;
 using Microsoft.EntityFrameworkCore;
+using Microsoft.AspNetCore.Identity;
+using PROJEM.Models;
+
+
 
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
 builder.Services.AddControllersWithViews();
 
+var connectionString = builder.Configuration.GetConnectionString("SQLite_Connection");
+
+builder.Services.AddDbContext<IdentityContext>(options =>
+{
+    options.UseSqlite(connectionString);
+});
+
+builder.Services.AddIdentity<IdentityUser, IdentityRole>()
+    .AddEntityFrameworkStores<IdentityContext>();
+
 builder.Services.AddDbContext<DataContext>(options =>
 {
-    var config = builder.Configuration;
-    var connectionString = config.GetConnectionString("database");
-
-    options.UseSqlite(connectionString); // Burada uygun bir veritabanı sağlayıcısı seçmelisiniz.
+    options.UseSqlite(connectionString);
 });
 
 var app = builder.Build();
@@ -39,5 +50,7 @@ app.UseAuthorization();
 app.MapControllerRoute(
     name: "default",
     pattern: "{controller=Home}/{action=Index}/{id?}");
+
+IdentitySeedData.IdentityTestUser(app);
 
 app.Run();

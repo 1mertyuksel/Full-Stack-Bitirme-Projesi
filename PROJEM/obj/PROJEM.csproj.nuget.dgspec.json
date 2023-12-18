@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/mertyuksel/MyMvcApp/MyMvcApp/PROJE/PROJEM/PROJEM/PROJEM.csproj": {}
+    "/home/mertyuksel/Desktop/FullStackBP/Full-Stack-Bitirme-Projesi/PROJEM/PROJEM.csproj": {}
   },
   "projects": {
-    "/home/mertyuksel/MyMvcApp/MyMvcApp/PROJE/PROJEM/PROJEM/PROJEM.csproj": {
+    "/home/mertyuksel/Desktop/FullStackBP/Full-Stack-Bitirme-Projesi/PROJEM/PROJEM.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/mertyuksel/MyMvcApp/MyMvcApp/PROJE/PROJEM/PROJEM/PROJEM.csproj",
+        "projectUniqueName": "/home/mertyuksel/Desktop/FullStackBP/Full-Stack-Bitirme-Projesi/PROJEM/PROJEM.csproj",
         "projectName": "PROJEM",
-        "projectPath": "/home/mertyuksel/MyMvcApp/MyMvcApp/PROJE/PROJEM/PROJEM/PROJEM.csproj",
+        "projectPath": "/home/mertyuksel/Desktop/FullStackBP/Full-Stack-Bitirme-Projesi/PROJEM/PROJEM.csproj",
         "packagesPath": "/home/mertyuksel/.nuget/packages/",
-        "outputPath": "/home/mertyuksel/MyMvcApp/MyMvcApp/PROJE/PROJEM/PROJEM/obj/",
+        "outputPath": "/home/mertyuksel/Desktop/FullStackBP/Full-Stack-Bitirme-Projesi/PROJEM/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/mertyuksel/.nuget/NuGet/NuGet.Config"
@@ -38,13 +38,17 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "dependencies": {
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[7.0.10, )"
+            },
             "Microsoft.EntityFrameworkCore.Design": {
               "target": "Package",
-              "version": "[7.0.8, )"
+              "version": "[7.0.10, )"
             },
             "Microsoft.EntityFrameworkCore.SQLite": {
               "target": "Package",
-              "version": "[7.0.8, )"
+              "version": "[7.0.10, )"
             }
           },
           "imports": [
