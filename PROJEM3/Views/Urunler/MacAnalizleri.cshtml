@@ -1,0 +1,85 @@
+<!--Urunler/MacAnalizleri.cshmtl -->
+@{
+    Layout = "_Layout";
+    ViewData["Title"] = "Maç Analizleri";
+}
+
+
+<style>
+        /* Özel tasarım stilinizi buraya ekleyin */
+        .analiz-baslik {
+            font-size: 28px;
+            font-weight: bold;
+            margin-top: 20px;
+            margin-bottom: 10px;
+        }
+
+        .analiz-aciklama {
+            font-size: 16px;
+            margin-bottom: 15px;
+        }
+
+        .analiz-madde {
+            margin-bottom: 15px;
+        }
+
+        .analiz-foto {
+            width: 100%;
+            max-width: 600px;
+            margin-top: 20px;
+        }
+    </style>
+
+    <!-- Sayfa içeriği buraya gelecek -->
+    <div class="container">
+    <h1 class="analiz-baslik">@ViewData["Title"]</h1>
+
+    <!-- Takımların Oyun Şekilleri -->
+    <div class="card analiz-kart">
+        <div class="card-body analiz-aciklama">
+            <h5 class="card-title">Takımların Oyun Şekilleri:</h5>
+            <p>Futbol sahasındaki taktiksel düzenlemeler, bir takımın başarısını etkileyen kilit unsurlardan biridir. Bu bölümde, takımların genel oyun felsefeleri ve taktik yaklaşımları detaylı bir şekilde ele alınacaktır. Formasyonlar, presleme stratejileri ve oyun planları üzerine yapılan analizler, takımların saha içindeki performansını anlama konusunda rehberlik edecektir.</p>
+        </div>
+    </div>
+
+    <!-- Topa Sahipken -->
+    <div class="card analiz-kart">
+        <div class="card-body analiz-aciklama">
+            <h5 class="card-title">Topa Sahipken:</h5>
+            <p>Bu kısımda, takımların topa sahipken sergiledikleri performans incelenecek. Pas istatistikleri, topa sahip olma süreleri ve pas bağlantılarına yönelik analizlerle takımların hücum organizasyonları detaylı bir şekilde gözler önüne serilecek. Görsellerle desteklenen anlatımlar, takımların saha içindeki etkili pas trafiği ve pozisyon alma stratejilerini açığa çıkaracak.</p>
+        </div>
+    </div>
+
+    <!-- Top Rakipteyken -->
+    <div class="card analiz-kart">
+        <div class="card-body analiz-aciklama">
+            <h5 class="card-title">Top Rakipteyken:</h5>
+            <p>Bu bölümde, takımların top rakipteyken sergiledikleri performansın analizi yapılacak. Top kayıpları, rakip pres stratejileri ve hızlı geçiş oyunları üzerine detaylı analizler, takımların savunma organizasyonu ve hücum stratejilerine dair kapsamlı bir bakış sunacaktır.</p>
+        </div>
+    </div>
+
+    <!-- Geçiş Anları -->
+    <div class="card analiz-kart">
+        <div class="card-body analiz-aciklama">
+            <h5 class="card-title">Geçiş Anları:</h5>
+            <p>Hızlı geçişlerin ve karşı hücumların maçın seyrini nasıl etkilediğini anlamak, bu bölümün odak noktası olacaktır. Takımların hızlı geçişlerdeki performansları, geçiş savunması ve etkili hücum stratejileri üzerine detaylı incelemeler, maç içindeki kritik anları aydınlatacaktır.</p>
+        </div>
+    </div>
+
+    <!-- Duran Toplar -->
+    <div class="card analiz-kart">
+        <div class="card-body analiz-aciklama">
+            <h5 class="card-title">Duran Toplar:</h5>
+            <p>Duran toplar, birçok maçın kaderini belirleyebilecek önemli anlardır. Bu bölümde, köşe vuruşları, serbest vuruşlar ve ceza sahası içindeki duran topların istatistiksel analizi yapılacak. Skora etkisi olan duran topların detaylı açıklamaları ve örnekleri, takımların stratejik duran top kullanımlarını ortaya koyacaktır.</p>
+        </div>
+    </div>
+
+
+
+        <!-- Fotoğraf ekleme --> 
+        <img class="analiz-foto" src="Arteta(1).jpg" alt="Analiz Fotoğrafı">
+
+       
+    </div>
+
+    
