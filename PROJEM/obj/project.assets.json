@@ -1444,11 +1444,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/mertyuksel/Desktop/FullStackBP/Full-Stack-Bitirme-Projesi/PROJEM/PROJEM.csproj",
+      "projectUniqueName": "/home/mertyuksel/Desktop/DÜN/Full-Stack-Bitirme-Projesi/PROJEM/PROJEM.csproj",
       "projectName": "PROJEM",
-      "projectPath": "/home/mertyuksel/Desktop/FullStackBP/Full-Stack-Bitirme-Projesi/PROJEM/PROJEM.csproj",
+      "projectPath": "/home/mertyuksel/Desktop/DÜN/Full-Stack-Bitirme-Projesi/PROJEM/PROJEM.csproj",
       "packagesPath": "/home/mertyuksel/.nuget/packages/",
-      "outputPath": "/home/mertyuksel/Desktop/FullStackBP/Full-Stack-Bitirme-Projesi/PROJEM/obj/",
+      "outputPath": "/home/mertyuksel/Desktop/DÜN/Full-Stack-Bitirme-Projesi/PROJEM/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/mertyuksel/.nuget/NuGet/NuGet.Config"
