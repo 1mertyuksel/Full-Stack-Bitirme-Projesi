@@ -5,6 +5,9 @@ namespace PROJEM.ViewModels
     public class CreateViewModel
     {
         [Required(ErrorMessage = "Kullanıcı adı zorunludur.")]
+        public string UserName { get; set; } = string.Empty;
+
+        [Required(ErrorMessage = " Ad Soyad zorunludur.")]
         public string FullName { get; set; } = string.Empty;
 
         [Required(ErrorMessage = "E-posta adresi zorunludur.")]

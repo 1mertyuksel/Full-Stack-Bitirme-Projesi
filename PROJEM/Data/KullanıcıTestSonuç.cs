@@ -7,7 +7,7 @@ namespace PROJEM.Data
     {
         public int ID { get; set; }
         public int SoruID { get; set; }
-        public string KullaniciID { get; set; }
-        public string VerilenCevap { get; set; }
+        public string? KullaniciID { get; set; }
+        public string? VerilenCevap { get; set; }
     }
 }

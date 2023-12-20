@@ -1,17 +1,22 @@
 using Microsoft.AspNetCore.Identity;
 using Microsoft.AspNetCore.Mvc;
+using Microsoft.EntityFrameworkCore; // To use ToListAsync()
 using PROJEM.ViewModels;
 using PROJEM.Models;
+using System.Linq;
+using System.Threading.Tasks;
 
 namespace PROJEM.Controllers
 {
     public class UserController : Controller
     {
-        private readonly UserManager<AppUser> _userManager;
+        private UserManager<AppUser> _userManager;
+        private RoleManager<AppRole> _roleManager;
 
-        public UserController(UserManager<AppUser> userManager)
+        public UserController(UserManager<AppUser> userManager, RoleManager<AppRole> roleManager)
         {
             _userManager = userManager;
+            _roleManager = roleManager;
         }
 
         public IActionResult Index()
@@ -29,7 +34,10 @@ namespace PROJEM.Controllers
         {
             if (ModelState.IsValid)
             {
-                var user = new AppUser { UserName = model.Email, Email = model.Email , FullName = model.FullName };
+                var user = new AppUser { 
+                UserName = model.UserName,
+                Email = model.Email,
+                FullName = model.FullName };
 
                 IdentityResult result = await _userManager.CreateAsync(user, model.Password);
 
@@ -55,80 +63,74 @@ namespace PROJEM.Controllers
             }
 
             var user = await _userManager.FindByIdAsync(id);
-
             if (user != null)
             {
-                var editViewModel = new EditViewModel
+                ViewBag.Roles = await _roleManager.Roles.Select(i => i.Name).ToListAsync();
+                return View(new EditViewModel
                 {
                     Id = user.Id,
                     FullName = user.FullName,
-                    Email = user.Email
-                };
-
-                return View(editViewModel);
+                    Email = user.Email,
+                    SelectedRoles = await _userManager.GetRolesAsync(user)
+                });
             }
 
             return RedirectToAction("Index");
-     
         }
 
         [HttpPost]
-
-        public async Task<IActionResult> Edit(string id, EditViewModel model){
-
-
-
-        if(id != model.Id ){
-          return RedirectToAction("Index");
-
-        }
-
-        if(ModelState.IsValid)
+        public async Task<IActionResult> Edit(string id, EditViewModel model)
         {
-            var user = await _userManager.FindByIdAsync(model.Id);
-            if(user != null)
+            if (id != model.Id)
             {
-                user.Email = model.Email;
-                user.FullName = model.FullName;
+                return RedirectToAction("Index");
+            }
 
-                var result = await _userManager.UpdateAsync(user);
-
-             if(result.Succeeded && !string.IsNullOrEmpty(model.Password))
-             {
-                await _userManager.RemovePasswordAsync(user);
-                await _userManager.AddPasswordAsync(user, model.Password);
-             }
-
-
-                if(result.Succeeded)
+            if (ModelState.IsValid)
+            {
+                var user = await _userManager.FindByIdAsync(model.Id);
+                if (user != null)
                 {
-                    return RedirectToAction("Index");
+                    user.Email = model.Email;
+                    user.FullName = model.FullName;
 
-                }
+                    var result = await _userManager.UpdateAsync(user);
 
-                foreach(IdentityError err in result.Errors)
-                {
-                   ModelState.AddModelError("", err.Description);
+                    if (result.Succeeded && !string.IsNullOrEmpty(model.Password))
+                    {
+                        await _userManager.RemovePasswordAsync(user);
+                        await _userManager.AddPasswordAsync(user, model.Password);
+                    }
+
+                    if (result.Succeeded)
+                    {
+                         await _userManager.RemoveFromRolesAsync(user, await _userManager.GetRolesAsync(user));
+                       if(model.SelectedRoles != null)
+                       {
+                            await _userManager.AddToRolesAsync(user,model.SelectedRoles);
+                        }
+                        return RedirectToAction("Index");
+                    }
+                    foreach (IdentityError err in result.Errors)
+                    {
+                        ModelState.AddModelError("", err.Description);
+                    }
                 }
             }
+            return View(model);
         }
-      return View(model);
-        }
-    
-    
-            [HttpPost]
-      public async Task<IActionResult> Delete(string id)
-      {
+
+        [HttpPost]
+        public async Task<IActionResult> Delete(string id)
+        {
             var user = await _userManager.FindByIdAsync(id);
-            
-            if(user != null)
+
+            if (user != null)
             {
                 await _userManager.DeleteAsync(user);
             }
 
-                    return RedirectToAction("Index");
-      }
-    
-    
+            return RedirectToAction("Index");
+        }
     }
 }
