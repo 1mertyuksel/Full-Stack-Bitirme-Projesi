@@ -1,12 +1,21 @@
-﻿<!DOCTYPE html>
+﻿@if(TempData["message"] != null){
+
+    <div class="alert alert-warning">
+    TempData["message"]
+    </div>
+}
+
+
+
+<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>@ViewData["Title"] - MyMvcApp</title>
-    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.6.2/dist/css/bootstrap.min.css" integrity="sha384-xOolHFLEh07PJGoPkLv1IbcEPTNtaed2xpHsD9ESMhqIYd0nLMwNLD69Npy4HI+N" crossorigin="anonymous">
-      <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
-      <link rel="stylesheet" href="~/css/site.css">
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
+    <link rel="stylesheet" href="~/UserIdentityApp.styles.css" asp-append-version="true" />
     <!-- Diğer stil dosyalarını ekleyebilirsiniz -->
     <script src="https://cdn.jsdelivr.net/npm/jquery@3.5.1/dist/jquery.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.6.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-Fy6S3B9q64WdZWQUiU+q4/2Lc9npb8tCaSX9FK7E8HnRr0Jz8D6OP9dO5Vg3Q9ct" crossorigin="anonymous"></script>
@@ -29,12 +38,7 @@
                 <a class="nav-link" asp-controller="Home" asp-action="Index">Anasayfa <span class="sr-only">(current)</span></a>
             </li>
 
-            <li class="nav-item active">
-                <a class="nav-link" asp-controller="User" asp-action="Index">User <span class="sr-only">(current)</span></a>
-            </li>
-             <li class="nav-item active">
-                <a class="nav-link" asp-controller="Roles" asp-action="Index">Roles <span class="sr-only">(current)</span></a>
-            </li>
+            
 
             <li class="nav-item dropdown">
                 <a class="nav-link dropdown-toggle" href="#" role="button" data-toggle="dropdown" aria-expanded="false">
@@ -52,23 +56,44 @@
             <li class="nav-item">
                 <a class="nav-link" href="~/Test/Test">Test</a>
             </li>
-            <li class="nav-item">
-                <a class="nav-link" href="~/Forum/Forum">Forum</a>
-            </li>
+            
             <li class="nav-item">
                 <a class="nav-link" href="~/Sınav/Sınav">Sınav</a>
             </li>
         </ul>
 
-        <!-- Sağa hizalı menü öğeleri -->
-        <ul class="navbar-nav ml-auto">
-            <li class="nav-item">
-                <a class="nav-link" href="~/Uye/UyeOl">Üye Ol</a>
-            </li>
-            <li class="nav-item">
-                <a class="nav-link" href="~/Uye/GirisYap">Giriş yap</a>
-            </li>
-        </ul>
+        <div class="navbar-collapse collapse d-sm-inline-flex justify-content-between">
+                    <ul class="navbar-nav">
+                        @if(User.Identity?.IsAuthenticated == true){
+                            if(User.IsInRole("admin")){
+                        <li class="nav-item">
+                            <a class="nav-link text-dark" asp-area="" asp-controller="User" asp-action="Index">Users</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link text-dark" asp-area="" asp-controller="Roles" asp-action="Index">Roles</a>
+                        </li>
+                            }
+                        }
+                       
+                    </ul>
+                    <ul class="navbar-nav ms-auto">
+                        @if(User.Identity?.IsAuthenticated == true){
+                        <li class="nav-item">
+                            <a class="nav-link text-dark" asp-area="">Merhaba, @User.Identity.Name</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link text-dark" asp-area="" asp-controller="Account" asp-action="Logout">Logout</a>
+                        </li>
+                        }else{
+                        <li class="nav-item">
+                            <a class="nav-link text-dark" asp-area="" asp-controller="Account" asp-action="Login">Login</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link text-dark" asp-area="" asp-controller="Account" asp-action="Create">Register</a>
+                        </li>
+                        }                            
+                    </ul>
+                </div>
     </div>
 </nav>
 <!-- Diğer sayfa içeriği buraya gelecek -->
