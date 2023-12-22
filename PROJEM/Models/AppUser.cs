@@ -1,4 +1,3 @@
-// AppUser.cs
 using Microsoft.AspNetCore.Identity;
 
 namespace PROJEM.Models

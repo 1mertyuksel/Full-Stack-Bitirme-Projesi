@@ -2,6 +2,7 @@ using Microsoft.AspNetCore.Identity;
 using Microsoft.AspNetCore.Mvc;
 using PROJEM.Models;
 using PROJEM.ViewModels;
+using System.IO.Pipelines;
 
 namespace PROJEM.Controllers
 {
@@ -64,7 +65,12 @@ namespace PROJEM.Controllers
         public async Task<IActionResult> Create (CreateViewModel model){
 
             if(ModelState.IsValid){
-                var user = new AppUser{UserName = model.UserName, Email = model.Email, FullName = model.FullName};
+                var user = new AppUser
+                {
+                    UserName = model.UserName, 
+                    Email = model.Email,
+                    FullName = model.FullName
+                };
                 IdentityResult result = await _userManager.CreateAsync(user, model.Password);
 
                 if(result.Succeeded){
@@ -72,7 +78,7 @@ namespace PROJEM.Controllers
                     var url = Url.Action("ConfirmEmail","Account",new {user.Id,token});
 
                     //email
-                    await _emailSender.SendEmailAsync(user.Email, "Hesap Onayı",$"Lütfen mail hesabınızı onaylamak için linke <a href='http://localhost:5038{url}'> tıklayınız </a>.");
+                    await _emailSender.SendEmailAsync(user.Email, "Hesap Onayı", $"Lütfen mail hesabınızı onaylamak için linke <a href='http://localhost:5038{url}'> tıklayınız </a>");
                     TempData["message"] = "Email hesabınızdaki onay mailine tıklayınız.";
                     return RedirectToAction("Login","Account");
                 }

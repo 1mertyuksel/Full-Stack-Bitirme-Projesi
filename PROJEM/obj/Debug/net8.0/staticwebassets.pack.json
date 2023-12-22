@@ -9,6 +9,22 @@
       "PackagePath": "staticwebassets/Arteta(1).jpg"
     },
     {
+      "Id": "/home/mertyuksel/Desktop/FullStackBP/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/Corneer.jpg",
+      "PackagePath": "staticwebassets/Corneer.jpg"
+    },
+    {
+      "Id": "/home/mertyuksel/Desktop/FullStackBP/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/D.Simeone.jpg",
+      "PackagePath": "staticwebassets/D.Simeone.jpg"
+    },
+    {
+      "Id": "/home/mertyuksel/Desktop/FullStackBP/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/ORRANGE.jpg",
+      "PackagePath": "staticwebassets/ORRANGE.jpg"
+    },
+    {
+      "Id": "/home/mertyuksel/Desktop/FullStackBP/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/atletico.jpg",
+      "PackagePath": "staticwebassets/atletico.jpg"
+    },
+    {
       "Id": "/home/mertyuksel/Desktop/FullStackBP/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/coach.jpg",
       "PackagePath": "staticwebassets/coach.jpg"
     },
@@ -29,8 +45,20 @@
       "PackagePath": "staticwebassets/css/UyeOl.css"
     },
     {
+      "Id": "/home/mertyuksel/Desktop/FullStackBP/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/css/font-awesome.min.css",
+      "PackagePath": "staticwebassets/css/font-awesome.min.css"
+    },
+    {
+      "Id": "/home/mertyuksel/Desktop/FullStackBP/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/css/main.css",
+      "PackagePath": "staticwebassets/css/main.css"
+    },
+    {
       "Id": "/home/mertyuksel/Desktop/FullStackBP/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/css/site.css",
       "PackagePath": "staticwebassets/css/site.css"
+    },
+    {
+      "Id": "/home/mertyuksel/Desktop/FullStackBP/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/dark.jpg",
+      "PackagePath": "staticwebassets/dark.jpg"
     },
     {
       "Id": "/home/mertyuksel/Desktop/FullStackBP/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/favicon.ico",
@@ -45,8 +73,28 @@
       "PackagePath": "staticwebassets/js/Forum.js"
     },
     {
+      "Id": "/home/mertyuksel/Desktop/FullStackBP/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/js/jquery.min.js",
+      "PackagePath": "staticwebassets/js/jquery.min.js"
+    },
+    {
+      "Id": "/home/mertyuksel/Desktop/FullStackBP/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/js/main.js",
+      "PackagePath": "staticwebassets/js/main.js"
+    },
+    {
       "Id": "/home/mertyuksel/Desktop/FullStackBP/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/js/site.js",
       "PackagePath": "staticwebassets/js/site.js"
+    },
+    {
+      "Id": "/home/mertyuksel/Desktop/FullStackBP/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/js/skel.min.js",
+      "PackagePath": "staticwebassets/js/skel.min.js"
+    },
+    {
+      "Id": "/home/mertyuksel/Desktop/FullStackBP/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/js/sorucevap.js",
+      "PackagePath": "staticwebassets/js/sorucevap.js"
+    },
+    {
+      "Id": "/home/mertyuksel/Desktop/FullStackBP/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/js/util.js",
+      "PackagePath": "staticwebassets/js/util.js"
     },
     {
       "Id": "/home/mertyuksel/Desktop/FullStackBP/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/lib/bootstrap/LICENSE",
@@ -277,8 +325,48 @@
       "PackagePath": "staticwebassets/lib/jquery/dist/jquery.min.map"
     },
     {
+      "Id": "/home/mertyuksel/Desktop/FullStackBP/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/nages(2).jpg",
+      "PackagePath": "staticwebassets/nages(2).jpg"
+    },
+    {
+      "Id": "/home/mertyuksel/Desktop/FullStackBP/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/orange.jpg",
+      "PackagePath": "staticwebassets/orange.jpg"
+    },
+    {
+      "Id": "/home/mertyuksel/Desktop/FullStackBP/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/rteta.jpg",
+      "PackagePath": "staticwebassets/rteta.jpg"
+    },
+    {
+      "Id": "/home/mertyuksel/Desktop/FullStackBP/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/satien.jpg",
+      "PackagePath": "staticwebassets/satien.jpg"
+    },
+    {
       "Id": "/home/mertyuksel/Desktop/FullStackBP/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/tactics.jpeg",
       "PackagePath": "staticwebassets/tactics.jpeg"
+    },
+    {
+      "Id": "/home/mertyuksel/Desktop/FullStackBP/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/taktik1.jpg",
+      "PackagePath": "staticwebassets/taktik1.jpg"
+    },
+    {
+      "Id": "/home/mertyuksel/Desktop/FullStackBP/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/taktik2.jpg",
+      "PackagePath": "staticwebassets/taktik2.jpg"
+    },
+    {
+      "Id": "/home/mertyuksel/Desktop/FullStackBP/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/taktik3.jpg",
+      "PackagePath": "staticwebassets/taktik3.jpg"
+    },
+    {
+      "Id": "/home/mertyuksel/Desktop/FullStackBP/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/tcctts.jpg",
+      "PackagePath": "staticwebassets/tcctts.jpg"
+    },
+    {
+      "Id": "/home/mertyuksel/Desktop/FullStackBP/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/tctic.jpg",
+      "PackagePath": "staticwebassets/tctic.jpg"
+    },
+    {
+      "Id": "/home/mertyuksel/Desktop/FullStackBP/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/unai-emery-122.jpg",
+      "PackagePath": "staticwebassets/unai-emery-122.jpg"
     },
     {
       "Id": "obj/Debug/net8.0/staticwebassets/msbuild.PROJEM.Microsoft.AspNetCore.StaticWebAssets.props",

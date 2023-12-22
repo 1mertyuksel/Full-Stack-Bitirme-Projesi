@@ -9,22 +9,15 @@ using Microsoft.AspNetCore.Identity;
 using PROJEM.Models;
 
 
-
 var builder = WebApplication.CreateBuilder(args);
 
-builder.Services.AddScoped<IEmailSender, SmtpEmailSender>(i => 
-    new SmtpEmailSender(
-        builder.Configuration["EmailSender:Host"],
-        builder.Configuration.GetValue<int>("EmailSender:Port"),
-        builder.Configuration.GetValue<bool>("EmailSender:EnableSSL"),
-        builder.Configuration["EmailSender:Username"],
-        builder.Configuration["EmailSender:Password"]
-    )
-);
-
-
+builder.Services.AddScoped<IEmailSender, SmtpEmailSender>(i=>
+                            new SmtpEmailSender(builder.Configuration["EmailSender:Host"],
+                                                builder.Configuration.GetValue<int>("EmailSender:Port"),
+                                                builder.Configuration.GetValue<bool>("EmailSender:EnableSSL"),
+                                                builder.Configuration["EmailSender:UserName"],
+                                                builder.Configuration["EmailSender:Password"]));
 builder.Services.AddControllersWithViews();
-
 
 builder.Services.AddDbContext<IdentityContext>(
     options => options.UseSqlite(builder.Configuration["ConnectionStrings:SqLite_Connection"]));
@@ -40,12 +33,12 @@ builder.Services.Configure<IdentityOptions>(options =>
     options.Password.RequireUppercase = false;
     options.Password.RequiredLength = 8;
     options.Password.RequiredUniqueChars = 1;
-    options.Lockout.DefaultLockoutTimeSpan = TimeSpan.FromMinutes(15);
-    options.Lockout.MaxFailedAccessAttempts = 10;
+
+    options.Lockout.DefaultLockoutTimeSpan = TimeSpan.FromMinutes(5);
+    options.Lockout.MaxFailedAccessAttempts = 5;
 
     options.SignIn.RequireConfirmedEmail = true;
 });
-
 
 builder.Services.ConfigureApplicationCookie(options => {
     options.LoginPath = "/Account/Login";
@@ -53,7 +46,6 @@ builder.Services.ConfigureApplicationCookie(options => {
     options.SlidingExpiration = true;
     options.ExpireTimeSpan = TimeSpan.FromDays(30);
 });
-
 
 var app = builder.Build();
 
@@ -79,4 +71,3 @@ app.MapControllerRoute(
 IdentitySeedData.IdentityTestUser(app);
 
 app.Run();
-

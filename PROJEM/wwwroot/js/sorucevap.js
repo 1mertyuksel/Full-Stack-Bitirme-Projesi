@@ -1,4 +1,4 @@
-﻿// wwwroot/sorucevap.js//
+// wwwroot/sorucevap.js//
 function cevaplarıKontrolEt() {
     let score = 0; // Skoru dışarıda tanımla
 

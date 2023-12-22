@@ -1,85 +1,79 @@
-<!--Urunler/MacAnalizleri.cshmtl -->
 @{
     Layout = "_Layout";
-    ViewData["Title"] = "Maç Analizleri";
+    ViewData["Title"] = "Oyuncu Analizleri";
 }
 
+<h2> OYUNCU ANALİZLERİ </h2>
 
-<style>
-        /* Özel tasarım stilinizi buraya ekleyin */
-        .analiz-baslik {
-            font-size: 28px;
-            font-weight: bold;
-            margin-top: 20px;
-            margin-bottom: 10px;
-        }
+<div class="my-4"></div> <!-- Boşluk ekledim -->
 
-        .analiz-aciklama {
-            font-size: 16px;
-            margin-bottom: 15px;
-        }
+<div class="row">
+    <div class="col-4">
+        <nav id="navbar-example3" class="h-100 flex-column align-items-stretch pe-4 border-end">
+            <nav class="nav nav-pills flex-column">
+                <a class="nav-link" href="#item-1">Takımların Oyun Şekilleri</a>
+                <nav class="nav nav-pills flex-column">
+                   
+                </nav>
+                <a class="nav-link" href="#item-2">Topa Sahipken</a>
+                <a class="nav-link" href="#item-3">Top Rakipteyken</a>
+                <a class="nav-link" href="#item-4">Geçiş Anları</a>
+                <a class="nav-link" href="#item-4">Duran Toplar</a>
 
-        .analiz-madde {
-            margin-bottom: 15px;
-        }
 
-        .analiz-foto {
-            width: 100%;
-            max-width: 600px;
-            margin-top: 20px;
-        }
-    </style>
+                <nav class="nav nav-pills flex-column">
+                    
+                </nav>
+            </nav>
+        </nav>
+    </div>
 
-    <!-- Sayfa içeriği buraya gelecek -->
-    <div class="container">
-    <h1 class="analiz-baslik">@ViewData["Title"]</h1>
+    <div class="col-8">
+        <div id="carouselExample" class="carousel slide" data-bs-ride="carousel">
+            <div class="carousel-inner">
+                <div class="carousel-item active">
+                    <img src="taktik1.jpg" class="d-block w-100" alt="Image 1">
+                </div>
+                <div class="carousel-item">
+                    <img src="taktik2.jpg" class="d-block w-100" alt="Image 2">
+                </div>
+                <div class="carousel-item">
+                    <img src="taktik3.jpg" class="d-block w-100" alt="Image 3">
+                </div>
+            </div>
+            <button class="carousel-control-prev" type="button" data-bs-target="#carouselExample" data-bs-slide="prev">
+                <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+                <span class="visually-hidden">Previous</span>
+            </button>
+            <button class="carousel-control-next" type="button" data-bs-target="#carouselExample" data-bs-slide="next">
+                <span class="carousel-control-next-icon" aria-hidden="true"></span>
+                <span class="visually-hidden">Next</span>
+            </button>
+        </div>
 
-    <!-- Takımların Oyun Şekilleri -->
-    <div class="card analiz-kart">
-        <div class="card-body analiz-aciklama">
-            <h5 class="card-title">Takımların Oyun Şekilleri:</h5>
-            <p>Futbol sahasındaki taktiksel düzenlemeler, bir takımın başarısını etkileyen kilit unsurlardan biridir. Bu bölümde, takımların genel oyun felsefeleri ve taktik yaklaşımları detaylı bir şekilde ele alınacaktır. Formasyonlar, presleme stratejileri ve oyun planları üzerine yapılan analizler, takımların saha içindeki performansını anlama konusunda rehberlik edecektir.</p>
+        <div data-bs-spy="scroll" data-bs-target="#navbar-example3" data-bs-smooth-scroll="true" class="scrollspy-example-2" tabindex="0">
+            <div id="item-1">
+                <h4>Takımların Oyun Şekilleri</h4>
+                <p>Futbol sahasındaki taktiksel düzenlemeler, bir takımın başarısını etkileyen kilit unsurlardan biridir. Bu bölümde, takımların genel oyun felsefeleri ve taktik yaklaşımları detaylı bir şekilde ele alınacaktır. Formasyonlar, presleme stratejileri ve oyun planları üzerine yapılan analizler, takımların saha içindeki performansını anlama konusunda rehberlik edecektir.</p>
+            </div>
+            <div id="item-4">
+                <h4>Topa Sahipken</h4>
+                <p>Bu kısımda, takımların topa sahipken sergiledikleri performans incelenecek. Pas istatistikleri, topa sahip olma süreleri ve pas bağlantılarına yönelik analizlerle takımların hücum organizasyonları detaylı bir şekilde gözler önüne serilecek. Görsellerle desteklenen anlatımlar, takımların saha içindeki etkili pas trafiği ve pozisyon alma stratejilerini açığa çıkaracak.</p>
+            </div>
+            <div id="item-2">
+                <h4>Top Rakipteyken</h4>
+                <p>Bu bölümde, takımların top rakipteyken sergiledikleri performansın analizi yapılacak. Top kayıpları, rakip pres stratejileri ve hızlı geçiş oyunları üzerine detaylı analizler, takımların savunma organizasyonu ve hücum stratejilerine dair kapsamlı bir bakış sunacaktır.</p>
+            </div>
+            <div id="item-3">
+                <h4>Geçiş Anları</h4>
+                <p>Hızlı geçişlerin ve karşı hücumların maçın seyrini nasıl etkilediğini anlamak, bu bölümün odak noktası olacaktır. Takımların hızlı geçişlerdeki performansları, geçiş savunması ve etkili hücum stratejileri üzerine detaylı incelemeler, maç içindeki kritik anları aydınlatacaktır.</p>
+            </div>
+            
+            <div id="item-4">
+                <h4>Duran Toplar</h4>
+                <p>Duran toplar, birçok maçın kaderini belirleyebilecek önemli anlardır. Bu bölümde, köşe vuruşları, serbest vuruşlar ve ceza sahası içindeki duran topların istatistiksel analizi yapılacak. Skora etkisi olan duran topların detaylı açıklamaları ve örnekleri, takımların stratejik duran top kullanımlarını ortaya koyacaktır.</p>
+            </div>
         </div>
     </div>
+</div>
 
-    <!-- Topa Sahipken -->
-    <div class="card analiz-kart">
-        <div class="card-body analiz-aciklama">
-            <h5 class="card-title">Topa Sahipken:</h5>
-            <p>Bu kısımda, takımların topa sahipken sergiledikleri performans incelenecek. Pas istatistikleri, topa sahip olma süreleri ve pas bağlantılarına yönelik analizlerle takımların hücum organizasyonları detaylı bir şekilde gözler önüne serilecek. Görsellerle desteklenen anlatımlar, takımların saha içindeki etkili pas trafiği ve pozisyon alma stratejilerini açığa çıkaracak.</p>
-        </div>
-    </div>
-
-    <!-- Top Rakipteyken -->
-    <div class="card analiz-kart">
-        <div class="card-body analiz-aciklama">
-            <h5 class="card-title">Top Rakipteyken:</h5>
-            <p>Bu bölümde, takımların top rakipteyken sergiledikleri performansın analizi yapılacak. Top kayıpları, rakip pres stratejileri ve hızlı geçiş oyunları üzerine detaylı analizler, takımların savunma organizasyonu ve hücum stratejilerine dair kapsamlı bir bakış sunacaktır.</p>
-        </div>
-    </div>
-
-    <!-- Geçiş Anları -->
-    <div class="card analiz-kart">
-        <div class="card-body analiz-aciklama">
-            <h5 class="card-title">Geçiş Anları:</h5>
-            <p>Hızlı geçişlerin ve karşı hücumların maçın seyrini nasıl etkilediğini anlamak, bu bölümün odak noktası olacaktır. Takımların hızlı geçişlerdeki performansları, geçiş savunması ve etkili hücum stratejileri üzerine detaylı incelemeler, maç içindeki kritik anları aydınlatacaktır.</p>
-        </div>
-    </div>
-
-    <!-- Duran Toplar -->
-    <div class="card analiz-kart">
-        <div class="card-body analiz-aciklama">
-            <h5 class="card-title">Duran Toplar:</h5>
-            <p>Duran toplar, birçok maçın kaderini belirleyebilecek önemli anlardır. Bu bölümde, köşe vuruşları, serbest vuruşlar ve ceza sahası içindeki duran topların istatistiksel analizi yapılacak. Skora etkisi olan duran topların detaylı açıklamaları ve örnekleri, takımların stratejik duran top kullanımlarını ortaya koyacaktır.</p>
-        </div>
-    </div>
-
-
-
-        <!-- Fotoğraf ekleme --> 
-        <img class="analiz-foto" src="Arteta(1).jpg" alt="Analiz Fotoğrafı">
-
-       
-    </div>
-
-    
