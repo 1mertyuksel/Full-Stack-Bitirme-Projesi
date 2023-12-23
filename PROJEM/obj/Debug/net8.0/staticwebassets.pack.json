@@ -57,8 +57,24 @@
       "PackagePath": "staticwebassets/css/site.css"
     },
     {
+      "Id": "/home/mertyuksel/Desktop/FullStackBP/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/css/urunler.css",
+      "PackagePath": "staticwebassets/css/urunler.css"
+    },
+    {
       "Id": "/home/mertyuksel/Desktop/FullStackBP/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/dark.jpg",
       "PackagePath": "staticwebassets/dark.jpg"
+    },
+    {
+      "Id": "/home/mertyuksel/Desktop/FullStackBP/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/epl1.jpg",
+      "PackagePath": "staticwebassets/epl1.jpg"
+    },
+    {
+      "Id": "/home/mertyuksel/Desktop/FullStackBP/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/epl2.jpg",
+      "PackagePath": "staticwebassets/epl2.jpg"
+    },
+    {
+      "Id": "/home/mertyuksel/Desktop/FullStackBP/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/epl3.jpg",
+      "PackagePath": "staticwebassets/epl3.jpg"
     },
     {
       "Id": "/home/mertyuksel/Desktop/FullStackBP/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/favicon.ico",
@@ -341,6 +357,30 @@
       "PackagePath": "staticwebassets/satien.jpg"
     },
     {
+      "Id": "/home/mertyuksel/Desktop/FullStackBP/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/setpiece.jpg",
+      "PackagePath": "staticwebassets/setpiece.jpg"
+    },
+    {
+      "Id": "/home/mertyuksel/Desktop/FullStackBP/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/stats.jpg",
+      "PackagePath": "staticwebassets/stats.jpg"
+    },
+    {
+      "Id": "/home/mertyuksel/Desktop/FullStackBP/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/stats2.jpg",
+      "PackagePath": "staticwebassets/stats2.jpg"
+    },
+    {
+      "Id": "/home/mertyuksel/Desktop/FullStackBP/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/stats3.jpg",
+      "PackagePath": "staticwebassets/stats3.jpg"
+    },
+    {
+      "Id": "/home/mertyuksel/Desktop/FullStackBP/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/stats4.jpg",
+      "PackagePath": "staticwebassets/stats4.jpg"
+    },
+    {
+      "Id": "/home/mertyuksel/Desktop/FullStackBP/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/stats5.jpg",
+      "PackagePath": "staticwebassets/stats5.jpg"
+    },
+    {
       "Id": "/home/mertyuksel/Desktop/FullStackBP/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/tactics.jpeg",
       "PackagePath": "staticwebassets/tactics.jpeg"
     },
@@ -363,6 +403,14 @@
     {
       "Id": "/home/mertyuksel/Desktop/FullStackBP/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/tctic.jpg",
       "PackagePath": "staticwebassets/tctic.jpg"
+    },
+    {
+      "Id": "/home/mertyuksel/Desktop/FullStackBP/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/teory1.jpg",
+      "PackagePath": "staticwebassets/teory1.jpg"
+    },
+    {
+      "Id": "/home/mertyuksel/Desktop/FullStackBP/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/teory2.jpg",
+      "PackagePath": "staticwebassets/teory2.jpg"
     },
     {
       "Id": "/home/mertyuksel/Desktop/FullStackBP/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/unai-emery-122.jpg",

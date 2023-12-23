@@ -6,33 +6,166 @@
 
 </head>
 
+<style>
+        .card-body {
+            display: flex;
+            align-items: center;
+            
+        }
+
+        .form-group {
+            margin-bottom: 1rem;
+        }
+
+        .embed-responsive {
+            width: 50%; /* Video genişliği ayarlayabilirsiniz */
+        }
+
+        .embed-responsive iframe {
+            width: 100%;
+        }
+        .custom-card-body {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+        }
+
+        .custom-form-group {
+            margin-bottom: 1rem;
+        }
+
+        .custom-embed-responsive {
+            width: 50%; /* Video genişliği ayarlayabilirsiniz */
+        }
+
+        .custom-embed-responsive iframe {
+            width: 100%;
+        }
+        #checkButton {
+            
+            
+            margin-left: 100px;
+            
+            margin-bottom: 50px;
+        }
+
+    </style>
+
+
 <body>
 
 
 <div class="container mt-5">
+        <div class="card">
+            <div class="card-body">
+                <form id="1" style="width: 50%;">
+                    <h5 class="card-title">Soru 1: Golü atan oyuncu pozisyonda kaç kez ayak değiştirdi?</h5>
+                    <div class="form-group">
+                        <input type="radio" id="secenekA1" name="cevap1" value="A">
+                        <label class="ml-2" for="secenekA1">A) 3</label>
+                    </div>
+                    <div class="form-group">
+                        <input type="radio" id="secenekB1" name="cevap1" value="B">
+                        <label class="ml-2" for="secenekB1">B) 4</label>
+                    </div>
+                    <div class="form-group">
+                        <input type="radio" id="secenekC1" name="cevap1" value="C">
+                        <label class="ml-2" for="secenekC1">C) 5</label>
+                    </div>
+                    <div class="form-group">
+                        <input type="radio" id="secenekD1" name="cevap1" value="D">
+                        <label class="ml-2" for="secenekD1">D) 6</label>
+                    </div>
+                </form>
+
+                <div class="embed-responsive embed-responsive-16by9">
+                    <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/bKWo0MSdNY0" allowfullscreen></iframe>
+                </div>
+            </div>
+        </div>
+    </div>
+
+
+<div class="container mt-5">
     <div class="card">
         <div class="card-body">
-            <form id="1">
-                <h5 class="card-title">Soru 1: Hangi renkler birincil renklerdir?</h5>
+            <form id="2">
+                <h5 class="card-title">Soru 2: Aşağıdaki cümlelerden hangilerini bir scouttan duymamamız gerekir?</h5>
                 <div class="form-group">
-                    <input type="radio" id="secenekA1" name="cevap1" value="A">
-                    <label class="ml-2" for="secenekA1">A) Kırmızı, Yeşil, Mavi</label>
+                    <input type="radio" id="secenekA1" name="cevap2" value="A">
+                    <label class="ml-2" for="secenekA1">A) Oyuncunun sakatlıktan döndükten sonraki ilk maçı.</label>
                 </div>
                 <div class="form-group">
-                    <input type="radio" id="secenekB1" name="cevap1" value="B">
-                    <label class="ml-2" for="secenekB1">B) Sarı, Mavi, Kırmızı</label>
+                    <input type="radio" id="secenekB1" name="cevap2" value="B">
+                    <label class="ml-2" for="secenekB1">B) Ben futbolcuyu yürüyüşünden anlarım.</label>
                 </div>
                 <div class="form-group">
-                    <input type="radio" id="secenekC1" name="cevap1" value="C">
-                    <label class="ml-2" for="secenekC1">C) Siyah, Beyaz, Gri</label>
+                    <input type="radio" id="secenekC1" name="cevap2" value="C">
+                    <label class="ml-2" for="secenekC1">C) Bu oyuncu geçiş oyununda faydalı olabilir.</label>
                 </div>
                 <div class="form-group">
-                    <input type="radio" id="secenekD1" name="cevap1" value="D">
-                    <label class="ml-2" for="secenekD1">D) Turuncu, Yeşil, Mor</label>
+                    <input type="radio" id="secenekD1" name="cevap2" value="D">
+                    <label class="ml-2" for="secenekD1">D) Oyuncu kendi ülkesi dışında hiç oynamamış.</label>
                 </div>
-                <div class="embed-responsive embed-responsive-16by9">
-                        <iframe class="embed-responsive-item" src="https://www.youtube.com/watch?v=wDcLb3n7VEY" allowfullscreen></iframe>
+                
+            </form>
+        </div>
+    </div>
+</div>
+
+
+<div class="container mt-5">
+        <div class="card">
+            <div class="custom-card-body">
+                <form id="3">
+                    <h5 class="card-title">Soru 3: Maç sonrası yapılan analiz toplantısında, <br> izlediğiniz klipteki golde teknik direktör <br> hangi oyuncuyu diğerlerinden daha sorumlu tutacaktır?</h5>
+                    <div class="custom-form-group">
+                        <input type="radio" id="secenekA1" name="cevap3" value="A">
+                        <label class="ml-2" for="secenekA1">A) Kaleci</label>
                     </div>
+                    <div class="custom-form-group">
+                        <input type="radio" id="secenekB1" name="cevap3" value="B">
+                        <label class="ml-2" for="secenekB1">B) 14 numara</label>
+                    </div>
+                    <div class="custom-form-group">
+                        <input type="radio" id="secenekC1" name="cevap3" value="C">
+                        <label class="ml-2" for="secenekC1">C) 34 numara</label>
+                    </div>
+                    <div class="custom-form-group">
+                        <input type="radio" id="secenekD1" name="cevap3" value="D">
+                        <label class="ml-2" for="secenekD1">D) 22 numara</label>
+                    </div>
+                </form>
+                <div class="custom-embed-responsive">
+                    <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/2wxopZ_9YSY" allowfullscreen></iframe>
+                </div>
+            </div>
+        </div>
+    </div>
+
+
+<div class="container mt-5">
+    <div class="card">
+        <div class="card-body">
+            <form id="4">
+                <h5 class="card-title">Soru 4: Aşağıdakilerden hangisi bir oyun planı değildir?</h5>
+                <div class="form-group">
+                    <input type="radio" id="secenekA1" name="cevap4" value="A">
+                    <label class="ml-2" for="secenekA1">A) Daha verimli hücum yapan sol tarafları yerine oyunu sağa yönlendirelim</label>
+                </div>
+                <div class="form-group">
+                    <input type="radio" id="secenekB1" name="cevap4" value="B">
+                    <label class="ml-2" for="secenekB1">B) 4-4-2 oynayalım</label>
+                </div>
+                <div class="form-group">
+                    <input type="radio" id="secenekC1" name="cevap4" value="C">
+                    <label class="ml-2" for="secenekC1">C) 2. Bölgede baskıya başlayalım</label>
+                </div>
+                <div class="form-group">
+                    <input type="radio" id="secenekD1" name="cevap4" value="D">
+                    <label class="ml-2" for="secenekD1">D) Stoperleri uzun topa zorlayalım</label>
+                </div>
+                
             </form>
         </div>
     </div>
@@ -42,122 +175,61 @@
 <div class="container mt-5">
     <div class="card">
         <div class="card-body">
-            <form id="1">
-                <h5 class="card-title">Soru 1: Hangi renkler birincil renklerdir?</h5>
+            <form id="5">
+                <h5 class="card-title">Soru 5: Hangisi duran top savunma stilleri arasında değilidr? </h5>
                 <div class="form-group">
-                    <input type="radio" id="secenekA1" name="cevap1" value="A">
-                    <label class="ml-2" for="secenekA1">A) Kırmızı, Yeşil, Mavi</label>
+                    <input type="radio" id="secenekA1" name="cevap5" value="A">
+                    <label class="ml-2" for="secenekA1">A) Alan savunması</label>
                 </div>
                 <div class="form-group">
-                    <input type="radio" id="secenekB1" name="cevap1" value="B">
-                    <label class="ml-2" for="secenekB1">B) Sarı, Mavi, Kırmızı</label>
+                    <input type="radio" id="secenekB1" name="cevap5" value="B">
+                    <label class="ml-2" for="secenekB1">B) Adam adama savunma</label>
                 </div>
                 <div class="form-group">
-                    <input type="radio" id="secenekC1" name="cevap1" value="C">
-                    <label class="ml-2" for="secenekC1">C) Siyah, Beyaz, Gri</label>
+                    <input type="radio" id="secenekC1" name="cevap5" value="C">
+                    <label class="ml-2" for="secenekC1">C) Alan-Adam karışık (mix)</label>
                 </div>
                 <div class="form-group">
-                    <input type="radio" id="secenekD1" name="cevap1" value="D">
-                    <label class="ml-2" for="secenekD1">D) Turuncu, Yeşil, Mor</label>
+                    <input type="radio" id="secenekD1" name="cevap5" value="D">
+                    <label class="ml-2" for="secenekD1">D) Yapışmalı savunma</label>
                 </div>
-                <div class="embed-responsive embed-responsive-16by9">
-                        <iframe class="embed-responsive-item" src="https://www.youtube.com/watch?v=wDcLb3n7VEY" allowfullscreen></iframe>
-                    </div>
+                
             </form>
         </div>
     </div>
 </div>
+
+
 
 <div class="container mt-5">
-    <div class="card">
-        <div class="card-body">
-            <form id="1">
-                <h5 class="card-title">Soru 1: Hangi renkler birincil renklerdir?</h5>
-                <div class="form-group">
-                    <input type="radio" id="secenekA1" name="cevap1" value="A">
-                    <label class="ml-2" for="secenekA1">A) Kırmızı, Yeşil, Mavi</label>
-                </div>
-                <div class="form-group">
-                    <input type="radio" id="secenekB1" name="cevap1" value="B">
-                    <label class="ml-2" for="secenekB1">B) Sarı, Mavi, Kırmızı</label>
-                </div>
-                <div class="form-group">
-                    <input type="radio" id="secenekC1" name="cevap1" value="C">
-                    <label class="ml-2" for="secenekC1">C) Siyah, Beyaz, Gri</label>
-                </div>
-                <div class="form-group">
-                    <input type="radio" id="secenekD1" name="cevap1" value="D">
-                    <label class="ml-2" for="secenekD1">D) Turuncu, Yeşil, Mor</label>
-                </div>
-                <div class="embed-responsive embed-responsive-16by9">
-                        <iframe class="embed-responsive-item" src="https://www.youtube.com/watch?v=wDcLb3n7VEY" allowfullscreen></iframe>
+        <div class="card">
+            <div class="custom-card-body">
+                <form id="6">
+                    <h5 class="card-title">Soru 6: İzlediğiniz video aşağıdaki seçeneklerden hangisini içermez?</h5>
+                    <div class="custom-form-group">
+                        <input type="radio" id="secenekA1" name="cevap6" value="A">
+                        <label class="ml-2" for="secenekA1">A) Çakılı stoper</label>
                     </div>
-            </form>
+                    <div class="custom-form-group">
+                        <input type="radio" id="secenekB1" name="cevap6" value="B">
+                        <label class="ml-2" for="secenekB1">B) İçeri bindiren bek</label>
+                    </div>
+                    <div class="custom-form-group">
+                        <input type="radio" id="secenekC1" name="cevap6" value="C">
+                        <label class="ml-2" for="secenekC1">C) Libero Kaleci</label>
+                    </div>
+                    <div class="custom-form-group">
+                        <input type="radio" id="secenekD1" name="cevap6" value="D">
+                        <label class="ml-2" for="secenekD1">D) Oyun kurulumu için geriye gelen forvet</label>
+                    </div>
+                </form>
+                <div class="custom-embed-responsive">
+                    <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/Kl5299GhTLI" allowfullscreen></iframe>
+                </div>
+            </div>
         </div>
     </div>
-</div>
-
-<div class="container mt-5">
-    <div class="card">
-        <div class="card-body">
-            <form id="1">
-                <h5 class="card-title">Soru 1: Hangi renkler birincil renklerdir?</h5>
-                <div class="form-group">
-                    <input type="radio" id="secenekA1" name="cevap1" value="A">
-                    <label class="ml-2" for="secenekA1">A) Kırmızı, Yeşil, Mavi</label>
-                </div>
-                <div class="form-group">
-                    <input type="radio" id="secenekB1" name="cevap1" value="B">
-                    <label class="ml-2" for="secenekB1">B) Sarı, Mavi, Kırmızı</label>
-                </div>
-                <div class="form-group">
-                    <input type="radio" id="secenekC1" name="cevap1" value="C">
-                    <label class="ml-2" for="secenekC1">C) Siyah, Beyaz, Gri</label>
-                </div>
-                <div class="form-group">
-                    <input type="radio" id="secenekD1" name="cevap1" value="D">
-                    <label class="ml-2" for="secenekD1">D) Turuncu, Yeşil, Mor</label>
-                </div>
-                <div class="embed-responsive embed-responsive-16by9">
-                        <iframe class="embed-responsive-item" src="https://www.youtube.com/watch?v=wDcLb3n7VEY" allowfullscreen></iframe>
-                    </div>
-            </form>
-        </div>
-    </div>
-</div>
-
-<div class="container mt-5">
-    <div class="card">
-        <div class="card-body">
-            <form id="1">
-                <h5 class="card-title">Soru 1: Hangi renkler birincil renklerdir?</h5>
-                <div class="form-group">
-                    <input type="radio" id="secenekA1" name="cevap1" value="A">
-                    <label class="ml-2" for="secenekA1">A) Kırmızı, Yeşil, Mavi</label>
-                </div>
-                <div class="form-group">
-                    <input type="radio" id="secenekB1" name="cevap1" value="B">
-                    <label class="ml-2" for="secenekB1">B) Sarı, Mavi, Kırmızı</label>
-                </div>
-                <div class="form-group">
-                    <input type="radio" id="secenekC1" name="cevap1" value="C">
-                    <label class="ml-2" for="secenekC1">C) Siyah, Beyaz, Gri</label>
-                </div>
-                <div class="form-group">
-                    <input type="radio" id="secenekD1" name="cevap1" value="D">
-                    <label class="ml-2" for="secenekD1">D) Turuncu, Yeşil, Mor</label>
-                </div>
-                <div class="embed-responsive embed-responsive-16by9">
-                        <iframe class="embed-responsive-item" src="https://www.youtube.com/watch?v=wDcLb3n7VEY" allowfullscreen></iframe>
-                    </div>
-            </form>
-        </div>
-    </div>
-</div>
-
-<button type="button" onclick="cevaplarıKontrolEt()">Cevapları Kontrol Et</button>
-
-
+ <button type="button" class="btn btn-success" id="checkButton" onclick="cevaplarıKontrolEt()">Cevapları Kontrol Et</button>
 
 </body>
 </html>

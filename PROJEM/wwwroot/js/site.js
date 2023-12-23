@@ -1,8 +1,7 @@
-﻿// wwwroot/sorucevap.js//
-function cevaplarıKontrolEt() {
+﻿function cevaplarıKontrolEt() {
     let score = 0; // Skoru dışarıda tanımla
 
-    for (let i = 1; i <= 5; i++) {
+    for (let i = 1; i <= 6; i++) {
         let formId = i;
         let secilenCevap = document.querySelector('input[name="cevap' + formId + '"]:checked');
 
@@ -11,18 +10,21 @@ function cevaplarıKontrolEt() {
 
         switch (formId) {
             case 1:
-                dogruCevap = "A";
-                break;
-            case 2:
                 dogruCevap = "C";
                 break;
+            case 2:
+                dogruCevap = "B";
+                break;
             case 3:
-                dogruCevap = "A";
+                dogruCevap = "C";
                 break;
             case 4:
-                dogruCevap = "A";
+                dogruCevap = "B";
                 break;
             case 5:
+                dogruCevap = "D";
+                break;
+                case 6:
                 dogruCevap = "A";
                 break;
             default:

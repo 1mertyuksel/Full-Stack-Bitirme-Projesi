@@ -1,0 +1,14 @@
+
+    /* Her div arasına 20px'lik boşluk bırak */
+    .custom-margin {
+        margin-bottom: 90px;
+        
+    }
+
+    /* Takım oyun şekilleri ile carousel arasına 50px'lik boşluk bırak */
+    #navbar-example3, #carouselExample {
+        margin-bottom: 50px;
+    }
+     h2 {
+    margin-left: 20px;  
+      }
