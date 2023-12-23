@@ -11,7 +11,7 @@ namespace PROJEM.Data
         public List<SecenekModel>? Secenekler { get; set; }
         public string? DogruCevap { get; set; }
 
-        // KullanıcıCevabi için bir property ekleyin
+        
         public string? KullaniciCevabi { get; set; }
     }
 

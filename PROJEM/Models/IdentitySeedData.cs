@@ -2,7 +2,7 @@ using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.DependencyInjection;
-using PROJEM.Data; // IdentityContext sınıfının tanımlandığı namespace'e göre ekleyin
+using PROJEM.Data; 
 using PROJEM.Models;
 
 namespace PROJEM.Models
@@ -33,7 +33,7 @@ namespace PROJEM.Models
                     user = new AppUser
                     {
                         FullName = "Mert Yüksel",
-                        UserName = adminUser, // Kullanıcı adını da belirtmelisiniz
+                        UserName = adminUser, 
                         Email = "mertyuksel680@gmail.com",
                         PhoneNumber = "5531244941"
                     };
