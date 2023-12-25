@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "RloJF5GvIL/kx1HRpFgQLVMMvEzg//RHqHwI3BMSXqU=",
+  "Hash": "s/mO5ky7iIZlhSW/u2HgE9wE+Gq8MOn1EszLesCqgwM=",
   "Source": "PROJEM",
   "BasePath": "_content/PROJEM",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "PROJEM/wwwroot",
       "Source": "PROJEM",
-      "ContentRoot": "/home/mertyuksel/Desktop/FullStackBP/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/",
+      "ContentRoot": "/home/mertyuksel/Desktop/SUNUM/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/",
       "BasePath": "_content/PROJEM",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "/home/mertyuksel/Desktop/FullStackBP/Full-Stack-Bitirme-Projesi/PROJEM/obj/Debug/net8.0/scopedcss/bundle/PROJEM.styles.css",
+      "Identity": "/home/mertyuksel/Desktop/SUNUM/Full-Stack-Bitirme-Projesi/PROJEM/obj/Debug/net8.0/scopedcss/bundle/PROJEM.styles.css",
       "SourceId": "PROJEM",
       "SourceType": "Computed",
-      "ContentRoot": "/home/mertyuksel/Desktop/FullStackBP/Full-Stack-Bitirme-Projesi/PROJEM/obj/Debug/net8.0/scopedcss/bundle/",
+      "ContentRoot": "/home/mertyuksel/Desktop/SUNUM/Full-Stack-Bitirme-Projesi/PROJEM/obj/Debug/net8.0/scopedcss/bundle/",
       "BasePath": "_content/PROJEM",
       "RelativePath": "PROJEM.styles.css",
       "AssetKind": "All",
@@ -33,13 +33,13 @@
       "AssetTraitValue": "ApplicationBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "/home/mertyuksel/Desktop/FullStackBP/Full-Stack-Bitirme-Projesi/PROJEM/obj/Debug/net8.0/scopedcss/bundle/PROJEM.styles.css"
+      "OriginalItemSpec": "/home/mertyuksel/Desktop/SUNUM/Full-Stack-Bitirme-Projesi/PROJEM/obj/Debug/net8.0/scopedcss/bundle/PROJEM.styles.css"
     },
     {
-      "Identity": "/home/mertyuksel/Desktop/FullStackBP/Full-Stack-Bitirme-Projesi/PROJEM/obj/Debug/net8.0/scopedcss/projectbundle/PROJEM.bundle.scp.css",
+      "Identity": "/home/mertyuksel/Desktop/SUNUM/Full-Stack-Bitirme-Projesi/PROJEM/obj/Debug/net8.0/scopedcss/projectbundle/PROJEM.bundle.scp.css",
       "SourceId": "PROJEM",
       "SourceType": "Computed",
-      "ContentRoot": "/home/mertyuksel/Desktop/FullStackBP/Full-Stack-Bitirme-Projesi/PROJEM/obj/Debug/net8.0/scopedcss/projectbundle/",
+      "ContentRoot": "/home/mertyuksel/Desktop/SUNUM/Full-Stack-Bitirme-Projesi/PROJEM/obj/Debug/net8.0/scopedcss/projectbundle/",
       "BasePath": "_content/PROJEM",
       "RelativePath": "PROJEM.bundle.scp.css",
       "AssetKind": "All",
@@ -52,13 +52,13 @@
       "AssetTraitValue": "ProjectBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "/home/mertyuksel/Desktop/FullStackBP/Full-Stack-Bitirme-Projesi/PROJEM/obj/Debug/net8.0/scopedcss/projectbundle/PROJEM.bundle.scp.css"
+      "OriginalItemSpec": "/home/mertyuksel/Desktop/SUNUM/Full-Stack-Bitirme-Projesi/PROJEM/obj/Debug/net8.0/scopedcss/projectbundle/PROJEM.bundle.scp.css"
     },
     {
-      "Identity": "/home/mertyuksel/Desktop/FullStackBP/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/Arteta(1).jpg",
+      "Identity": "/home/mertyuksel/Desktop/SUNUM/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/Arteta(1).jpg",
       "SourceId": "PROJEM",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/mertyuksel/Desktop/FullStackBP/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/",
+      "ContentRoot": "/home/mertyuksel/Desktop/SUNUM/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/",
       "BasePath": "_content/PROJEM",
       "RelativePath": "Arteta(1).jpg",
       "AssetKind": "All",
@@ -74,10 +74,10 @@
       "OriginalItemSpec": "wwwroot/Arteta(1).jpg"
     },
     {
-      "Identity": "/home/mertyuksel/Desktop/FullStackBP/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/atletico.jpg",
+      "Identity": "/home/mertyuksel/Desktop/SUNUM/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/atletico.jpg",
       "SourceId": "PROJEM",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/mertyuksel/Desktop/FullStackBP/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/",
+      "ContentRoot": "/home/mertyuksel/Desktop/SUNUM/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/",
       "BasePath": "_content/PROJEM",
       "RelativePath": "atletico.jpg",
       "AssetKind": "All",
@@ -93,10 +93,10 @@
       "OriginalItemSpec": "wwwroot/atletico.jpg"
     },
     {
-      "Identity": "/home/mertyuksel/Desktop/FullStackBP/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/coach.jpg",
+      "Identity": "/home/mertyuksel/Desktop/SUNUM/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/coach.jpg",
       "SourceId": "PROJEM",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/mertyuksel/Desktop/FullStackBP/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/",
+      "ContentRoot": "/home/mertyuksel/Desktop/SUNUM/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/",
       "BasePath": "_content/PROJEM",
       "RelativePath": "coach.jpg",
       "AssetKind": "All",
@@ -112,10 +112,10 @@
       "OriginalItemSpec": "wwwroot/coach.jpg"
     },
     {
-      "Identity": "/home/mertyuksel/Desktop/FullStackBP/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/Corneer.jpg",
+      "Identity": "/home/mertyuksel/Desktop/SUNUM/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/Corneer.jpg",
       "SourceId": "PROJEM",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/mertyuksel/Desktop/FullStackBP/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/",
+      "ContentRoot": "/home/mertyuksel/Desktop/SUNUM/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/",
       "BasePath": "_content/PROJEM",
       "RelativePath": "Corneer.jpg",
       "AssetKind": "All",
@@ -131,10 +131,10 @@
       "OriginalItemSpec": "wwwroot/Corneer.jpg"
     },
     {
-      "Identity": "/home/mertyuksel/Desktop/FullStackBP/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/css/font-awesome.min.css",
+      "Identity": "/home/mertyuksel/Desktop/SUNUM/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/css/font-awesome.min.css",
       "SourceId": "PROJEM",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/mertyuksel/Desktop/FullStackBP/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/",
+      "ContentRoot": "/home/mertyuksel/Desktop/SUNUM/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/",
       "BasePath": "_content/PROJEM",
       "RelativePath": "css/font-awesome.min.css",
       "AssetKind": "All",
@@ -150,10 +150,10 @@
       "OriginalItemSpec": "wwwroot/css/font-awesome.min.css"
     },
     {
-      "Identity": "/home/mertyuksel/Desktop/FullStackBP/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/css/Forum.css",
+      "Identity": "/home/mertyuksel/Desktop/SUNUM/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/css/Forum.css",
       "SourceId": "PROJEM",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/mertyuksel/Desktop/FullStackBP/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/",
+      "ContentRoot": "/home/mertyuksel/Desktop/SUNUM/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/",
       "BasePath": "_content/PROJEM",
       "RelativePath": "css/Forum.css",
       "AssetKind": "All",
@@ -169,10 +169,10 @@
       "OriginalItemSpec": "wwwroot/css/Forum.css"
     },
     {
-      "Identity": "/home/mertyuksel/Desktop/FullStackBP/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/css/GirisYap.css",
+      "Identity": "/home/mertyuksel/Desktop/SUNUM/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/css/GirisYap.css",
       "SourceId": "PROJEM",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/mertyuksel/Desktop/FullStackBP/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/",
+      "ContentRoot": "/home/mertyuksel/Desktop/SUNUM/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/",
       "BasePath": "_content/PROJEM",
       "RelativePath": "css/GirisYap.css",
       "AssetKind": "All",
@@ -188,10 +188,10 @@
       "OriginalItemSpec": "wwwroot/css/GirisYap.css"
     },
     {
-      "Identity": "/home/mertyuksel/Desktop/FullStackBP/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/css/Index.css",
+      "Identity": "/home/mertyuksel/Desktop/SUNUM/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/css/Index.css",
       "SourceId": "PROJEM",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/mertyuksel/Desktop/FullStackBP/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/",
+      "ContentRoot": "/home/mertyuksel/Desktop/SUNUM/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/",
       "BasePath": "_content/PROJEM",
       "RelativePath": "css/Index.css",
       "AssetKind": "All",
@@ -207,10 +207,10 @@
       "OriginalItemSpec": "wwwroot/css/Index.css"
     },
     {
-      "Identity": "/home/mertyuksel/Desktop/FullStackBP/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/css/main.css",
+      "Identity": "/home/mertyuksel/Desktop/SUNUM/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/css/main.css",
       "SourceId": "PROJEM",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/mertyuksel/Desktop/FullStackBP/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/",
+      "ContentRoot": "/home/mertyuksel/Desktop/SUNUM/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/",
       "BasePath": "_content/PROJEM",
       "RelativePath": "css/main.css",
       "AssetKind": "All",
@@ -226,10 +226,10 @@
       "OriginalItemSpec": "wwwroot/css/main.css"
     },
     {
-      "Identity": "/home/mertyuksel/Desktop/FullStackBP/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/css/site.css",
+      "Identity": "/home/mertyuksel/Desktop/SUNUM/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/css/site.css",
       "SourceId": "PROJEM",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/mertyuksel/Desktop/FullStackBP/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/",
+      "ContentRoot": "/home/mertyuksel/Desktop/SUNUM/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/",
       "BasePath": "_content/PROJEM",
       "RelativePath": "css/site.css",
       "AssetKind": "All",
@@ -245,10 +245,10 @@
       "OriginalItemSpec": "wwwroot/css/site.css"
     },
     {
-      "Identity": "/home/mertyuksel/Desktop/FullStackBP/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/css/urunler.css",
+      "Identity": "/home/mertyuksel/Desktop/SUNUM/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/css/urunler.css",
       "SourceId": "PROJEM",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/mertyuksel/Desktop/FullStackBP/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/",
+      "ContentRoot": "/home/mertyuksel/Desktop/SUNUM/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/",
       "BasePath": "_content/PROJEM",
       "RelativePath": "css/urunler.css",
       "AssetKind": "All",
@@ -264,10 +264,10 @@
       "OriginalItemSpec": "wwwroot/css/urunler.css"
     },
     {
-      "Identity": "/home/mertyuksel/Desktop/FullStackBP/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/css/UyeOl.css",
+      "Identity": "/home/mertyuksel/Desktop/SUNUM/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/css/UyeOl.css",
       "SourceId": "PROJEM",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/mertyuksel/Desktop/FullStackBP/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/",
+      "ContentRoot": "/home/mertyuksel/Desktop/SUNUM/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/",
       "BasePath": "_content/PROJEM",
       "RelativePath": "css/UyeOl.css",
       "AssetKind": "All",
@@ -283,10 +283,10 @@
       "OriginalItemSpec": "wwwroot/css/UyeOl.css"
     },
     {
-      "Identity": "/home/mertyuksel/Desktop/FullStackBP/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/D.Simeone.jpg",
+      "Identity": "/home/mertyuksel/Desktop/SUNUM/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/D.Simeone.jpg",
       "SourceId": "PROJEM",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/mertyuksel/Desktop/FullStackBP/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/",
+      "ContentRoot": "/home/mertyuksel/Desktop/SUNUM/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/",
       "BasePath": "_content/PROJEM",
       "RelativePath": "D.Simeone.jpg",
       "AssetKind": "All",
@@ -302,10 +302,10 @@
       "OriginalItemSpec": "wwwroot/D.Simeone.jpg"
     },
     {
-      "Identity": "/home/mertyuksel/Desktop/FullStackBP/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/dark.jpg",
+      "Identity": "/home/mertyuksel/Desktop/SUNUM/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/dark.jpg",
       "SourceId": "PROJEM",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/mertyuksel/Desktop/FullStackBP/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/",
+      "ContentRoot": "/home/mertyuksel/Desktop/SUNUM/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/",
       "BasePath": "_content/PROJEM",
       "RelativePath": "dark.jpg",
       "AssetKind": "All",
@@ -321,10 +321,86 @@
       "OriginalItemSpec": "wwwroot/dark.jpg"
     },
     {
-      "Identity": "/home/mertyuksel/Desktop/FullStackBP/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/epl1.jpg",
+      "Identity": "/home/mertyuksel/Desktop/SUNUM/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/deneme1.jpg",
       "SourceId": "PROJEM",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/mertyuksel/Desktop/FullStackBP/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/",
+      "ContentRoot": "/home/mertyuksel/Desktop/SUNUM/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/",
+      "BasePath": "_content/PROJEM",
+      "RelativePath": "deneme1.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/deneme1.jpg"
+    },
+    {
+      "Identity": "/home/mertyuksel/Desktop/SUNUM/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/deneme2.jpg",
+      "SourceId": "PROJEM",
+      "SourceType": "Discovered",
+      "ContentRoot": "/home/mertyuksel/Desktop/SUNUM/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/",
+      "BasePath": "_content/PROJEM",
+      "RelativePath": "deneme2.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/deneme2.jpg"
+    },
+    {
+      "Identity": "/home/mertyuksel/Desktop/SUNUM/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/deneme3.jpg",
+      "SourceId": "PROJEM",
+      "SourceType": "Discovered",
+      "ContentRoot": "/home/mertyuksel/Desktop/SUNUM/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/",
+      "BasePath": "_content/PROJEM",
+      "RelativePath": "deneme3.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/deneme3.jpg"
+    },
+    {
+      "Identity": "/home/mertyuksel/Desktop/SUNUM/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/deneme4.jpg",
+      "SourceId": "PROJEM",
+      "SourceType": "Discovered",
+      "ContentRoot": "/home/mertyuksel/Desktop/SUNUM/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/",
+      "BasePath": "_content/PROJEM",
+      "RelativePath": "deneme4.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/deneme4.jpg"
+    },
+    {
+      "Identity": "/home/mertyuksel/Desktop/SUNUM/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/epl1.jpg",
+      "SourceId": "PROJEM",
+      "SourceType": "Discovered",
+      "ContentRoot": "/home/mertyuksel/Desktop/SUNUM/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/",
       "BasePath": "_content/PROJEM",
       "RelativePath": "epl1.jpg",
       "AssetKind": "All",
@@ -340,10 +416,10 @@
       "OriginalItemSpec": "wwwroot/epl1.jpg"
     },
     {
-      "Identity": "/home/mertyuksel/Desktop/FullStackBP/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/epl2.jpg",
+      "Identity": "/home/mertyuksel/Desktop/SUNUM/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/epl2.jpg",
       "SourceId": "PROJEM",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/mertyuksel/Desktop/FullStackBP/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/",
+      "ContentRoot": "/home/mertyuksel/Desktop/SUNUM/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/",
       "BasePath": "_content/PROJEM",
       "RelativePath": "epl2.jpg",
       "AssetKind": "All",
@@ -359,10 +435,10 @@
       "OriginalItemSpec": "wwwroot/epl2.jpg"
     },
     {
-      "Identity": "/home/mertyuksel/Desktop/FullStackBP/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/epl3.jpg",
+      "Identity": "/home/mertyuksel/Desktop/SUNUM/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/epl3.jpg",
       "SourceId": "PROJEM",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/mertyuksel/Desktop/FullStackBP/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/",
+      "ContentRoot": "/home/mertyuksel/Desktop/SUNUM/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/",
       "BasePath": "_content/PROJEM",
       "RelativePath": "epl3.jpg",
       "AssetKind": "All",
@@ -378,10 +454,10 @@
       "OriginalItemSpec": "wwwroot/epl3.jpg"
     },
     {
-      "Identity": "/home/mertyuksel/Desktop/FullStackBP/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/favicon.ico",
+      "Identity": "/home/mertyuksel/Desktop/SUNUM/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/favicon.ico",
       "SourceId": "PROJEM",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/mertyuksel/Desktop/FullStackBP/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/",
+      "ContentRoot": "/home/mertyuksel/Desktop/SUNUM/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/",
       "BasePath": "_content/PROJEM",
       "RelativePath": "favicon.ico",
       "AssetKind": "All",
@@ -397,10 +473,10 @@
       "OriginalItemSpec": "wwwroot/favicon.ico"
     },
     {
-      "Identity": "/home/mertyuksel/Desktop/FullStackBP/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/fifa.jpeg",
+      "Identity": "/home/mertyuksel/Desktop/SUNUM/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/fifa.jpeg",
       "SourceId": "PROJEM",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/mertyuksel/Desktop/FullStackBP/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/",
+      "ContentRoot": "/home/mertyuksel/Desktop/SUNUM/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/",
       "BasePath": "_content/PROJEM",
       "RelativePath": "fifa.jpeg",
       "AssetKind": "All",
@@ -416,10 +492,10 @@
       "OriginalItemSpec": "wwwroot/fifa.jpeg"
     },
     {
-      "Identity": "/home/mertyuksel/Desktop/FullStackBP/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/js/Forum.js",
+      "Identity": "/home/mertyuksel/Desktop/SUNUM/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/js/Forum.js",
       "SourceId": "PROJEM",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/mertyuksel/Desktop/FullStackBP/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/",
+      "ContentRoot": "/home/mertyuksel/Desktop/SUNUM/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/",
       "BasePath": "_content/PROJEM",
       "RelativePath": "js/Forum.js",
       "AssetKind": "All",
@@ -435,10 +511,10 @@
       "OriginalItemSpec": "wwwroot/js/Forum.js"
     },
     {
-      "Identity": "/home/mertyuksel/Desktop/FullStackBP/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/js/jquery.min.js",
+      "Identity": "/home/mertyuksel/Desktop/SUNUM/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/js/jquery.min.js",
       "SourceId": "PROJEM",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/mertyuksel/Desktop/FullStackBP/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/",
+      "ContentRoot": "/home/mertyuksel/Desktop/SUNUM/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/",
       "BasePath": "_content/PROJEM",
       "RelativePath": "js/jquery.min.js",
       "AssetKind": "All",
@@ -454,10 +530,10 @@
       "OriginalItemSpec": "wwwroot/js/jquery.min.js"
     },
     {
-      "Identity": "/home/mertyuksel/Desktop/FullStackBP/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/js/main.js",
+      "Identity": "/home/mertyuksel/Desktop/SUNUM/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/js/main.js",
       "SourceId": "PROJEM",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/mertyuksel/Desktop/FullStackBP/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/",
+      "ContentRoot": "/home/mertyuksel/Desktop/SUNUM/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/",
       "BasePath": "_content/PROJEM",
       "RelativePath": "js/main.js",
       "AssetKind": "All",
@@ -473,10 +549,10 @@
       "OriginalItemSpec": "wwwroot/js/main.js"
     },
     {
-      "Identity": "/home/mertyuksel/Desktop/FullStackBP/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/js/site.js",
+      "Identity": "/home/mertyuksel/Desktop/SUNUM/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/js/site.js",
       "SourceId": "PROJEM",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/mertyuksel/Desktop/FullStackBP/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/",
+      "ContentRoot": "/home/mertyuksel/Desktop/SUNUM/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/",
       "BasePath": "_content/PROJEM",
       "RelativePath": "js/site.js",
       "AssetKind": "All",
@@ -492,10 +568,10 @@
       "OriginalItemSpec": "wwwroot/js/site.js"
     },
     {
-      "Identity": "/home/mertyuksel/Desktop/FullStackBP/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/js/skel.min.js",
+      "Identity": "/home/mertyuksel/Desktop/SUNUM/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/js/skel.min.js",
       "SourceId": "PROJEM",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/mertyuksel/Desktop/FullStackBP/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/",
+      "ContentRoot": "/home/mertyuksel/Desktop/SUNUM/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/",
       "BasePath": "_content/PROJEM",
       "RelativePath": "js/skel.min.js",
       "AssetKind": "All",
@@ -511,10 +587,10 @@
       "OriginalItemSpec": "wwwroot/js/skel.min.js"
     },
     {
-      "Identity": "/home/mertyuksel/Desktop/FullStackBP/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/js/sorucevap.js",
+      "Identity": "/home/mertyuksel/Desktop/SUNUM/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/js/sorucevap.js",
       "SourceId": "PROJEM",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/mertyuksel/Desktop/FullStackBP/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/",
+      "ContentRoot": "/home/mertyuksel/Desktop/SUNUM/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/",
       "BasePath": "_content/PROJEM",
       "RelativePath": "js/sorucevap.js",
       "AssetKind": "All",
@@ -530,10 +606,10 @@
       "OriginalItemSpec": "wwwroot/js/sorucevap.js"
     },
     {
-      "Identity": "/home/mertyuksel/Desktop/FullStackBP/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/js/util.js",
+      "Identity": "/home/mertyuksel/Desktop/SUNUM/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/js/util.js",
       "SourceId": "PROJEM",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/mertyuksel/Desktop/FullStackBP/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/",
+      "ContentRoot": "/home/mertyuksel/Desktop/SUNUM/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/",
       "BasePath": "_content/PROJEM",
       "RelativePath": "js/util.js",
       "AssetKind": "All",
@@ -549,10 +625,10 @@
       "OriginalItemSpec": "wwwroot/js/util.js"
     },
     {
-      "Identity": "/home/mertyuksel/Desktop/FullStackBP/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css",
+      "Identity": "/home/mertyuksel/Desktop/SUNUM/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css",
       "SourceId": "PROJEM",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/mertyuksel/Desktop/FullStackBP/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/",
+      "ContentRoot": "/home/mertyuksel/Desktop/SUNUM/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/",
       "BasePath": "_content/PROJEM",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css",
       "AssetKind": "All",
@@ -568,10 +644,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css"
     },
     {
-      "Identity": "/home/mertyuksel/Desktop/FullStackBP/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css.map",
+      "Identity": "/home/mertyuksel/Desktop/SUNUM/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css.map",
       "SourceId": "PROJEM",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/mertyuksel/Desktop/FullStackBP/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/",
+      "ContentRoot": "/home/mertyuksel/Desktop/SUNUM/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/",
       "BasePath": "_content/PROJEM",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css.map",
       "AssetKind": "All",
@@ -587,10 +663,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css.map"
     },
     {
-      "Identity": "/home/mertyuksel/Desktop/FullStackBP/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css",
+      "Identity": "/home/mertyuksel/Desktop/SUNUM/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css",
       "SourceId": "PROJEM",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/mertyuksel/Desktop/FullStackBP/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/",
+      "ContentRoot": "/home/mertyuksel/Desktop/SUNUM/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/",
       "BasePath": "_content/PROJEM",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css",
       "AssetKind": "All",
@@ -606,10 +682,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css"
     },
     {
-      "Identity": "/home/mertyuksel/Desktop/FullStackBP/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
+      "Identity": "/home/mertyuksel/Desktop/SUNUM/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
       "SourceId": "PROJEM",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/mertyuksel/Desktop/FullStackBP/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/",
+      "ContentRoot": "/home/mertyuksel/Desktop/SUNUM/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/",
       "BasePath": "_content/PROJEM",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
       "AssetKind": "All",
@@ -625,10 +701,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css.map"
     },
     {
-      "Identity": "/home/mertyuksel/Desktop/FullStackBP/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.css",
+      "Identity": "/home/mertyuksel/Desktop/SUNUM/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.css",
       "SourceId": "PROJEM",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/mertyuksel/Desktop/FullStackBP/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/",
+      "ContentRoot": "/home/mertyuksel/Desktop/SUNUM/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/",
       "BasePath": "_content/PROJEM",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css",
       "AssetKind": "All",
@@ -644,10 +720,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.css"
     },
     {
-      "Identity": "/home/mertyuksel/Desktop/FullStackBP/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map",
+      "Identity": "/home/mertyuksel/Desktop/SUNUM/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map",
       "SourceId": "PROJEM",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/mertyuksel/Desktop/FullStackBP/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/",
+      "ContentRoot": "/home/mertyuksel/Desktop/SUNUM/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/",
       "BasePath": "_content/PROJEM",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map",
       "AssetKind": "All",
@@ -663,10 +739,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map"
     },
     {
-      "Identity": "/home/mertyuksel/Desktop/FullStackBP/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css",
+      "Identity": "/home/mertyuksel/Desktop/SUNUM/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css",
       "SourceId": "PROJEM",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/mertyuksel/Desktop/FullStackBP/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/",
+      "ContentRoot": "/home/mertyuksel/Desktop/SUNUM/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/",
       "BasePath": "_content/PROJEM",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css",
       "AssetKind": "All",
@@ -682,10 +758,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css"
     },
     {
-      "Identity": "/home/mertyuksel/Desktop/FullStackBP/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map",
+      "Identity": "/home/mertyuksel/Desktop/SUNUM/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map",
       "SourceId": "PROJEM",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/mertyuksel/Desktop/FullStackBP/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/",
+      "ContentRoot": "/home/mertyuksel/Desktop/SUNUM/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/",
       "BasePath": "_content/PROJEM",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map",
       "AssetKind": "All",
@@ -701,10 +777,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Identity": "/home/mertyuksel/Desktop/FullStackBP/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css",
+      "Identity": "/home/mertyuksel/Desktop/SUNUM/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css",
       "SourceId": "PROJEM",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/mertyuksel/Desktop/FullStackBP/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/",
+      "ContentRoot": "/home/mertyuksel/Desktop/SUNUM/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/",
       "BasePath": "_content/PROJEM",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css",
       "AssetKind": "All",
@@ -720,10 +796,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css"
     },
     {
-      "Identity": "/home/mertyuksel/Desktop/FullStackBP/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css.map",
+      "Identity": "/home/mertyuksel/Desktop/SUNUM/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css.map",
       "SourceId": "PROJEM",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/mertyuksel/Desktop/FullStackBP/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/",
+      "ContentRoot": "/home/mertyuksel/Desktop/SUNUM/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/",
       "BasePath": "_content/PROJEM",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css.map",
       "AssetKind": "All",
@@ -739,10 +815,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css.map"
     },
     {
-      "Identity": "/home/mertyuksel/Desktop/FullStackBP/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css",
+      "Identity": "/home/mertyuksel/Desktop/SUNUM/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css",
       "SourceId": "PROJEM",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/mertyuksel/Desktop/FullStackBP/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/",
+      "ContentRoot": "/home/mertyuksel/Desktop/SUNUM/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/",
       "BasePath": "_content/PROJEM",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css",
       "AssetKind": "All",
@@ -758,10 +834,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css"
     },
     {
-      "Identity": "/home/mertyuksel/Desktop/FullStackBP/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
+      "Identity": "/home/mertyuksel/Desktop/SUNUM/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
       "SourceId": "PROJEM",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/mertyuksel/Desktop/FullStackBP/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/",
+      "ContentRoot": "/home/mertyuksel/Desktop/SUNUM/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/",
       "BasePath": "_content/PROJEM",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
       "AssetKind": "All",
@@ -777,10 +853,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css.map"
     },
     {
-      "Identity": "/home/mertyuksel/Desktop/FullStackBP/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css",
+      "Identity": "/home/mertyuksel/Desktop/SUNUM/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css",
       "SourceId": "PROJEM",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/mertyuksel/Desktop/FullStackBP/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/",
+      "ContentRoot": "/home/mertyuksel/Desktop/SUNUM/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/",
       "BasePath": "_content/PROJEM",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css",
       "AssetKind": "All",
@@ -796,10 +872,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css"
     },
     {
-      "Identity": "/home/mertyuksel/Desktop/FullStackBP/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map",
+      "Identity": "/home/mertyuksel/Desktop/SUNUM/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map",
       "SourceId": "PROJEM",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/mertyuksel/Desktop/FullStackBP/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/",
+      "ContentRoot": "/home/mertyuksel/Desktop/SUNUM/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/",
       "BasePath": "_content/PROJEM",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map",
       "AssetKind": "All",
@@ -815,10 +891,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map"
     },
     {
-      "Identity": "/home/mertyuksel/Desktop/FullStackBP/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css",
+      "Identity": "/home/mertyuksel/Desktop/SUNUM/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css",
       "SourceId": "PROJEM",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/mertyuksel/Desktop/FullStackBP/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/",
+      "ContentRoot": "/home/mertyuksel/Desktop/SUNUM/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/",
       "BasePath": "_content/PROJEM",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css",
       "AssetKind": "All",
@@ -834,10 +910,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css"
     },
     {
-      "Identity": "/home/mertyuksel/Desktop/FullStackBP/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map",
+      "Identity": "/home/mertyuksel/Desktop/SUNUM/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map",
       "SourceId": "PROJEM",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/mertyuksel/Desktop/FullStackBP/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/",
+      "ContentRoot": "/home/mertyuksel/Desktop/SUNUM/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/",
       "BasePath": "_content/PROJEM",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map",
       "AssetKind": "All",
@@ -853,10 +929,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "Identity": "/home/mertyuksel/Desktop/FullStackBP/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.css",
+      "Identity": "/home/mertyuksel/Desktop/SUNUM/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.css",
       "SourceId": "PROJEM",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/mertyuksel/Desktop/FullStackBP/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/",
+      "ContentRoot": "/home/mertyuksel/Desktop/SUNUM/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/",
       "BasePath": "_content/PROJEM",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css",
       "AssetKind": "All",
@@ -872,10 +948,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.css"
     },
     {
-      "Identity": "/home/mertyuksel/Desktop/FullStackBP/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.css.map",
+      "Identity": "/home/mertyuksel/Desktop/SUNUM/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.css.map",
       "SourceId": "PROJEM",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/mertyuksel/Desktop/FullStackBP/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/",
+      "ContentRoot": "/home/mertyuksel/Desktop/SUNUM/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/",
       "BasePath": "_content/PROJEM",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css.map",
       "AssetKind": "All",
@@ -891,10 +967,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.css.map"
     },
     {
-      "Identity": "/home/mertyuksel/Desktop/FullStackBP/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.min.css",
+      "Identity": "/home/mertyuksel/Desktop/SUNUM/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.min.css",
       "SourceId": "PROJEM",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/mertyuksel/Desktop/FullStackBP/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/",
+      "ContentRoot": "/home/mertyuksel/Desktop/SUNUM/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/",
       "BasePath": "_content/PROJEM",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css",
       "AssetKind": "All",
@@ -910,10 +986,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.min.css"
     },
     {
-      "Identity": "/home/mertyuksel/Desktop/FullStackBP/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.min.css.map",
+      "Identity": "/home/mertyuksel/Desktop/SUNUM/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.min.css.map",
       "SourceId": "PROJEM",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/mertyuksel/Desktop/FullStackBP/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/",
+      "ContentRoot": "/home/mertyuksel/Desktop/SUNUM/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/",
       "BasePath": "_content/PROJEM",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css.map",
       "AssetKind": "All",
@@ -929,10 +1005,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.min.css.map"
     },
     {
-      "Identity": "/home/mertyuksel/Desktop/FullStackBP/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css",
+      "Identity": "/home/mertyuksel/Desktop/SUNUM/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css",
       "SourceId": "PROJEM",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/mertyuksel/Desktop/FullStackBP/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/",
+      "ContentRoot": "/home/mertyuksel/Desktop/SUNUM/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/",
       "BasePath": "_content/PROJEM",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css",
       "AssetKind": "All",
@@ -948,10 +1024,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css"
     },
     {
-      "Identity": "/home/mertyuksel/Desktop/FullStackBP/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map",
+      "Identity": "/home/mertyuksel/Desktop/SUNUM/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map",
       "SourceId": "PROJEM",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/mertyuksel/Desktop/FullStackBP/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/",
+      "ContentRoot": "/home/mertyuksel/Desktop/SUNUM/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/",
       "BasePath": "_content/PROJEM",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map",
       "AssetKind": "All",
@@ -967,10 +1043,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map"
     },
     {
-      "Identity": "/home/mertyuksel/Desktop/FullStackBP/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css",
+      "Identity": "/home/mertyuksel/Desktop/SUNUM/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css",
       "SourceId": "PROJEM",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/mertyuksel/Desktop/FullStackBP/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/",
+      "ContentRoot": "/home/mertyuksel/Desktop/SUNUM/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/",
       "BasePath": "_content/PROJEM",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css",
       "AssetKind": "All",
@@ -986,10 +1062,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css"
     },
     {
-      "Identity": "/home/mertyuksel/Desktop/FullStackBP/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map",
+      "Identity": "/home/mertyuksel/Desktop/SUNUM/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map",
       "SourceId": "PROJEM",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/mertyuksel/Desktop/FullStackBP/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/",
+      "ContentRoot": "/home/mertyuksel/Desktop/SUNUM/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/",
       "BasePath": "_content/PROJEM",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map",
       "AssetKind": "All",
@@ -1005,10 +1081,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map"
     },
     {
-      "Identity": "/home/mertyuksel/Desktop/FullStackBP/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/lib/bootstrap/dist/css/bootstrap.css",
+      "Identity": "/home/mertyuksel/Desktop/SUNUM/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/lib/bootstrap/dist/css/bootstrap.css",
       "SourceId": "PROJEM",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/mertyuksel/Desktop/FullStackBP/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/",
+      "ContentRoot": "/home/mertyuksel/Desktop/SUNUM/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/",
       "BasePath": "_content/PROJEM",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css",
       "AssetKind": "All",
@@ -1024,10 +1100,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap.css"
     },
     {
-      "Identity": "/home/mertyuksel/Desktop/FullStackBP/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/lib/bootstrap/dist/css/bootstrap.css.map",
+      "Identity": "/home/mertyuksel/Desktop/SUNUM/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/lib/bootstrap/dist/css/bootstrap.css.map",
       "SourceId": "PROJEM",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/mertyuksel/Desktop/FullStackBP/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/",
+      "ContentRoot": "/home/mertyuksel/Desktop/SUNUM/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/",
       "BasePath": "_content/PROJEM",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css.map",
       "AssetKind": "All",
@@ -1043,10 +1119,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap.css.map"
     },
     {
-      "Identity": "/home/mertyuksel/Desktop/FullStackBP/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/lib/bootstrap/dist/css/bootstrap.min.css",
+      "Identity": "/home/mertyuksel/Desktop/SUNUM/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/lib/bootstrap/dist/css/bootstrap.min.css",
       "SourceId": "PROJEM",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/mertyuksel/Desktop/FullStackBP/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/",
+      "ContentRoot": "/home/mertyuksel/Desktop/SUNUM/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/",
       "BasePath": "_content/PROJEM",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css",
       "AssetKind": "All",
@@ -1062,10 +1138,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap.min.css"
     },
     {
-      "Identity": "/home/mertyuksel/Desktop/FullStackBP/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/lib/bootstrap/dist/css/bootstrap.min.css.map",
+      "Identity": "/home/mertyuksel/Desktop/SUNUM/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/lib/bootstrap/dist/css/bootstrap.min.css.map",
       "SourceId": "PROJEM",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/mertyuksel/Desktop/FullStackBP/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/",
+      "ContentRoot": "/home/mertyuksel/Desktop/SUNUM/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/",
       "BasePath": "_content/PROJEM",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css.map",
       "AssetKind": "All",
@@ -1081,10 +1157,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap.min.css.map"
     },
     {
-      "Identity": "/home/mertyuksel/Desktop/FullStackBP/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.css",
+      "Identity": "/home/mertyuksel/Desktop/SUNUM/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.css",
       "SourceId": "PROJEM",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/mertyuksel/Desktop/FullStackBP/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/",
+      "ContentRoot": "/home/mertyuksel/Desktop/SUNUM/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/",
       "BasePath": "_content/PROJEM",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css",
       "AssetKind": "All",
@@ -1100,10 +1176,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.css"
     },
     {
-      "Identity": "/home/mertyuksel/Desktop/FullStackBP/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.css.map",
+      "Identity": "/home/mertyuksel/Desktop/SUNUM/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.css.map",
       "SourceId": "PROJEM",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/mertyuksel/Desktop/FullStackBP/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/",
+      "ContentRoot": "/home/mertyuksel/Desktop/SUNUM/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/",
       "BasePath": "_content/PROJEM",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css.map",
       "AssetKind": "All",
@@ -1119,10 +1195,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.css.map"
     },
     {
-      "Identity": "/home/mertyuksel/Desktop/FullStackBP/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.min.css",
+      "Identity": "/home/mertyuksel/Desktop/SUNUM/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.min.css",
       "SourceId": "PROJEM",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/mertyuksel/Desktop/FullStackBP/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/",
+      "ContentRoot": "/home/mertyuksel/Desktop/SUNUM/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/",
       "BasePath": "_content/PROJEM",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css",
       "AssetKind": "All",
@@ -1138,10 +1214,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.min.css"
     },
     {
-      "Identity": "/home/mertyuksel/Desktop/FullStackBP/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.min.css.map",
+      "Identity": "/home/mertyuksel/Desktop/SUNUM/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.min.css.map",
       "SourceId": "PROJEM",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/mertyuksel/Desktop/FullStackBP/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/",
+      "ContentRoot": "/home/mertyuksel/Desktop/SUNUM/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/",
       "BasePath": "_content/PROJEM",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css.map",
       "AssetKind": "All",
@@ -1157,10 +1233,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.min.css.map"
     },
     {
-      "Identity": "/home/mertyuksel/Desktop/FullStackBP/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js",
+      "Identity": "/home/mertyuksel/Desktop/SUNUM/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js",
       "SourceId": "PROJEM",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/mertyuksel/Desktop/FullStackBP/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/",
+      "ContentRoot": "/home/mertyuksel/Desktop/SUNUM/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/",
       "BasePath": "_content/PROJEM",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js",
       "AssetKind": "All",
@@ -1176,10 +1252,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js"
     },
     {
-      "Identity": "/home/mertyuksel/Desktop/FullStackBP/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js.map",
+      "Identity": "/home/mertyuksel/Desktop/SUNUM/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js.map",
       "SourceId": "PROJEM",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/mertyuksel/Desktop/FullStackBP/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/",
+      "ContentRoot": "/home/mertyuksel/Desktop/SUNUM/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/",
       "BasePath": "_content/PROJEM",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js.map",
       "AssetKind": "All",
@@ -1195,10 +1271,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js.map"
     },
     {
-      "Identity": "/home/mertyuksel/Desktop/FullStackBP/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js",
+      "Identity": "/home/mertyuksel/Desktop/SUNUM/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js",
       "SourceId": "PROJEM",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/mertyuksel/Desktop/FullStackBP/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/",
+      "ContentRoot": "/home/mertyuksel/Desktop/SUNUM/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/",
       "BasePath": "_content/PROJEM",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js",
       "AssetKind": "All",
@@ -1214,10 +1290,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js"
     },
     {
-      "Identity": "/home/mertyuksel/Desktop/FullStackBP/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
+      "Identity": "/home/mertyuksel/Desktop/SUNUM/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
       "SourceId": "PROJEM",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/mertyuksel/Desktop/FullStackBP/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/",
+      "ContentRoot": "/home/mertyuksel/Desktop/SUNUM/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/",
       "BasePath": "_content/PROJEM",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
       "AssetKind": "All",
@@ -1233,10 +1309,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js.map"
     },
     {
-      "Identity": "/home/mertyuksel/Desktop/FullStackBP/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.js",
+      "Identity": "/home/mertyuksel/Desktop/SUNUM/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.js",
       "SourceId": "PROJEM",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/mertyuksel/Desktop/FullStackBP/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/",
+      "ContentRoot": "/home/mertyuksel/Desktop/SUNUM/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/",
       "BasePath": "_content/PROJEM",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js",
       "AssetKind": "All",
@@ -1252,10 +1328,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/js/bootstrap.esm.js"
     },
     {
-      "Identity": "/home/mertyuksel/Desktop/FullStackBP/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.js.map",
+      "Identity": "/home/mertyuksel/Desktop/SUNUM/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.js.map",
       "SourceId": "PROJEM",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/mertyuksel/Desktop/FullStackBP/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/",
+      "ContentRoot": "/home/mertyuksel/Desktop/SUNUM/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/",
       "BasePath": "_content/PROJEM",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js.map",
       "AssetKind": "All",
@@ -1271,10 +1347,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/js/bootstrap.esm.js.map"
     },
     {
-      "Identity": "/home/mertyuksel/Desktop/FullStackBP/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.min.js",
+      "Identity": "/home/mertyuksel/Desktop/SUNUM/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.min.js",
       "SourceId": "PROJEM",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/mertyuksel/Desktop/FullStackBP/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/",
+      "ContentRoot": "/home/mertyuksel/Desktop/SUNUM/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/",
       "BasePath": "_content/PROJEM",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js",
       "AssetKind": "All",
@@ -1290,10 +1366,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/js/bootstrap.esm.min.js"
     },
     {
-      "Identity": "/home/mertyuksel/Desktop/FullStackBP/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.min.js.map",
+      "Identity": "/home/mertyuksel/Desktop/SUNUM/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.min.js.map",
       "SourceId": "PROJEM",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/mertyuksel/Desktop/FullStackBP/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/",
+      "ContentRoot": "/home/mertyuksel/Desktop/SUNUM/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/",
       "BasePath": "_content/PROJEM",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js.map",
       "AssetKind": "All",
@@ -1309,10 +1385,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/js/bootstrap.esm.min.js.map"
     },
     {
-      "Identity": "/home/mertyuksel/Desktop/FullStackBP/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/lib/bootstrap/dist/js/bootstrap.js",
+      "Identity": "/home/mertyuksel/Desktop/SUNUM/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/lib/bootstrap/dist/js/bootstrap.js",
       "SourceId": "PROJEM",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/mertyuksel/Desktop/FullStackBP/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/",
+      "ContentRoot": "/home/mertyuksel/Desktop/SUNUM/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/",
       "BasePath": "_content/PROJEM",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js",
       "AssetKind": "All",
@@ -1328,10 +1404,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/js/bootstrap.js"
     },
     {
-      "Identity": "/home/mertyuksel/Desktop/FullStackBP/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/lib/bootstrap/dist/js/bootstrap.js.map",
+      "Identity": "/home/mertyuksel/Desktop/SUNUM/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/lib/bootstrap/dist/js/bootstrap.js.map",
       "SourceId": "PROJEM",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/mertyuksel/Desktop/FullStackBP/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/",
+      "ContentRoot": "/home/mertyuksel/Desktop/SUNUM/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/",
       "BasePath": "_content/PROJEM",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js.map",
       "AssetKind": "All",
@@ -1347,10 +1423,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/js/bootstrap.js.map"
     },
     {
-      "Identity": "/home/mertyuksel/Desktop/FullStackBP/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/lib/bootstrap/dist/js/bootstrap.min.js",
+      "Identity": "/home/mertyuksel/Desktop/SUNUM/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/lib/bootstrap/dist/js/bootstrap.min.js",
       "SourceId": "PROJEM",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/mertyuksel/Desktop/FullStackBP/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/",
+      "ContentRoot": "/home/mertyuksel/Desktop/SUNUM/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/",
       "BasePath": "_content/PROJEM",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js",
       "AssetKind": "All",
@@ -1366,10 +1442,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/js/bootstrap.min.js"
     },
     {
-      "Identity": "/home/mertyuksel/Desktop/FullStackBP/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/lib/bootstrap/dist/js/bootstrap.min.js.map",
+      "Identity": "/home/mertyuksel/Desktop/SUNUM/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/lib/bootstrap/dist/js/bootstrap.min.js.map",
       "SourceId": "PROJEM",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/mertyuksel/Desktop/FullStackBP/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/",
+      "ContentRoot": "/home/mertyuksel/Desktop/SUNUM/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/",
       "BasePath": "_content/PROJEM",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js.map",
       "AssetKind": "All",
@@ -1385,10 +1461,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/js/bootstrap.min.js.map"
     },
     {
-      "Identity": "/home/mertyuksel/Desktop/FullStackBP/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/lib/bootstrap/LICENSE",
+      "Identity": "/home/mertyuksel/Desktop/SUNUM/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/lib/bootstrap/LICENSE",
       "SourceId": "PROJEM",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/mertyuksel/Desktop/FullStackBP/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/",
+      "ContentRoot": "/home/mertyuksel/Desktop/SUNUM/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/",
       "BasePath": "_content/PROJEM",
       "RelativePath": "lib/bootstrap/LICENSE",
       "AssetKind": "All",
@@ -1404,10 +1480,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/LICENSE"
     },
     {
-      "Identity": "/home/mertyuksel/Desktop/FullStackBP/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
+      "Identity": "/home/mertyuksel/Desktop/SUNUM/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
       "SourceId": "PROJEM",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/mertyuksel/Desktop/FullStackBP/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/",
+      "ContentRoot": "/home/mertyuksel/Desktop/SUNUM/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/",
       "BasePath": "_content/PROJEM",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
       "AssetKind": "All",
@@ -1423,10 +1499,10 @@
       "OriginalItemSpec": "wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js"
     },
     {
-      "Identity": "/home/mertyuksel/Desktop/FullStackBP/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
+      "Identity": "/home/mertyuksel/Desktop/SUNUM/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
       "SourceId": "PROJEM",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/mertyuksel/Desktop/FullStackBP/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/",
+      "ContentRoot": "/home/mertyuksel/Desktop/SUNUM/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/",
       "BasePath": "_content/PROJEM",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
       "AssetKind": "All",
@@ -1442,10 +1518,10 @@
       "OriginalItemSpec": "wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js"
     },
     {
-      "Identity": "/home/mertyuksel/Desktop/FullStackBP/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/lib/jquery-validation-unobtrusive/LICENSE.txt",
+      "Identity": "/home/mertyuksel/Desktop/SUNUM/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/lib/jquery-validation-unobtrusive/LICENSE.txt",
       "SourceId": "PROJEM",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/mertyuksel/Desktop/FullStackBP/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/",
+      "ContentRoot": "/home/mertyuksel/Desktop/SUNUM/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/",
       "BasePath": "_content/PROJEM",
       "RelativePath": "lib/jquery-validation-unobtrusive/LICENSE.txt",
       "AssetKind": "All",
@@ -1461,10 +1537,10 @@
       "OriginalItemSpec": "wwwroot/lib/jquery-validation-unobtrusive/LICENSE.txt"
     },
     {
-      "Identity": "/home/mertyuksel/Desktop/FullStackBP/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/lib/jquery-validation/dist/additional-methods.js",
+      "Identity": "/home/mertyuksel/Desktop/SUNUM/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/lib/jquery-validation/dist/additional-methods.js",
       "SourceId": "PROJEM",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/mertyuksel/Desktop/FullStackBP/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/",
+      "ContentRoot": "/home/mertyuksel/Desktop/SUNUM/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/",
       "BasePath": "_content/PROJEM",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.js",
       "AssetKind": "All",
@@ -1480,10 +1556,10 @@
       "OriginalItemSpec": "wwwroot/lib/jquery-validation/dist/additional-methods.js"
     },
     {
-      "Identity": "/home/mertyuksel/Desktop/FullStackBP/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/lib/jquery-validation/dist/additional-methods.min.js",
+      "Identity": "/home/mertyuksel/Desktop/SUNUM/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/lib/jquery-validation/dist/additional-methods.min.js",
       "SourceId": "PROJEM",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/mertyuksel/Desktop/FullStackBP/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/",
+      "ContentRoot": "/home/mertyuksel/Desktop/SUNUM/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/",
       "BasePath": "_content/PROJEM",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.min.js",
       "AssetKind": "All",
@@ -1499,10 +1575,10 @@
       "OriginalItemSpec": "wwwroot/lib/jquery-validation/dist/additional-methods.min.js"
     },
     {
-      "Identity": "/home/mertyuksel/Desktop/FullStackBP/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/lib/jquery-validation/dist/jquery.validate.js",
+      "Identity": "/home/mertyuksel/Desktop/SUNUM/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/lib/jquery-validation/dist/jquery.validate.js",
       "SourceId": "PROJEM",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/mertyuksel/Desktop/FullStackBP/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/",
+      "ContentRoot": "/home/mertyuksel/Desktop/SUNUM/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/",
       "BasePath": "_content/PROJEM",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.js",
       "AssetKind": "All",
@@ -1518,10 +1594,10 @@
       "OriginalItemSpec": "wwwroot/lib/jquery-validation/dist/jquery.validate.js"
     },
     {
-      "Identity": "/home/mertyuksel/Desktop/FullStackBP/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/lib/jquery-validation/dist/jquery.validate.min.js",
+      "Identity": "/home/mertyuksel/Desktop/SUNUM/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/lib/jquery-validation/dist/jquery.validate.min.js",
       "SourceId": "PROJEM",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/mertyuksel/Desktop/FullStackBP/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/",
+      "ContentRoot": "/home/mertyuksel/Desktop/SUNUM/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/",
       "BasePath": "_content/PROJEM",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.min.js",
       "AssetKind": "All",
@@ -1537,10 +1613,10 @@
       "OriginalItemSpec": "wwwroot/lib/jquery-validation/dist/jquery.validate.min.js"
     },
     {
-      "Identity": "/home/mertyuksel/Desktop/FullStackBP/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/lib/jquery-validation/LICENSE.md",
+      "Identity": "/home/mertyuksel/Desktop/SUNUM/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/lib/jquery-validation/LICENSE.md",
       "SourceId": "PROJEM",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/mertyuksel/Desktop/FullStackBP/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/",
+      "ContentRoot": "/home/mertyuksel/Desktop/SUNUM/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/",
       "BasePath": "_content/PROJEM",
       "RelativePath": "lib/jquery-validation/LICENSE.md",
       "AssetKind": "All",
@@ -1556,10 +1632,10 @@
       "OriginalItemSpec": "wwwroot/lib/jquery-validation/LICENSE.md"
     },
     {
-      "Identity": "/home/mertyuksel/Desktop/FullStackBP/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/lib/jquery/dist/jquery.js",
+      "Identity": "/home/mertyuksel/Desktop/SUNUM/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/lib/jquery/dist/jquery.js",
       "SourceId": "PROJEM",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/mertyuksel/Desktop/FullStackBP/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/",
+      "ContentRoot": "/home/mertyuksel/Desktop/SUNUM/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/",
       "BasePath": "_content/PROJEM",
       "RelativePath": "lib/jquery/dist/jquery.js",
       "AssetKind": "All",
@@ -1575,10 +1651,10 @@
       "OriginalItemSpec": "wwwroot/lib/jquery/dist/jquery.js"
     },
     {
-      "Identity": "/home/mertyuksel/Desktop/FullStackBP/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/lib/jquery/dist/jquery.min.js",
+      "Identity": "/home/mertyuksel/Desktop/SUNUM/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/lib/jquery/dist/jquery.min.js",
       "SourceId": "PROJEM",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/mertyuksel/Desktop/FullStackBP/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/",
+      "ContentRoot": "/home/mertyuksel/Desktop/SUNUM/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/",
       "BasePath": "_content/PROJEM",
       "RelativePath": "lib/jquery/dist/jquery.min.js",
       "AssetKind": "All",
@@ -1594,10 +1670,10 @@
       "OriginalItemSpec": "wwwroot/lib/jquery/dist/jquery.min.js"
     },
     {
-      "Identity": "/home/mertyuksel/Desktop/FullStackBP/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/lib/jquery/dist/jquery.min.map",
+      "Identity": "/home/mertyuksel/Desktop/SUNUM/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/lib/jquery/dist/jquery.min.map",
       "SourceId": "PROJEM",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/mertyuksel/Desktop/FullStackBP/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/",
+      "ContentRoot": "/home/mertyuksel/Desktop/SUNUM/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/",
       "BasePath": "_content/PROJEM",
       "RelativePath": "lib/jquery/dist/jquery.min.map",
       "AssetKind": "All",
@@ -1613,10 +1689,10 @@
       "OriginalItemSpec": "wwwroot/lib/jquery/dist/jquery.min.map"
     },
     {
-      "Identity": "/home/mertyuksel/Desktop/FullStackBP/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/lib/jquery/LICENSE.txt",
+      "Identity": "/home/mertyuksel/Desktop/SUNUM/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/lib/jquery/LICENSE.txt",
       "SourceId": "PROJEM",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/mertyuksel/Desktop/FullStackBP/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/",
+      "ContentRoot": "/home/mertyuksel/Desktop/SUNUM/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/",
       "BasePath": "_content/PROJEM",
       "RelativePath": "lib/jquery/LICENSE.txt",
       "AssetKind": "All",
@@ -1632,10 +1708,10 @@
       "OriginalItemSpec": "wwwroot/lib/jquery/LICENSE.txt"
     },
     {
-      "Identity": "/home/mertyuksel/Desktop/FullStackBP/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/nages(2).jpg",
+      "Identity": "/home/mertyuksel/Desktop/SUNUM/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/nages(2).jpg",
       "SourceId": "PROJEM",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/mertyuksel/Desktop/FullStackBP/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/",
+      "ContentRoot": "/home/mertyuksel/Desktop/SUNUM/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/",
       "BasePath": "_content/PROJEM",
       "RelativePath": "nages(2).jpg",
       "AssetKind": "All",
@@ -1651,10 +1727,10 @@
       "OriginalItemSpec": "wwwroot/nages(2).jpg"
     },
     {
-      "Identity": "/home/mertyuksel/Desktop/FullStackBP/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/orange.jpg",
+      "Identity": "/home/mertyuksel/Desktop/SUNUM/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/orange.jpg",
       "SourceId": "PROJEM",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/mertyuksel/Desktop/FullStackBP/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/",
+      "ContentRoot": "/home/mertyuksel/Desktop/SUNUM/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/",
       "BasePath": "_content/PROJEM",
       "RelativePath": "orange.jpg",
       "AssetKind": "All",
@@ -1670,10 +1746,10 @@
       "OriginalItemSpec": "wwwroot/orange.jpg"
     },
     {
-      "Identity": "/home/mertyuksel/Desktop/FullStackBP/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/ORRANGE.jpg",
+      "Identity": "/home/mertyuksel/Desktop/SUNUM/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/ORRANGE.jpg",
       "SourceId": "PROJEM",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/mertyuksel/Desktop/FullStackBP/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/",
+      "ContentRoot": "/home/mertyuksel/Desktop/SUNUM/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/",
       "BasePath": "_content/PROJEM",
       "RelativePath": "ORRANGE.jpg",
       "AssetKind": "All",
@@ -1689,10 +1765,10 @@
       "OriginalItemSpec": "wwwroot/ORRANGE.jpg"
     },
     {
-      "Identity": "/home/mertyuksel/Desktop/FullStackBP/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/rteta.jpg",
+      "Identity": "/home/mertyuksel/Desktop/SUNUM/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/rteta.jpg",
       "SourceId": "PROJEM",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/mertyuksel/Desktop/FullStackBP/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/",
+      "ContentRoot": "/home/mertyuksel/Desktop/SUNUM/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/",
       "BasePath": "_content/PROJEM",
       "RelativePath": "rteta.jpg",
       "AssetKind": "All",
@@ -1708,10 +1784,10 @@
       "OriginalItemSpec": "wwwroot/rteta.jpg"
     },
     {
-      "Identity": "/home/mertyuksel/Desktop/FullStackBP/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/satien.jpg",
+      "Identity": "/home/mertyuksel/Desktop/SUNUM/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/satien.jpg",
       "SourceId": "PROJEM",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/mertyuksel/Desktop/FullStackBP/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/",
+      "ContentRoot": "/home/mertyuksel/Desktop/SUNUM/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/",
       "BasePath": "_content/PROJEM",
       "RelativePath": "satien.jpg",
       "AssetKind": "All",
@@ -1727,10 +1803,10 @@
       "OriginalItemSpec": "wwwroot/satien.jpg"
     },
     {
-      "Identity": "/home/mertyuksel/Desktop/FullStackBP/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/setpiece.jpg",
+      "Identity": "/home/mertyuksel/Desktop/SUNUM/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/setpiece.jpg",
       "SourceId": "PROJEM",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/mertyuksel/Desktop/FullStackBP/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/",
+      "ContentRoot": "/home/mertyuksel/Desktop/SUNUM/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/",
       "BasePath": "_content/PROJEM",
       "RelativePath": "setpiece.jpg",
       "AssetKind": "All",
@@ -1746,10 +1822,10 @@
       "OriginalItemSpec": "wwwroot/setpiece.jpg"
     },
     {
-      "Identity": "/home/mertyuksel/Desktop/FullStackBP/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/stats.jpg",
+      "Identity": "/home/mertyuksel/Desktop/SUNUM/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/stats.jpg",
       "SourceId": "PROJEM",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/mertyuksel/Desktop/FullStackBP/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/",
+      "ContentRoot": "/home/mertyuksel/Desktop/SUNUM/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/",
       "BasePath": "_content/PROJEM",
       "RelativePath": "stats.jpg",
       "AssetKind": "All",
@@ -1765,10 +1841,10 @@
       "OriginalItemSpec": "wwwroot/stats.jpg"
     },
     {
-      "Identity": "/home/mertyuksel/Desktop/FullStackBP/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/stats2.jpg",
+      "Identity": "/home/mertyuksel/Desktop/SUNUM/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/stats2.jpg",
       "SourceId": "PROJEM",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/mertyuksel/Desktop/FullStackBP/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/",
+      "ContentRoot": "/home/mertyuksel/Desktop/SUNUM/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/",
       "BasePath": "_content/PROJEM",
       "RelativePath": "stats2.jpg",
       "AssetKind": "All",
@@ -1784,10 +1860,10 @@
       "OriginalItemSpec": "wwwroot/stats2.jpg"
     },
     {
-      "Identity": "/home/mertyuksel/Desktop/FullStackBP/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/stats3.jpg",
+      "Identity": "/home/mertyuksel/Desktop/SUNUM/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/stats3.jpg",
       "SourceId": "PROJEM",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/mertyuksel/Desktop/FullStackBP/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/",
+      "ContentRoot": "/home/mertyuksel/Desktop/SUNUM/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/",
       "BasePath": "_content/PROJEM",
       "RelativePath": "stats3.jpg",
       "AssetKind": "All",
@@ -1803,10 +1879,10 @@
       "OriginalItemSpec": "wwwroot/stats3.jpg"
     },
     {
-      "Identity": "/home/mertyuksel/Desktop/FullStackBP/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/stats4.jpg",
+      "Identity": "/home/mertyuksel/Desktop/SUNUM/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/stats4.jpg",
       "SourceId": "PROJEM",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/mertyuksel/Desktop/FullStackBP/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/",
+      "ContentRoot": "/home/mertyuksel/Desktop/SUNUM/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/",
       "BasePath": "_content/PROJEM",
       "RelativePath": "stats4.jpg",
       "AssetKind": "All",
@@ -1822,10 +1898,10 @@
       "OriginalItemSpec": "wwwroot/stats4.jpg"
     },
     {
-      "Identity": "/home/mertyuksel/Desktop/FullStackBP/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/stats5.jpg",
+      "Identity": "/home/mertyuksel/Desktop/SUNUM/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/stats5.jpg",
       "SourceId": "PROJEM",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/mertyuksel/Desktop/FullStackBP/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/",
+      "ContentRoot": "/home/mertyuksel/Desktop/SUNUM/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/",
       "BasePath": "_content/PROJEM",
       "RelativePath": "stats5.jpg",
       "AssetKind": "All",
@@ -1841,10 +1917,10 @@
       "OriginalItemSpec": "wwwroot/stats5.jpg"
     },
     {
-      "Identity": "/home/mertyuksel/Desktop/FullStackBP/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/tactics.jpeg",
+      "Identity": "/home/mertyuksel/Desktop/SUNUM/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/tactics.jpeg",
       "SourceId": "PROJEM",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/mertyuksel/Desktop/FullStackBP/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/",
+      "ContentRoot": "/home/mertyuksel/Desktop/SUNUM/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/",
       "BasePath": "_content/PROJEM",
       "RelativePath": "tactics.jpeg",
       "AssetKind": "All",
@@ -1860,10 +1936,10 @@
       "OriginalItemSpec": "wwwroot/tactics.jpeg"
     },
     {
-      "Identity": "/home/mertyuksel/Desktop/FullStackBP/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/taktik1.jpg",
+      "Identity": "/home/mertyuksel/Desktop/SUNUM/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/taktik1.jpg",
       "SourceId": "PROJEM",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/mertyuksel/Desktop/FullStackBP/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/",
+      "ContentRoot": "/home/mertyuksel/Desktop/SUNUM/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/",
       "BasePath": "_content/PROJEM",
       "RelativePath": "taktik1.jpg",
       "AssetKind": "All",
@@ -1879,10 +1955,10 @@
       "OriginalItemSpec": "wwwroot/taktik1.jpg"
     },
     {
-      "Identity": "/home/mertyuksel/Desktop/FullStackBP/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/taktik2.jpg",
+      "Identity": "/home/mertyuksel/Desktop/SUNUM/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/taktik2.jpg",
       "SourceId": "PROJEM",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/mertyuksel/Desktop/FullStackBP/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/",
+      "ContentRoot": "/home/mertyuksel/Desktop/SUNUM/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/",
       "BasePath": "_content/PROJEM",
       "RelativePath": "taktik2.jpg",
       "AssetKind": "All",
@@ -1898,10 +1974,10 @@
       "OriginalItemSpec": "wwwroot/taktik2.jpg"
     },
     {
-      "Identity": "/home/mertyuksel/Desktop/FullStackBP/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/taktik3.jpg",
+      "Identity": "/home/mertyuksel/Desktop/SUNUM/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/taktik3.jpg",
       "SourceId": "PROJEM",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/mertyuksel/Desktop/FullStackBP/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/",
+      "ContentRoot": "/home/mertyuksel/Desktop/SUNUM/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/",
       "BasePath": "_content/PROJEM",
       "RelativePath": "taktik3.jpg",
       "AssetKind": "All",
@@ -1917,10 +1993,10 @@
       "OriginalItemSpec": "wwwroot/taktik3.jpg"
     },
     {
-      "Identity": "/home/mertyuksel/Desktop/FullStackBP/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/tcctts.jpg",
+      "Identity": "/home/mertyuksel/Desktop/SUNUM/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/tcctts.jpg",
       "SourceId": "PROJEM",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/mertyuksel/Desktop/FullStackBP/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/",
+      "ContentRoot": "/home/mertyuksel/Desktop/SUNUM/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/",
       "BasePath": "_content/PROJEM",
       "RelativePath": "tcctts.jpg",
       "AssetKind": "All",
@@ -1936,10 +2012,10 @@
       "OriginalItemSpec": "wwwroot/tcctts.jpg"
     },
     {
-      "Identity": "/home/mertyuksel/Desktop/FullStackBP/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/tctic.jpg",
+      "Identity": "/home/mertyuksel/Desktop/SUNUM/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/tctic.jpg",
       "SourceId": "PROJEM",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/mertyuksel/Desktop/FullStackBP/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/",
+      "ContentRoot": "/home/mertyuksel/Desktop/SUNUM/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/",
       "BasePath": "_content/PROJEM",
       "RelativePath": "tctic.jpg",
       "AssetKind": "All",
@@ -1955,10 +2031,10 @@
       "OriginalItemSpec": "wwwroot/tctic.jpg"
     },
     {
-      "Identity": "/home/mertyuksel/Desktop/FullStackBP/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/teory1.jpg",
+      "Identity": "/home/mertyuksel/Desktop/SUNUM/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/teory1.jpg",
       "SourceId": "PROJEM",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/mertyuksel/Desktop/FullStackBP/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/",
+      "ContentRoot": "/home/mertyuksel/Desktop/SUNUM/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/",
       "BasePath": "_content/PROJEM",
       "RelativePath": "teory1.jpg",
       "AssetKind": "All",
@@ -1974,10 +2050,10 @@
       "OriginalItemSpec": "wwwroot/teory1.jpg"
     },
     {
-      "Identity": "/home/mertyuksel/Desktop/FullStackBP/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/teory2.jpg",
+      "Identity": "/home/mertyuksel/Desktop/SUNUM/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/teory2.jpg",
       "SourceId": "PROJEM",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/mertyuksel/Desktop/FullStackBP/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/",
+      "ContentRoot": "/home/mertyuksel/Desktop/SUNUM/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/",
       "BasePath": "_content/PROJEM",
       "RelativePath": "teory2.jpg",
       "AssetKind": "All",
@@ -1993,10 +2069,10 @@
       "OriginalItemSpec": "wwwroot/teory2.jpg"
     },
     {
-      "Identity": "/home/mertyuksel/Desktop/FullStackBP/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/unai-emery-122.jpg",
+      "Identity": "/home/mertyuksel/Desktop/SUNUM/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/unai-emery-122.jpg",
       "SourceId": "PROJEM",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/mertyuksel/Desktop/FullStackBP/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/",
+      "ContentRoot": "/home/mertyuksel/Desktop/SUNUM/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/",
       "BasePath": "_content/PROJEM",
       "RelativePath": "unai-emery-122.jpg",
       "AssetKind": "All",

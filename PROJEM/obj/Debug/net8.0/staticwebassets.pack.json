@@ -1,419 +1,435 @@
 {
   "Files": [
     {
-      "Id": "/home/mertyuksel/Desktop/FullStackBP/Full-Stack-Bitirme-Projesi/PROJEM/obj/Debug/net8.0/scopedcss/projectbundle/PROJEM.bundle.scp.css",
+      "Id": "/home/mertyuksel/Desktop/SUNUM/Full-Stack-Bitirme-Projesi/PROJEM/obj/Debug/net8.0/scopedcss/projectbundle/PROJEM.bundle.scp.css",
       "PackagePath": "staticwebassets/PROJEM.bundle.scp.css"
     },
     {
-      "Id": "/home/mertyuksel/Desktop/FullStackBP/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/Arteta(1).jpg",
+      "Id": "/home/mertyuksel/Desktop/SUNUM/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/Arteta(1).jpg",
       "PackagePath": "staticwebassets/Arteta(1).jpg"
     },
     {
-      "Id": "/home/mertyuksel/Desktop/FullStackBP/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/Corneer.jpg",
+      "Id": "/home/mertyuksel/Desktop/SUNUM/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/Corneer.jpg",
       "PackagePath": "staticwebassets/Corneer.jpg"
     },
     {
-      "Id": "/home/mertyuksel/Desktop/FullStackBP/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/D.Simeone.jpg",
+      "Id": "/home/mertyuksel/Desktop/SUNUM/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/D.Simeone.jpg",
       "PackagePath": "staticwebassets/D.Simeone.jpg"
     },
     {
-      "Id": "/home/mertyuksel/Desktop/FullStackBP/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/ORRANGE.jpg",
+      "Id": "/home/mertyuksel/Desktop/SUNUM/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/ORRANGE.jpg",
       "PackagePath": "staticwebassets/ORRANGE.jpg"
     },
     {
-      "Id": "/home/mertyuksel/Desktop/FullStackBP/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/atletico.jpg",
+      "Id": "/home/mertyuksel/Desktop/SUNUM/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/atletico.jpg",
       "PackagePath": "staticwebassets/atletico.jpg"
     },
     {
-      "Id": "/home/mertyuksel/Desktop/FullStackBP/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/coach.jpg",
+      "Id": "/home/mertyuksel/Desktop/SUNUM/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/coach.jpg",
       "PackagePath": "staticwebassets/coach.jpg"
     },
     {
-      "Id": "/home/mertyuksel/Desktop/FullStackBP/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/css/Forum.css",
+      "Id": "/home/mertyuksel/Desktop/SUNUM/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/css/Forum.css",
       "PackagePath": "staticwebassets/css/Forum.css"
     },
     {
-      "Id": "/home/mertyuksel/Desktop/FullStackBP/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/css/GirisYap.css",
+      "Id": "/home/mertyuksel/Desktop/SUNUM/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/css/GirisYap.css",
       "PackagePath": "staticwebassets/css/GirisYap.css"
     },
     {
-      "Id": "/home/mertyuksel/Desktop/FullStackBP/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/css/Index.css",
+      "Id": "/home/mertyuksel/Desktop/SUNUM/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/css/Index.css",
       "PackagePath": "staticwebassets/css/Index.css"
     },
     {
-      "Id": "/home/mertyuksel/Desktop/FullStackBP/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/css/UyeOl.css",
+      "Id": "/home/mertyuksel/Desktop/SUNUM/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/css/UyeOl.css",
       "PackagePath": "staticwebassets/css/UyeOl.css"
     },
     {
-      "Id": "/home/mertyuksel/Desktop/FullStackBP/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/css/font-awesome.min.css",
+      "Id": "/home/mertyuksel/Desktop/SUNUM/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/css/font-awesome.min.css",
       "PackagePath": "staticwebassets/css/font-awesome.min.css"
     },
     {
-      "Id": "/home/mertyuksel/Desktop/FullStackBP/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/css/main.css",
+      "Id": "/home/mertyuksel/Desktop/SUNUM/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/css/main.css",
       "PackagePath": "staticwebassets/css/main.css"
     },
     {
-      "Id": "/home/mertyuksel/Desktop/FullStackBP/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/css/site.css",
+      "Id": "/home/mertyuksel/Desktop/SUNUM/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/css/site.css",
       "PackagePath": "staticwebassets/css/site.css"
     },
     {
-      "Id": "/home/mertyuksel/Desktop/FullStackBP/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/css/urunler.css",
+      "Id": "/home/mertyuksel/Desktop/SUNUM/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/css/urunler.css",
       "PackagePath": "staticwebassets/css/urunler.css"
     },
     {
-      "Id": "/home/mertyuksel/Desktop/FullStackBP/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/dark.jpg",
+      "Id": "/home/mertyuksel/Desktop/SUNUM/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/dark.jpg",
       "PackagePath": "staticwebassets/dark.jpg"
     },
     {
-      "Id": "/home/mertyuksel/Desktop/FullStackBP/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/epl1.jpg",
+      "Id": "/home/mertyuksel/Desktop/SUNUM/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/deneme1.jpg",
+      "PackagePath": "staticwebassets/deneme1.jpg"
+    },
+    {
+      "Id": "/home/mertyuksel/Desktop/SUNUM/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/deneme2.jpg",
+      "PackagePath": "staticwebassets/deneme2.jpg"
+    },
+    {
+      "Id": "/home/mertyuksel/Desktop/SUNUM/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/deneme3.jpg",
+      "PackagePath": "staticwebassets/deneme3.jpg"
+    },
+    {
+      "Id": "/home/mertyuksel/Desktop/SUNUM/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/deneme4.jpg",
+      "PackagePath": "staticwebassets/deneme4.jpg"
+    },
+    {
+      "Id": "/home/mertyuksel/Desktop/SUNUM/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/epl1.jpg",
       "PackagePath": "staticwebassets/epl1.jpg"
     },
     {
-      "Id": "/home/mertyuksel/Desktop/FullStackBP/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/epl2.jpg",
+      "Id": "/home/mertyuksel/Desktop/SUNUM/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/epl2.jpg",
       "PackagePath": "staticwebassets/epl2.jpg"
     },
     {
-      "Id": "/home/mertyuksel/Desktop/FullStackBP/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/epl3.jpg",
+      "Id": "/home/mertyuksel/Desktop/SUNUM/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/epl3.jpg",
       "PackagePath": "staticwebassets/epl3.jpg"
     },
     {
-      "Id": "/home/mertyuksel/Desktop/FullStackBP/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/favicon.ico",
+      "Id": "/home/mertyuksel/Desktop/SUNUM/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/favicon.ico",
       "PackagePath": "staticwebassets/favicon.ico"
     },
     {
-      "Id": "/home/mertyuksel/Desktop/FullStackBP/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/fifa.jpeg",
+      "Id": "/home/mertyuksel/Desktop/SUNUM/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/fifa.jpeg",
       "PackagePath": "staticwebassets/fifa.jpeg"
     },
     {
-      "Id": "/home/mertyuksel/Desktop/FullStackBP/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/js/Forum.js",
+      "Id": "/home/mertyuksel/Desktop/SUNUM/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/js/Forum.js",
       "PackagePath": "staticwebassets/js/Forum.js"
     },
     {
-      "Id": "/home/mertyuksel/Desktop/FullStackBP/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/js/jquery.min.js",
+      "Id": "/home/mertyuksel/Desktop/SUNUM/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/js/jquery.min.js",
       "PackagePath": "staticwebassets/js/jquery.min.js"
     },
     {
-      "Id": "/home/mertyuksel/Desktop/FullStackBP/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/js/main.js",
+      "Id": "/home/mertyuksel/Desktop/SUNUM/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/js/main.js",
       "PackagePath": "staticwebassets/js/main.js"
     },
     {
-      "Id": "/home/mertyuksel/Desktop/FullStackBP/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/js/site.js",
+      "Id": "/home/mertyuksel/Desktop/SUNUM/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/js/site.js",
       "PackagePath": "staticwebassets/js/site.js"
     },
     {
-      "Id": "/home/mertyuksel/Desktop/FullStackBP/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/js/skel.min.js",
+      "Id": "/home/mertyuksel/Desktop/SUNUM/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/js/skel.min.js",
       "PackagePath": "staticwebassets/js/skel.min.js"
     },
     {
-      "Id": "/home/mertyuksel/Desktop/FullStackBP/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/js/sorucevap.js",
+      "Id": "/home/mertyuksel/Desktop/SUNUM/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/js/sorucevap.js",
       "PackagePath": "staticwebassets/js/sorucevap.js"
     },
     {
-      "Id": "/home/mertyuksel/Desktop/FullStackBP/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/js/util.js",
+      "Id": "/home/mertyuksel/Desktop/SUNUM/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/js/util.js",
       "PackagePath": "staticwebassets/js/util.js"
     },
     {
-      "Id": "/home/mertyuksel/Desktop/FullStackBP/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/lib/bootstrap/LICENSE",
+      "Id": "/home/mertyuksel/Desktop/SUNUM/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/lib/bootstrap/LICENSE",
       "PackagePath": "staticwebassets/lib/bootstrap"
     },
     {
-      "Id": "/home/mertyuksel/Desktop/FullStackBP/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css",
+      "Id": "/home/mertyuksel/Desktop/SUNUM/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.css"
     },
     {
-      "Id": "/home/mertyuksel/Desktop/FullStackBP/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css.map",
+      "Id": "/home/mertyuksel/Desktop/SUNUM/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css.map",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.css.map"
     },
     {
-      "Id": "/home/mertyuksel/Desktop/FullStackBP/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css",
+      "Id": "/home/mertyuksel/Desktop/SUNUM/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.min.css"
     },
     {
-      "Id": "/home/mertyuksel/Desktop/FullStackBP/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
+      "Id": "/home/mertyuksel/Desktop/SUNUM/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.min.css.map"
     },
     {
-      "Id": "/home/mertyuksel/Desktop/FullStackBP/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.css",
+      "Id": "/home/mertyuksel/Desktop/SUNUM/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.css",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.rtl.css"
     },
     {
-      "Id": "/home/mertyuksel/Desktop/FullStackBP/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map",
+      "Id": "/home/mertyuksel/Desktop/SUNUM/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map"
     },
     {
-      "Id": "/home/mertyuksel/Desktop/FullStackBP/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css",
+      "Id": "/home/mertyuksel/Desktop/SUNUM/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css"
     },
     {
-      "Id": "/home/mertyuksel/Desktop/FullStackBP/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map",
+      "Id": "/home/mertyuksel/Desktop/SUNUM/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Id": "/home/mertyuksel/Desktop/FullStackBP/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css",
+      "Id": "/home/mertyuksel/Desktop/SUNUM/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.css"
     },
     {
-      "Id": "/home/mertyuksel/Desktop/FullStackBP/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css.map",
+      "Id": "/home/mertyuksel/Desktop/SUNUM/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css.map",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.css.map"
     },
     {
-      "Id": "/home/mertyuksel/Desktop/FullStackBP/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css",
+      "Id": "/home/mertyuksel/Desktop/SUNUM/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.min.css"
     },
     {
-      "Id": "/home/mertyuksel/Desktop/FullStackBP/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
+      "Id": "/home/mertyuksel/Desktop/SUNUM/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.min.css.map"
     },
     {
-      "Id": "/home/mertyuksel/Desktop/FullStackBP/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css",
+      "Id": "/home/mertyuksel/Desktop/SUNUM/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css"
     },
     {
-      "Id": "/home/mertyuksel/Desktop/FullStackBP/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map",
+      "Id": "/home/mertyuksel/Desktop/SUNUM/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map"
     },
     {
-      "Id": "/home/mertyuksel/Desktop/FullStackBP/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css",
+      "Id": "/home/mertyuksel/Desktop/SUNUM/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css"
     },
     {
-      "Id": "/home/mertyuksel/Desktop/FullStackBP/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map",
+      "Id": "/home/mertyuksel/Desktop/SUNUM/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "Id": "/home/mertyuksel/Desktop/FullStackBP/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.css",
+      "Id": "/home/mertyuksel/Desktop/SUNUM/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.css",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.css"
     },
     {
-      "Id": "/home/mertyuksel/Desktop/FullStackBP/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.css.map",
+      "Id": "/home/mertyuksel/Desktop/SUNUM/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.css.map",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.css.map"
     },
     {
-      "Id": "/home/mertyuksel/Desktop/FullStackBP/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.min.css",
+      "Id": "/home/mertyuksel/Desktop/SUNUM/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.min.css",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.min.css"
     },
     {
-      "Id": "/home/mertyuksel/Desktop/FullStackBP/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.min.css.map",
+      "Id": "/home/mertyuksel/Desktop/SUNUM/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.min.css.map",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.min.css.map"
     },
     {
-      "Id": "/home/mertyuksel/Desktop/FullStackBP/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css",
+      "Id": "/home/mertyuksel/Desktop/SUNUM/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css"
     },
     {
-      "Id": "/home/mertyuksel/Desktop/FullStackBP/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map",
+      "Id": "/home/mertyuksel/Desktop/SUNUM/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map"
     },
     {
-      "Id": "/home/mertyuksel/Desktop/FullStackBP/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css",
+      "Id": "/home/mertyuksel/Desktop/SUNUM/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css"
     },
     {
-      "Id": "/home/mertyuksel/Desktop/FullStackBP/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map",
+      "Id": "/home/mertyuksel/Desktop/SUNUM/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map"
     },
     {
-      "Id": "/home/mertyuksel/Desktop/FullStackBP/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/lib/bootstrap/dist/css/bootstrap.css",
+      "Id": "/home/mertyuksel/Desktop/SUNUM/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/lib/bootstrap/dist/css/bootstrap.css",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.css"
     },
     {
-      "Id": "/home/mertyuksel/Desktop/FullStackBP/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/lib/bootstrap/dist/css/bootstrap.css.map",
+      "Id": "/home/mertyuksel/Desktop/SUNUM/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/lib/bootstrap/dist/css/bootstrap.css.map",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.css.map"
     },
     {
-      "Id": "/home/mertyuksel/Desktop/FullStackBP/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/lib/bootstrap/dist/css/bootstrap.min.css",
+      "Id": "/home/mertyuksel/Desktop/SUNUM/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/lib/bootstrap/dist/css/bootstrap.min.css",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.min.css"
     },
     {
-      "Id": "/home/mertyuksel/Desktop/FullStackBP/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/lib/bootstrap/dist/css/bootstrap.min.css.map",
+      "Id": "/home/mertyuksel/Desktop/SUNUM/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/lib/bootstrap/dist/css/bootstrap.min.css.map",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.min.css.map"
     },
     {
-      "Id": "/home/mertyuksel/Desktop/FullStackBP/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.css",
+      "Id": "/home/mertyuksel/Desktop/SUNUM/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.css",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.rtl.css"
     },
     {
-      "Id": "/home/mertyuksel/Desktop/FullStackBP/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.css.map",
+      "Id": "/home/mertyuksel/Desktop/SUNUM/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.css.map",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.rtl.css.map"
     },
     {
-      "Id": "/home/mertyuksel/Desktop/FullStackBP/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.min.css",
+      "Id": "/home/mertyuksel/Desktop/SUNUM/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.min.css",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.rtl.min.css"
     },
     {
-      "Id": "/home/mertyuksel/Desktop/FullStackBP/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.min.css.map",
+      "Id": "/home/mertyuksel/Desktop/SUNUM/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.min.css.map",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.rtl.min.css.map"
     },
     {
-      "Id": "/home/mertyuksel/Desktop/FullStackBP/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js",
+      "Id": "/home/mertyuksel/Desktop/SUNUM/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.js"
     },
     {
-      "Id": "/home/mertyuksel/Desktop/FullStackBP/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js.map",
+      "Id": "/home/mertyuksel/Desktop/SUNUM/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js.map",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.js.map"
     },
     {
-      "Id": "/home/mertyuksel/Desktop/FullStackBP/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js",
+      "Id": "/home/mertyuksel/Desktop/SUNUM/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.min.js"
     },
     {
-      "Id": "/home/mertyuksel/Desktop/FullStackBP/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
+      "Id": "/home/mertyuksel/Desktop/SUNUM/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.min.js.map"
     },
     {
-      "Id": "/home/mertyuksel/Desktop/FullStackBP/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.js",
+      "Id": "/home/mertyuksel/Desktop/SUNUM/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.js",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.esm.js"
     },
     {
-      "Id": "/home/mertyuksel/Desktop/FullStackBP/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.js.map",
+      "Id": "/home/mertyuksel/Desktop/SUNUM/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.js.map",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.esm.js.map"
     },
     {
-      "Id": "/home/mertyuksel/Desktop/FullStackBP/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.min.js",
+      "Id": "/home/mertyuksel/Desktop/SUNUM/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.min.js",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.esm.min.js"
     },
     {
-      "Id": "/home/mertyuksel/Desktop/FullStackBP/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.min.js.map",
+      "Id": "/home/mertyuksel/Desktop/SUNUM/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.min.js.map",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.esm.min.js.map"
     },
     {
-      "Id": "/home/mertyuksel/Desktop/FullStackBP/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/lib/bootstrap/dist/js/bootstrap.js",
+      "Id": "/home/mertyuksel/Desktop/SUNUM/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/lib/bootstrap/dist/js/bootstrap.js",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.js"
     },
     {
-      "Id": "/home/mertyuksel/Desktop/FullStackBP/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/lib/bootstrap/dist/js/bootstrap.js.map",
+      "Id": "/home/mertyuksel/Desktop/SUNUM/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/lib/bootstrap/dist/js/bootstrap.js.map",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.js.map"
     },
     {
-      "Id": "/home/mertyuksel/Desktop/FullStackBP/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/lib/bootstrap/dist/js/bootstrap.min.js",
+      "Id": "/home/mertyuksel/Desktop/SUNUM/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/lib/bootstrap/dist/js/bootstrap.min.js",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.min.js"
     },
     {
-      "Id": "/home/mertyuksel/Desktop/FullStackBP/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/lib/bootstrap/dist/js/bootstrap.min.js.map",
+      "Id": "/home/mertyuksel/Desktop/SUNUM/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/lib/bootstrap/dist/js/bootstrap.min.js.map",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.min.js.map"
     },
     {
-      "Id": "/home/mertyuksel/Desktop/FullStackBP/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/lib/jquery-validation-unobtrusive/LICENSE.txt",
+      "Id": "/home/mertyuksel/Desktop/SUNUM/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/lib/jquery-validation-unobtrusive/LICENSE.txt",
       "PackagePath": "staticwebassets/lib/jquery-validation-unobtrusive/LICENSE.txt"
     },
     {
-      "Id": "/home/mertyuksel/Desktop/FullStackBP/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
+      "Id": "/home/mertyuksel/Desktop/SUNUM/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
       "PackagePath": "staticwebassets/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js"
     },
     {
-      "Id": "/home/mertyuksel/Desktop/FullStackBP/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
+      "Id": "/home/mertyuksel/Desktop/SUNUM/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
       "PackagePath": "staticwebassets/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js"
     },
     {
-      "Id": "/home/mertyuksel/Desktop/FullStackBP/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/lib/jquery-validation/LICENSE.md",
+      "Id": "/home/mertyuksel/Desktop/SUNUM/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/lib/jquery-validation/LICENSE.md",
       "PackagePath": "staticwebassets/lib/jquery-validation/LICENSE.md"
     },
     {
-      "Id": "/home/mertyuksel/Desktop/FullStackBP/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/lib/jquery-validation/dist/additional-methods.js",
+      "Id": "/home/mertyuksel/Desktop/SUNUM/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/lib/jquery-validation/dist/additional-methods.js",
       "PackagePath": "staticwebassets/lib/jquery-validation/dist/additional-methods.js"
     },
     {
-      "Id": "/home/mertyuksel/Desktop/FullStackBP/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/lib/jquery-validation/dist/additional-methods.min.js",
+      "Id": "/home/mertyuksel/Desktop/SUNUM/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/lib/jquery-validation/dist/additional-methods.min.js",
       "PackagePath": "staticwebassets/lib/jquery-validation/dist/additional-methods.min.js"
     },
     {
-      "Id": "/home/mertyuksel/Desktop/FullStackBP/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/lib/jquery-validation/dist/jquery.validate.js",
+      "Id": "/home/mertyuksel/Desktop/SUNUM/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/lib/jquery-validation/dist/jquery.validate.js",
       "PackagePath": "staticwebassets/lib/jquery-validation/dist/jquery.validate.js"
     },
     {
-      "Id": "/home/mertyuksel/Desktop/FullStackBP/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/lib/jquery-validation/dist/jquery.validate.min.js",
+      "Id": "/home/mertyuksel/Desktop/SUNUM/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/lib/jquery-validation/dist/jquery.validate.min.js",
       "PackagePath": "staticwebassets/lib/jquery-validation/dist/jquery.validate.min.js"
     },
     {
-      "Id": "/home/mertyuksel/Desktop/FullStackBP/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/lib/jquery/LICENSE.txt",
+      "Id": "/home/mertyuksel/Desktop/SUNUM/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/lib/jquery/LICENSE.txt",
       "PackagePath": "staticwebassets/lib/jquery/LICENSE.txt"
     },
     {
-      "Id": "/home/mertyuksel/Desktop/FullStackBP/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/lib/jquery/dist/jquery.js",
+      "Id": "/home/mertyuksel/Desktop/SUNUM/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/lib/jquery/dist/jquery.js",
       "PackagePath": "staticwebassets/lib/jquery/dist/jquery.js"
     },
     {
-      "Id": "/home/mertyuksel/Desktop/FullStackBP/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/lib/jquery/dist/jquery.min.js",
+      "Id": "/home/mertyuksel/Desktop/SUNUM/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/lib/jquery/dist/jquery.min.js",
       "PackagePath": "staticwebassets/lib/jquery/dist/jquery.min.js"
     },
     {
-      "Id": "/home/mertyuksel/Desktop/FullStackBP/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/lib/jquery/dist/jquery.min.map",
+      "Id": "/home/mertyuksel/Desktop/SUNUM/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/lib/jquery/dist/jquery.min.map",
       "PackagePath": "staticwebassets/lib/jquery/dist/jquery.min.map"
     },
     {
-      "Id": "/home/mertyuksel/Desktop/FullStackBP/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/nages(2).jpg",
+      "Id": "/home/mertyuksel/Desktop/SUNUM/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/nages(2).jpg",
       "PackagePath": "staticwebassets/nages(2).jpg"
     },
     {
-      "Id": "/home/mertyuksel/Desktop/FullStackBP/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/orange.jpg",
+      "Id": "/home/mertyuksel/Desktop/SUNUM/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/orange.jpg",
       "PackagePath": "staticwebassets/orange.jpg"
     },
     {
-      "Id": "/home/mertyuksel/Desktop/FullStackBP/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/rteta.jpg",
+      "Id": "/home/mertyuksel/Desktop/SUNUM/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/rteta.jpg",
       "PackagePath": "staticwebassets/rteta.jpg"
     },
     {
-      "Id": "/home/mertyuksel/Desktop/FullStackBP/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/satien.jpg",
+      "Id": "/home/mertyuksel/Desktop/SUNUM/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/satien.jpg",
       "PackagePath": "staticwebassets/satien.jpg"
     },
     {
-      "Id": "/home/mertyuksel/Desktop/FullStackBP/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/setpiece.jpg",
+      "Id": "/home/mertyuksel/Desktop/SUNUM/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/setpiece.jpg",
       "PackagePath": "staticwebassets/setpiece.jpg"
     },
     {
-      "Id": "/home/mertyuksel/Desktop/FullStackBP/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/stats.jpg",
+      "Id": "/home/mertyuksel/Desktop/SUNUM/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/stats.jpg",
       "PackagePath": "staticwebassets/stats.jpg"
     },
     {
-      "Id": "/home/mertyuksel/Desktop/FullStackBP/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/stats2.jpg",
+      "Id": "/home/mertyuksel/Desktop/SUNUM/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/stats2.jpg",
       "PackagePath": "staticwebassets/stats2.jpg"
     },
     {
-      "Id": "/home/mertyuksel/Desktop/FullStackBP/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/stats3.jpg",
+      "Id": "/home/mertyuksel/Desktop/SUNUM/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/stats3.jpg",
       "PackagePath": "staticwebassets/stats3.jpg"
     },
     {
-      "Id": "/home/mertyuksel/Desktop/FullStackBP/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/stats4.jpg",
+      "Id": "/home/mertyuksel/Desktop/SUNUM/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/stats4.jpg",
       "PackagePath": "staticwebassets/stats4.jpg"
     },
     {
-      "Id": "/home/mertyuksel/Desktop/FullStackBP/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/stats5.jpg",
+      "Id": "/home/mertyuksel/Desktop/SUNUM/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/stats5.jpg",
       "PackagePath": "staticwebassets/stats5.jpg"
     },
     {
-      "Id": "/home/mertyuksel/Desktop/FullStackBP/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/tactics.jpeg",
+      "Id": "/home/mertyuksel/Desktop/SUNUM/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/tactics.jpeg",
       "PackagePath": "staticwebassets/tactics.jpeg"
     },
     {
-      "Id": "/home/mertyuksel/Desktop/FullStackBP/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/taktik1.jpg",
+      "Id": "/home/mertyuksel/Desktop/SUNUM/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/taktik1.jpg",
       "PackagePath": "staticwebassets/taktik1.jpg"
     },
     {
-      "Id": "/home/mertyuksel/Desktop/FullStackBP/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/taktik2.jpg",
+      "Id": "/home/mertyuksel/Desktop/SUNUM/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/taktik2.jpg",
       "PackagePath": "staticwebassets/taktik2.jpg"
     },
     {
-      "Id": "/home/mertyuksel/Desktop/FullStackBP/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/taktik3.jpg",
+      "Id": "/home/mertyuksel/Desktop/SUNUM/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/taktik3.jpg",
       "PackagePath": "staticwebassets/taktik3.jpg"
     },
     {
-      "Id": "/home/mertyuksel/Desktop/FullStackBP/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/tcctts.jpg",
+      "Id": "/home/mertyuksel/Desktop/SUNUM/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/tcctts.jpg",
       "PackagePath": "staticwebassets/tcctts.jpg"
     },
     {
-      "Id": "/home/mertyuksel/Desktop/FullStackBP/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/tctic.jpg",
+      "Id": "/home/mertyuksel/Desktop/SUNUM/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/tctic.jpg",
       "PackagePath": "staticwebassets/tctic.jpg"
     },
     {
-      "Id": "/home/mertyuksel/Desktop/FullStackBP/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/teory1.jpg",
+      "Id": "/home/mertyuksel/Desktop/SUNUM/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/teory1.jpg",
       "PackagePath": "staticwebassets/teory1.jpg"
     },
     {
-      "Id": "/home/mertyuksel/Desktop/FullStackBP/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/teory2.jpg",
+      "Id": "/home/mertyuksel/Desktop/SUNUM/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/teory2.jpg",
       "PackagePath": "staticwebassets/teory2.jpg"
     },
     {
-      "Id": "/home/mertyuksel/Desktop/FullStackBP/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/unai-emery-122.jpg",
+      "Id": "/home/mertyuksel/Desktop/SUNUM/Full-Stack-Bitirme-Projesi/PROJEM/wwwroot/unai-emery-122.jpg",
       "PackagePath": "staticwebassets/unai-emery-122.jpg"
     },
     {

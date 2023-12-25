@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "wK7Fa0SGanwuZG7H5GlzGN0M6HIt4+2v8Ez4r8+ha2fllmNfPr1g+SDGFJHwabewpDYHzsZVqAkSvm+WGb8zUw==",
+  "dgSpecHash": "y3vR1tijRGMH4dHs/HT9SkveTuVKZ2LF+vH6Wm/zWUlxqR2YhZp4qVKdQHsUkMIFVo3LKw0Z4pk6LAoaT/XKYg==",
   "success": true,
-  "projectFilePath": "/home/mertyuksel/Desktop/FullStackBP/Full-Stack-Bitirme-Projesi/PROJEM/PROJEM.csproj",
+  "projectFilePath": "/home/mertyuksel/Desktop/SUNUM/Full-Stack-Bitirme-Projesi/PROJEM/PROJEM.csproj",
   "expectedPackageFiles": [
     "/home/mertyuksel/.nuget/packages/humanizer.core/2.14.1/humanizer.core.2.14.1.nupkg.sha512",
     "/home/mertyuksel/.nuget/packages/microsoft.aspnetcore.cryptography.internal/7.0.10/microsoft.aspnetcore.cryptography.internal.7.0.10.nupkg.sha512",
